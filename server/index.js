@@ -12,8 +12,8 @@ const app = express();
 const Mongodb_Url= process.env.MONGODB_URI ;
 const PORT = process.env.PORT || 3000;
 const allowedOrigins = process.env.NODE_ENV === 'production'
-  ? ['https://mandioserp.com', 'https://www.mandioserp.com', 'http://localhost:3000']
-  : ['https://mandioserp.com', 'https://www.mandioserp.com', 'http://localhost:5173', 'http://localhost:3000'];
+  ? [ 'https://www.demo.mandioserp.com', 'http://localhost:3000']
+  : [ 'https://www.demo.mandioserp.com', 'http://localhost:5173', 'http://localhost:3000'];
 
 if (process.env.NODE_ENV === 'production' && !process.env.JWT_SECRET) {
   console.error('Server startup failed: JWT_SECRET is required in production.');
