@@ -1,0 +1,6 @@
+{
+  "name": "Mandi Stock Broker Management System",
+  "description": "A comprehensive Stock Broker Management System for Sabzi & Fruit Mandi featuring role-based dashboards, inventory tracking, sales, stock entries, accounting ledgers, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

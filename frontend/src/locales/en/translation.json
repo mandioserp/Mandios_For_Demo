@@ -1,0 +1,2837 @@
+{
+  "Daily & Financial": "Daily & Financial",
+  "Core daily transaction logs, party ledgers, and financial accounting reports.": "Core daily transaction logs, party ledgers, and financial accounting reports.",
+  "Operations": "Operations",
+  "Crate inventory, beopari/grower advances, attendance logs, and market fee compliance.": "Crate inventory, beopari/grower advances, attendance logs, and market fee compliance.",
+  "Analytics": "Analytics",
+  "Commodity price trends, commercial partner leaderboards, and profit margins.": "Commodity price trends, commercial partner leaderboards, and profit margins.",
+  "Day Book (Roznamcha)": "Day Book (Roznamcha)",
+  "Every transaction across all parties recorded sequentially for a chosen date range with cash till balance and mandi trading audit.": "Every transaction across all parties recorded sequentially for a chosen date range with cash till balance and mandi trading audit.",
+  "Party Ledger / Khata": "Party Ledger / Khata",
+  "Full transaction statement and running account balance history for a single customer or beopari/grower.": "Full transaction statement and running account balance history for a single customer or beopari/grower.",
+  "Lot-wise Sales Report": "Lot-wise Sales Report",
+  "Detailed breakdown of every consignment lot sold, with buyer allocations and sale rates.": "Detailed breakdown of every consignment lot sold, with buyer allocations and sale rates.",
+  "Commission (Aarhat) Report": "Commission (Aarhat) Report",
+  "Brokerage commission earned by the Mandi agency across transactions.": "Brokerage commission earned by the Mandi agency across transactions.",
+  "Outstanding / Udhaar Report": "Outstanding / Udhaar Report",
+  "Aging analysis of pending receivables owed by buyers to manage credit risk.": "Aging analysis of pending receivables owed by buyers to manage credit risk.",
+  "Cash / Bank Book": "Cash / Bank Book",
+  "Real-time record of cash and bank account receipts, walk-in customer cash sales, beopari/grower payouts, and net liquidity balances.": "Real-time record of cash and bank account receipts, walk-in customer cash sales, beopari/grower payouts, and net liquidity balances.",
+  "Bardana / Crate Report": "Bardana / Crate Report",
+  "2-Way balance ledger auditing beopari/grower inward vs customer outward crate movements and direct return settlements.": "2-Way balance ledger auditing beopari/grower inward vs customer outward crate movements and direct return settlements.",
+  "Peshgi / Advance Report": "Peshgi / Advance Report",
+  "Separation of Beopari/Grower vs Customer Peshgi with real-time auto-deductions and recovery tracking.": "Separation of Beopari/Grower vs Customer Peshgi with real-time auto-deductions and recovery tracking.",
+  "Absent Party Report": "Absent Party Report",
+  "Identify regular beopari/growers who have not delivered any crop arrivals on a given date for proactive follow-up.": "Identify regular beopari/growers who have not delivered any crop arrivals on a given date for proactive follow-up.",
+  "Beopari/Grower Expense Deductions Report": "Beopari/Grower Expense Deductions Report",
+  "Itemized audit of freight, labor (hamali), crates, commissions, and lot-specific deductions withheld from beopari/grower consignments.": "Itemized audit of freight, labor (hamali), crates, commissions, and lot-specific deductions withheld from beopari/grower consignments.",
+  "Beopari/Grower Payables Report": "Beopari/Grower Payables Report",
+  "Summary of net amounts owed to farmers/beopari-growers for sold consignments, with payment aging.": "Summary of net amounts owed to farmers/beopari-growers for sold consignments, with payment aging.",
+  "Market Fee / Committee Levy Report": "Market Fee / Committee Levy Report",
+  "Official statutory audit register computing government Market Committee levies (مارکیٹ کمیٹی فیس / لیوی) on consignment gross turnovers.": "Official statutory audit register computing government Market Committee levies on consignment gross turnovers.",
+  "Mandi Expenses & Deductions Report": "Mandi Expenses & Deductions Report",
+  "Itemized breakdown of labor (hamali), weighing (tulai), transport, and shop operating expenses.": "Itemized breakdown of labor (hamali), weighing (tulai), transport, and shop operating expenses.",
+  "Item-wise Price Trend": "Item-wise Price Trend",
+  "Historical commodity rate trajectories tracking real-time daily average, minimum, and maximum selling rates per commodity over time.": "Historical commodity rate trajectories tracking real-time daily average, minimum, and maximum selling rates per commodity over time.",
+  "Top Beopari/Growers & Buyers": "Top Beopari/Growers & Buyers",
+  "Ranked leaderboard of top beopari/growers by supply volume and top buyers by purchase value.": "Ranked leaderboard of top beopari/growers by supply volume and top buyers by purchase value.",
+  "Monthly Profit Summary": "Monthly Profit Summary",
+  "Financial performance report summarizing monthly brokerage commission revenue (Customer + Beopari/Grower) and miscellaneous income minus shop operating expenses.": "Financial performance report summarizing monthly brokerage commission revenue and miscellaneous income minus shop operating expenses.",
+  "Stock & Unsold Lot Report": "Stock & Unsold Lot Report",
+  "Audit of unsold consignment lots categorized by aging days to flag perishability and spoilage risk.": "Audit of unsold consignment lots categorized by aging days to flag perishability and spoilage risk.",
+  "Centralized Intelligence & Auditing": "Centralized Intelligence & Auditing",
+  "Reports Hub": "Reports Hub",
+  "Access real-time financial, operational, and business analytics reports for Mandi OS. Select a report below to inspect detailed transaction ledgers, charts, and downloadable statements.": "Access real-time financial, operational, and business analytics reports for Mandi OS. Select a report below to inspect detailed transaction ledgers, charts, and downloadable statements.",
+  "Active Role": "Active Role",
+  "Available Reports": "Available Reports",
+  "Search report name, description or metrics...": "Search report name, description or metrics...",
+  "All Tiers": "All Tiers",
+  "Tier": "Tier",
+  "Open in new window": "Open in new window",
+  "View Report": "View Report",
+  "No reports matched your filter": "No reports matched your filter",
+  "Try clearing your search keyword or switching your tier filter.": "Try clearing your search keyword or switching your tier filter.",
+  "Reset Filters": "Reset Filters",
+  "Settings Panels": "Settings Panels",
+  "Configure system-wide parameters.": "Configure system-wide parameters.",
+  "Your user role is not authorized to view this report.": "Your user role is not authorized to view this report.",
+  "All Buyers": "All Buyers",
+  "Export CSV": "Export CSV",
+  "Export PDF": "Export PDF",
+  "Generating report query and aggregations...": "Generating report query and aggregations.",
+  "Mandi Broker": "Mandi Broker",
+  "Home": "Home",
+  "Sabzi & Fruit System": "Sabzi & Fruit System",
+  "Clerks / Employees": "Clerks / Employees",
+  "Suppliers Catalog": "Suppliers Catalog",
+  "Customers Portfolio": "Customers Portfolio",
+  "Stock Supplies": "Stock Supplies",
+  "Sales Ledger": "Sales Ledger",
+  "Financial Reports": "Financial Reports",
+  "Mandi Trade Ledger": "Mandi Trade Ledger",
+  "Sabzi & Fruit Commission Brokerage Engine": "Sabzi & Fruit Commission Brokerage Engine",
+  "Supplier Stock": "Supplier Stock",
+  "Products List": "Products List",
+  "Select Language": "Select Language",
+  "Mandi Broker Management": "Mandi Broker Management",
+  "Sabzi & Fruit Commission Trade Engine": "Sabzi & Fruit Commission Trade Engine",
+  "Password Key": "Password Key",
+  "System Role Access": "System Role Access",
+  "Admin (Full Control)": "Admin (Full Control)",
+  "Clerk (Desk Operator)": "Clerk (Desk Operator)",
+  "Customer (Buyer)": "Customer (Buyer)",
+  "Supplier (Farmer/Grower)": "Supplier (Farmer/Grower)",
+  "Authenticating Trade Access...": "Authenticating Trade Access...",
+  "Sign In To Mandi": "Sign In To Mandi",
+  "Demo Credentials:": "Demo Credentials:",
+  "Total Stock Inward": "Total Stock Inward",
+  "Total Sales Handled": "Total Sales Handled",
+  "Active Accounts": "Active Accounts",
+  "Brokerage Commission": "Brokerage Commission",
+  "Gross Commissions": "Gross Commissions",
+  "Total Receivables": "Total Receivables",
+  "Total Payables": "Total Payables",
+  "Overall Cash Balance": "Overall Cash Balance",
+  "Overview Statistics": "Overview Statistics",
+  "Live Mandi Commission Brokerage Analytics": "Live Mandi Commission Brokerage Analytics",
+  "Net Balance": "Net Balance",
+  "Active Clerks": "Active Clerks",
+  "Suppliers": "Suppliers",
+  "Customers": "Customers",
+  "Products": "Products",
+  "Stock Entries": "Stock Entries",
+  "Payments": "Payments",
+  "Audit Logs": "Audit Logs",
+  "Search...": "Search...",
+  "Add": "Add",
+  "Delete": "Delete",
+  "Edit": "Edit",
+  "Name": "Name",
+  "Phone": "Phone",
+  "Address": "Address",
+  "Role": "Role",
+  "Type": "Type",
+  "Description": "Description",
+  "Category": "Category",
+  "Unit": "Unit",
+  "Remaining": "Remaining",
+  "Discount": "Discount",
+  "Net Total": "Net Total",
+  "Party Name": "Party Name",
+  "Party Type": "Party Type",
+  "Payment Mode": "Payment Mode",
+  "Cash": "Cash",
+  "Bank": "Bank",
+  "Check": "Check",
+  "Inward Stock": "Inward Stock",
+  "Outward Sales": "Outward Sales",
+  "Add New Clerk": "Add New Clerk",
+  "ADD NEW BEOPARI": "ADD NEW BEOPARI",
+  "Add New Customer": "Add New Customer",
+  "Add New Product": "Add New Product",
+  "Record Stock Inward": "Record Stock Inward",
+  "Record Sales Invoice": "Record Sales Invoice",
+  "Record Payment / Receipt": "Record Payment / Receipt",
+  "Supplier / Grower": "Supplier / Grower",
+  "Party Select": "Party Select",
+  "Select Name": "Select Name",
+  "Select Product": "Select Product",
+  "Select Supplier": "Select Supplier",
+  "Select Customer": "Select Customer",
+  "Purchase Rate": "Purchase Rate",
+  "Market Sale Rate": "Market Sale Rate",
+  "Sale Rate": "Sale Rate",
+  "Save Details": "Save Details",
+  "Submitting...": "Submitting...",
+  "Receivable": "Receivable",
+  "Payable": "Payable",
+  "Debt": "Debt",
+  "All Suppliers": "All Suppliers",
+  "All Customers": "All Customers",
+  "All Products": "All Products",
+  "Today's Supplies": "Today's Supplies",
+  "Today's Sales": "Today's Sales",
+  "Low Stock Warnings!": "Low Stock Warnings!",
+  "Recent Stock Supplies (Purchase)": "Recent Stock Supplies (Purchase)",
+  "Recent Sales Tickets": "Recent Sales Tickets",
+  "Agriculture Stock Supplies": "Agriculture Stock Supplies",
+  "Add, edit, or delete shipments supplied by growers and farmers": "Add, edit, or delete shipments supplied by growers and farmers",
+  "RECORD NEW SHIPMENT": "RECORD NEW SHIPMENT",
+  "Search supplies...": "Search supplies...",
+  "Supplier Name": "Supplier Name",
+  "Product Name": "Product Name",
+  "Arrived Qty": "Arrived Qty",
+  "Remaining Qty": "Remaining Qty",
+  "Avg Sale Rate": "Avg Sale Rate",
+  "Total Credited": "Total Credited",
+  "Mandi Wholesale Sales Invoices": "Mandi Wholesale Sales Invoices",
+  "Manage and record auction sales of grower products to customers": "Manage and record auction sales of grower products to customers",
+  "RECORD NEW SALE TICKET": "RECORD NEW SALE TICKET",
+  "Search sales...": "Search sales...",
+  "Buyer / Customer": "Buyer / Customer",
+  "Market Fee": "Market Fee",
+  "Total Amount": "Total Amount",
+  "Bill Amount": "Bill Amount",
+  "Final Net Bill": "Final Net Bill",
+  "Rate / Unit": "Rate / Unit",
+  "Loading Clerk Desk...": "Loading Clerk Desk...",
+  "Loading Admin Suite...": "Loading Admin Suite...",
+  "Total Debited": "Total Debited",
+  "My Customer Account Profile": "My Customer Account Profile",
+  "Total Purchased": "Total Purchased",
+  "Outstanding Balance (Payable)": "Outstanding Balance (Payable)",
+  "My Ledger History": "My Ledger History",
+  "My Supplier (Grower) Profile": "My Supplier (Grower) Profile",
+  "Total Supplied (Qty)": "Total Supplied (Qty)",
+  "Outstanding Balance (Receivable)": "Outstanding Balance (Receivable)",
+  "My Supply Shipments": "My Supply Shipments",
+  "Ledger Transaction Sheet": "Ledger Transaction Sheet",
+  "Entries": "Entries",
+  "Tickets": "Tickets",
+  "left": "left",
+  "Items near depletion": "Items near depletion",
+  "Coordinate with Suppliers!": "Coordinate with Suppliers!",
+  "Verified payments on counter": "Verified payments on counter",
+  "Verified cashier payouts": "Verified cashier payouts",
+  "Pending from Customers": "Pending from Customers",
+  "Owed to Suppliers": "Owed to Suppliers",
+  "Net Profit": "Net Profit",
+  "In chosen period": "In chosen period",
+  "Active Products": "Active Products",
+  "Low Stock items": "Low Stock items",
+  "Loading Brokerage Dashboard...": "Loading Brokerage Dashboard...",
+  "All": "All",
+  "Done": "Done",
+  "Cancelled": "Cancelled",
+  "All Statuses": "All Statuses",
+  "Record Cancelled": "Record Cancelled",
+  "Sale Cancelled": "Sale Cancelled",
+  "Lot Cancelled": "Lot Cancelled",
+  "Payment Cancelled": "Payment Cancelled",
+  "Expense Cancelled": "Expense Cancelled",
+  "Confirm Action": "Confirm Action",
+  "Are you sure you want to proceed?": "Are you sure you want to proceed?",
+  "Confirm": "Confirm",
+  "Confirmation Required": "Confirmation Required",
+  "Connection Restored!": "Connection Restored!",
+  "You are back online. All features and data sync are active.": "You are back online. All features and data sync are active.",
+  "Network Connection Lost": "Network Connection Lost",
+  "Offline Mode": "Offline Mode",
+  "Internet signals are dropped or unavailable. Changes may not sync until connection returns.": "Internet signals are dropped or unavailable. Changes may not sync until connection returns.",
+  "Checking...": "Checking...",
+  "Check Connection": "Check Connection",
+  "Party": "Party",
+  "City": "City",
+  "Balance": "Balance",
+  "Business": "Business",
+  "Total Sum": "Total Sum",
+  "Report": "Report",
+  "No records found for the selected report filters.": "No records found for the selected report filters.",
+  "Total Days Logged": "Total Days Logged",
+  "Total Quantity": "Total Quantity",
+  "Total Net Amount": "Total Net Amount",
+  "Purchase Date": "Purchase Date",
+  "Items Purchased": "Items Purchased",
+  "Day Total Invoice": "Day Total Invoice",
+  "Total Items": "Total Items",
+  "Day Net Amount": "Day Net Amount",
+  "Product": "Product",
+  "Initial Arrived Qty": "Initial Arrived Qty",
+  "Net Sold Qty": "Net Sold Qty",
+  "Remaining Stock": "Remaining Stock",
+  "Gross Consignment Sales Value": "Gross Consignment Sales Value",
+  "Beopari Commission": "Beopari Commission",
+  "Market / Sarkari Fee": "Market / Sarkari Fee",
+  "Lot Expense Deductions": "Lot Expense Deductions",
+  "Net Payable to Supplier": "Net Payable to Supplier",
+  "Transaction Reference / Description": "Transaction Reference / Description",
+  "Posting": "Posting",
+  "Debit (Dr)": "Debit (Dr)",
+  "Credit (Cr)": "Credit (Cr)",
+  "Balance After": "Balance After",
+  "Invoice #": "Invoice #",
+  "Buyer Name": "Buyer Name",
+  "Buyer Type": "Buyer Type",
+  "Gross Value": "Gross Value",
+  "Net Value": "Net Value",
+  "Qty": "Qty",
+  "Unit Rate": "Unit Rate",
+  "Line Total": "Line Total",
+  "S.No": "S.No",
+  "Day Total": "Day Total",
+  "Toggle dark mode": "Toggle dark mode",
+  "Built for Pakistan's mandis": "Built for Pakistan's mandis",
+  "Super Admin?": "Super Admin?",
+  "Enter your assigned Khata ID issued by your Arthi": "Enter your assigned Khata ID issued by your Arthi",
+  "Hide password": "Hide password",
+  "Show password": "Show password",
+  "Forgot password?": "Forgot password?",
+  "Signing in...": "Signing in...",
+  "Sign in to MandiOS": "Sign in to MandiOS",
+  "New here?": "New here?",
+  "Contact your arthi to get registered.": "Contact your arthi to get registered.",
+  "Admin": "Admin",
+  "Clerk": "Clerk",
+  "Supplier": "Supplier",
+  "Super Admin": "Super Admin",
+  "Buyer Khata": "Buyer Khata",
+  "Beopari/Grower Khata": "Beopari/Grower Khata",
+  "Mandi Account Assistance": "Mandi Account Assistance",
+  "MandiOS accounts are securely managed by your Arthi Commission Shop Administrator.": "MandiOS accounts are securely managed by your Arthi Commission Shop Administrator.",
+  "Password Reset": "Password Reset",
+  "Please contact your Mandi Admin or desk operator to generate a new PIN / password.": "Please contact your Mandi Admin or desk operator to generate a new PIN / password.",
+  "New Party Registration": "New Party Registration",
+  "To link your Khata as a Customer or Beopari/Grower, ask the Arthi to register your mobile number and issue your Khata ID.": "To link your Khata as a Customer or Beopari/Grower, ask the Arthi to register your mobile number and issue your Khata ID.",
+  "Understood": "Understood",
+  "Proprietor": "Proprietor",
+  "Mandi Trade Reg": "Mandi Trade Reg",
+  "MandiOS Brokerage ERP": "MandiOS Brokerage ERP",
+  "Official Report": "Official Report",
+  "Period": "Period",
+  "Generated": "Generated",
+  "BEOPARI/GROWER CONSIGNMENT STATEMENT LEDGER": "BEOPARI/GROWER CONSIGNMENT STATEMENT LEDGER",
+  "CUSTOMER ACCOUNT STATEMENT LEDGER": "CUSTOMER ACCOUNT STATEMENT LEDGER",
+  "DAY-WISE PURCHASE REPORT": "DAY-WISE PURCHASE REPORT",
+  "DAILY PURCHASE BREAKDOWN": "DAILY PURCHASE BREAKDOWN",
+  "PROFESSIONAL CONSIGNMENT LOT VOUCHER": "PROFESSIONAL CONSIGNMENT LOT VOUCHER",
+  "MANDI OS — DAILY ROZNAMCHA / DAY BOOK REPORT": "MANDI OS — DAILY ROZNAMCHA / DAY BOOK REPORT",
+  "Lot Number": "Lot Number",
+  "Beopari": "Beopari",
+  "Total Debit": "Total Debit",
+  "Total Credit": "Total Credit",
+  "Day": "Day",
+  "Dashboard": "Dashboard",
+  "Purchases": "Purchases",
+  "Lots & Stock": "Lots & Stock",
+  "Sales": "Sales",
+  "Sales Lots": "Sales Lots",
+  "Boli": "Boli",
+  "Customers Khata": "Customers Khata",
+  "Beopari Khata": "Beopari Khata",
+  "Khata & Ledger": "Khata & Ledger",
+  "Commission": "Commission",
+  "Bardana": "Bardana",
+  "Returns": "Returns",
+  "Truck Logs & Logistics": "Truck Logs & Logistics",
+  "Register Munshi": "Register Munshi",
+  "Employee & Salary": "Employee & Salary",
+  "Product Catalog": "Product Catalog",
+  "Lot Supplies": "Lot Supplies",
+  "Audit & Log Activity": "Audit & Log Activity",
+  "Deleted Users / Trash": "Deleted Users / Trash",
+  "Beopari/Grower Stock": "Beopari/Grower Stock",
+  "Sales Transactions": "Sales Transactions",
+  "My Dashboard": "My Dashboard",
+  "Purchase History": "Purchase History",
+  "Day Wise Report": "Day Wise Report",
+  "My General Ledger": "My General Ledger",
+  "Supply History": "Supply History",
+  "Lot Wise Report": "Lot Wise Report",
+  "Businesses / Tenants": "Businesses / Tenants",
+  "Subscriptions": "Subscriptions",
+  "Users Overview": "Users Overview",
+  "Global Search": "Global Search",
+  "Platform Settings": "Platform Settings",
+  "Unit Management": "Unit Management",
+  "Expense Categories": "Expense Categories",
+  "Payment Methods": "Payment Methods",
+  "Invoice Layout": "Invoice Layout",
+  "Change Password": "Change Password",
+  "Record Batch Sale": "Record Batch Sale",
+  "Lot Sale / Boli Session": "Lot Sale / Boli Session",
+  "Batch Sale (Custom Rate)": "Batch Sale (Custom Rate)",
+  "Sold Consignments": "Sold Consignments",
+  "Pay or Receive": "Pay or Receive",
+  "Payments & Receipts": "Payments & Receipts",
+  "Expenses": "Expenses",
+  "Reports": "Reports",
+  "Settings": "Settings",
+  "Sign Out": "Sign Out",
+  "Sign in": "Sign in",
+  "Welcome to MandiOS": "Welcome to MandiOS",
+  "Sabzi & Fruit Mandi ka Complete Digital System": "Complete Digital System for Fruit & Vegetable Markets",
+  "Select Role": "Select Role",
+  "Arhti": "Arhti",
+  "Munshi": "Munshi",
+  "Beopari/Grower": "Beopari/Grower",
+  "Shop Owner": "Shop Owner",
+  "Desk Operator": "Desk Operator",
+  "Farmer Khata": "Grower Account",
+  "Customer Khata ID": "Customer Account ID",
+  "Beopari/Grower Khata ID": "Beopari/Grower Account ID",
+  "Super Admin Email Address": "Super Admin Email Address",
+  "Clerk Email Address": "Clerk Email Address",
+  "Admin Email Address": "Admin Email Address",
+  "Email Address": "Email Address",
+  "Password": "Password",
+  "Welcome back to MandiOS": "Welcome back to MandiOS",
+  "The Operating System for Fruit & Vegetables Commission Brokers.": "The Operating System for Fruit & Vegetables Commission Brokers.",
+  "Khata management": "Khata management",
+  "Bardana tracking": "Bardana tracking",
+  "Peshgi advances": "Peshgi advances",
+  "Reports hub": "Reports hub",
+  "Contact us today to digitize your business.": "Contact us today to digitize your business.",
+  "Chat on WhatsApp": "Chat on WhatsApp",
+  "Language": "Language",
+  "English": "English",
+  "Urdu": "Urdu",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "Close": "Close",
+  "Search": "Search",
+  "Date": "Date",
+  "Amount": "Amount",
+  "Quantity": "Quantity",
+  "Rate": "Rate",
+  "Total": "Total",
+  "Status": "Status",
+  "Actions": "Actions",
+  "No records found": "No records found",
+  "Loading...": "Loading...",
+  "Confirm Sign Out": "Confirm Sign Out",
+  "Are you sure you want to sign out?": "Are you sure you want to sign out?"
+  ,"1. New Return": "1. New Return"
+  ,"2. Return History": "2. Return History"
+  ,"Active": "Active"
+  ,"Activity Record Details": "Activity Record Details"
+  ,"Add Employee": "Add Employee"
+  ,"Address Details": "Address Details"
+  ,"All Designations": "All Designations"
+  ,"All Salary Types": "All Salary Types"
+  ,"Alternate Mobile": "Alternate Mobile"
+  ,"Assalam-o-Alaikum": "Assalam-o-Alaikum"
+  ,"Audit Log Narrative & Summary": "Audit Log Narrative & Summary"
+  ,"Automatically linked expense module logs": "Automatically linked expense module logs"
+  ,"Back to Directory": "Back to Directory"
+  ,"Basic Contract Salary": "Basic Contract Salary"
+  ,"Bookkeeping activity": "Bookkeeping activity"
+  ,"Brokerage commission charged": "Brokerage commission charged"
+  ,"CNIC": "CNIC"
+  ,"CNIC Card Number": "CNIC Card Number"
+  ,"Cash payout of": "Cash payout of"
+  ,"Cash payout to": "Cash payout to"
+  ,"City Location": "City Location"
+  ,"Clear History": "Clear History"
+  ,"Commission Deducted from Customer": "Commission Deducted from Customer"
+  ,"Compiling real-time bookkeeping logs...": "Compiling real-time bookkeeping logs..."
+  ,"Consignment lot shipment received from beopari/grower": "Consignment lot shipment received from beopari/grower"
+  ,"Consignment shipment arrived from": "Consignment shipment arrived from"
+  ,"Contact Mobile": "Contact Mobile"
+  ,"Contract Status": "Contract Status"
+  ,"Coordinate with Beopari/Growers!": "Coordinate with Beopari/Growers!"
+  ,"Date & Timestamp": "Date & Timestamp"
+  ,"Day Wise Purchase Report": "Day Wise Purchase Report"
+  ,"Department Team": "Department Team"
+  ,"Designation": "Designation"
+  ,"Designation Position": "Designation Position"
+  ,"Directory Filters & Search": "Directory Filters & Search"
+  ,"Directory PDF generated successfully!": "Directory PDF generated successfully!"
+  ,"Download PDF": "Download PDF"
+  ,"ERP Broker System": "ERP Broker System"
+  ,"Edit Employee Registration File": "Edit Employee Registration File"
+  ,"Email ID": "Email ID"
+  ,"Employee & Payroll Management": "Employee & Payroll Management"
+  ,"Employee ID": "Employee ID"
+  ,"Employment & Contract logs": "Employment & Contract logs"
+  ,"Enter employee contract details": "Enter employee contract details"
+  ,"Excel": "Excel"
+  ,"Excel Export": "Excel Export"
+  ,"Father Name": "Father Name"
+  ,"Full Name": "Full Name"
+  ,"Gate logistics vehicle arrival registered for truck number": "Gate logistics vehicle arrival registered for truck number"
+  ,"Global Search & Intelligence": "Global Search & Intelligence"
+  ,"Handled by": "Handled by"
+  ,"Inactive": "Inactive"
+  ,"Initial Opening Advance": "Initial Opening Advance"
+  ,"Initial Status": "Initial Status"
+  ,"Instantly lookup ledger entries, lot shipments, sales tickets, phone numbers, or users.": "Instantly lookup ledger entries, lot shipments, sales tickets, phone numbers, or users."
+  ,"Invoice generated for": "Invoice generated for"
+  ,"Invoice generated for customer": "Invoice generated for customer"
+  ,"Joining Date": "Joining Date"
+  ,"Live stream of arrivals, sales, expenses, and counter payments.": "Live stream of arrivals, sales, expenses, and counter payments."
+  ,"Loading directory records...": "Loading directory records..."
+  ,"Logged By (Operator)": "Logged By (Operator)"
+  ,"Logged by": "Logged by"
+  ,"Manage employee profiles, monthly salary calculation, salary advances, and automated expense books": "Manage employee profiles, monthly salary calculation, salary advances, and automated expense books"
+  ,"Mandi Bookkeeping Audit Log": "Mandi Bookkeeping Audit Log"
+  ,"Mandi Brokerage Business Command Hub. Manage shipments, auctions, and accounting in one place.": "Mandi Brokerage Business Command Hub. Manage shipments, auctions, and accounting in one place."
+  ,"Mandi Module": "Mandi Module"
+  ,"Mandi OS": "Mandi OS"
+  ,"Monthly": "Monthly"
+  ,"Monthly Basic": "Monthly Basic"
+  ,"National CNIC Number": "National CNIC Number"
+  ,"New beopari/grower profile": "New beopari/grower profile"
+  ,"New customer profile": "New customer profile"
+  ,"New fruit commodity": "New fruit commodity"
+  ,"No Recent Transactions": "No Recent Transactions"
+  ,"No Results Found": "No Results Found"
+  ,"No bookkeeping logs matched your filters in this period.": "No bookkeeping logs matched your filters in this period."
+  ,"No employee registration logs found.": "No employee registration logs found."
+  ,"Notes & Extra Details": "Notes & Extra Details"
+  ,"Official Joining Date": "Official Joining Date"
+  ,"Opening Advance Balance": "Opening Advance Balance"
+  ,"Operating expenditure recorded under category": "Operating expenditure recorded under category"
+  ,"Operating expense for": "Operating expense for"
+  ,"Optional": "Optional"
+  ,"Payroll PDF report downloaded successfully!": "Payroll PDF report downloaded successfully!"
+  ,"Permanent Address": "Permanent Address"
+  ,"Personal registration files": "Personal registration files"
+  ,"Photo": "Photo"
+  ,"Primary Mobile": "Primary Mobile"
+  ,"Print": "Print"
+  ,"Print Report": "Print Report"
+  ,"Processed by": "Processed by"
+  ,"Produce Returns & Settlements": "Produce Returns & Settlements"
+  ,"Product Inventory Catalog": "Product Inventory Catalog"
+  ,"Profile Image URL": "Profile Image URL"
+  ,"Querying all mandi modules simultaneously...": "Querying all mandi modules simultaneously..."
+  ,"Quick Filter Shortcuts": "Quick Filter Shortcuts"
+  ,"Received customer payment of": "Received customer payment of"
+  ,"Received payment from": "Received payment from"
+  ,"Recent Activities & Financial Transactions": "Recent Activities & Financial Transactions"
+  ,"Recent Searches": "Recent Searches"
+  ,"Record Sales": "Record Sales"
+  ,"Record details for": "Record details for"
+  ,"Recorded Transaction Amount": "Recorded Transaction Amount"
+  ,"Reference By": "Reference By"
+  ,"Reference ID": "Reference ID"
+  ,"Refresh": "Refresh"
+  ,"Refresh Live Data": "Refresh Live Data"
+  ,"Register New Mandi Employee": "Register New Mandi Employee"
+  ,"Registered beopari/grower": "Registered beopari/grower"
+  ,"Registered by": "Registered by"
+  ,"Registered customer": "Registered customer"
+  ,"Registered product": "Registered product"
+  ,"Related Party / Contact": "Related Party / Contact"
+  ,"Salary Cycle": "Salary Cycle"
+  ,"Salary Payment Cycle": "Salary Payment Cycle"
+  ,"Salary advances disbursed logs": "Salary advances disbursed logs"
+  ,"Salary payments history logs": "Salary payments history logs"
+  ,"Search Employee": "Search Employee"
+  ,"Search by customer, invoice ID, truck, lot, CNIC, mobile number, user...": "Search by customer, invoice ID, truck, lot, CNIC, mobile number, user..."
+  ,"Select a category to automatically lock search parameters and focus search bar.": "Select a category to automatically lock search parameters and focus search bar."
+  ,"Sequenced date-wise purchase logs. Click any date row to view products bought on that date.": "Sequenced date-wise purchase logs. Click any date row to view products bought on that date."
+  ,"Simple Mandi produce returns, automatic stock replenishment, and customer ledger adjustments": "Simple Mandi produce returns, automatic stock replenishment, and customer ledger adjustments"
+  ,"Special / Medical / Registration Notes": "Special / Medical / Registration Notes"
+  ,"Truck shipment from": "Truck shipment from"
+  ,"Update contract and personal details": "Update contract and personal details"
+  ,"View Business Profile": "View Business Profile"
+  ,"We couldn't find any records matching your search term across the database.": "We couldn't find any records matching your search term across the database."
+  ,"by operator": "by operator"
+  ,"for amount": "for amount"
+  ,"from": "from"
+  ,"from beopari/grower": "from beopari/grower"
+  ,"issued to beopari/grower/party": "issued to beopari/grower/party"
+  ,"logged for": "logged for"
+  ,"on": "on"
+  ,"saved in Mandi database.": "saved in Mandi database."
+  ,"was added to the catalog by": "was added to the catalog by"
+  ,"was created in the system by": "was created in the system by"
+  ,"was registered in the Mandi ledger by": "was registered in the Mandi ledger by"
+  ,"with total amount": "with total amount"
+  ,"with total value": "with total value"
+  ,"Classify structural Mandi expenses specifically tailored and saved for your business account.": "Classify structural Mandi expenses specifically tailored and saved for your business account."
+  ,"ADD CATEGORY": "ADD CATEGORY"
+  ,"Search categories by name...": "Search categories by name..."
+  ,"Category Name": "Category Name"
+  ,"No expense categories structured.": "No expense categories structured."
+  ,"Formulate categorizations for operating costs.": "Formulate categorizations for operating costs."
+  ,"e.g. Electricity, Wages, Fuel": "e.g. Electricity, Wages, Fuel"
+  ,"Detail what type of bills fall into this group...": "Detail what type of bills fall into this group..."
+  ,"Invoice Sizing & Prints": "Invoice Sizing & Prints"
+  ,"Configure standard parameters for generating bills, print slips, and billing cycles.": "Configure standard parameters for generating bills, print slips, and billing cycles."
+  ,"Invoice Header Text": "Invoice Header Text"
+  ,"Invoice Footer Note": "Invoice Footer Note"
+  ,"Terms & Conditions": "Terms & Conditions"
+  ,"Invoice Specific Brand Logo URL": "Invoice Specific Brand Logo URL"
+  ,"Default Billing Due Cycle (Days)": "Default Billing Due Cycle (Days)"
+  ,"Invoice Print Format": "Invoice Print Format"
+  ,"A4 (Standard Full Layout)": "A4 (Standard Full Layout)"
+  ,"A5 (Compact Split Sheet)": "A5 (Compact Split Sheet)"
+  ,"Thermal 3-inch (Receipt Slip)": "Thermal 3-inch (Receipt Slip)"
+  ,"Letter size (Standard US)": "Letter size (Standard US)"
+  ,"Invoice No. Prefix": "Invoice No. Prefix"
+  ,"Invoice Starting Serial No.": "Invoice Starting Serial No."
+  ,"Authorized Signatory Text": "Authorized Signatory Text"
+  ,"UPDATING INVOICES...": "UPDATING INVOICES..."
+  ,"SAVE INVOICE PRESETS": "SAVE INVOICE PRESETS"
+  ,"Payment Channels": "Payment Channels"
+  ,"Define valid channels for double-entry cash receipts or payouts specific to your business account.": "Define valid channels for double-entry cash receipts or payouts specific to your business account."
+  ,"ADD PAYMENT METHOD": "ADD PAYMENT METHOD"
+  ,"Search payment channels...": "Search payment channels..."
+  ,"Method Name": "Method Name"
+  ,"Requires Details (Cheque # / TxID)": "Requires Details (Cheque # / TxID)"
+  ,"No payment methods configured.": "No payment methods configured."
+  ,"Setup bank transfer or mobile banking configurations.": "Setup bank transfer or mobile banking configurations."
+  ,"Method / Channel Name": "Method / Channel Name"
+  ,"e.g. Bank Alfalah, JazzCash, EasyPaisa, Cash": "e.g. Bank Alfalah, JazzCash, EasyPaisa, Cash"
+  ,"Instructions / Bank Details": "Instructions / Bank Details"
+  ,"Include account IBAN or processing notes...": "Include account IBAN or processing notes..."
+  ,"Manage trading units, abbreviations, and basic scale settings configured specifically for your business.": "Manage trading units, abbreviations, and basic scale settings configured specifically for your business."
+  ,"ADD NEW UNIT": "ADD NEW UNIT"
+  ,"Search units by name or abbreviation...": "Search units by name or abbreviation..."
+  ,"Unit Name": "Unit Name"
+  ,"Abbr / Symbol": "Abbr / Symbol"
+  ,"Multiplier (Conversion)": "Multiplier (Conversion)"
+  ,"Decimal Weight Support": "Decimal Weight Support"
+  ,"No trading units registered.": "No trading units registered."
+  ,"Define custom packages for agricultural stock arrival and sale.": "Define custom packages for agricultural stock arrival and sale."
+  ,"e.g. Crate, Sack, Box, Mann": "e.g. Crate, Sack, Box, Mann"
+  ,"Symbol / Abbr": "Symbol / Abbr"
+  ,"e.g. crt, sk, bx": "e.g. crt, sk, bx"
+  ,"Conversion Factor": "Conversion Factor"
+  ,"e.g. 1": "e.g. 1"
+  ,"Additional context on trading, standard sizing...": "Additional context on trading, standard sizing..."
+  ,"Please enter your current (previous) password.": "Please enter your current (previous) password."
+  ,"Please enter your new password.": "Please enter your new password."
+  ,"New password must be at least 6 characters long.": "New password must be at least 6 characters long."
+  ,"Please confirm your new password in the third field.": "Please confirm your new password in the third field."
+  ,"New password and confirm password do not match. Please ensure both fields are identical.": "New password and confirm password do not match. Please ensure both fields are identical."
+  ,"New password cannot be the same as your previous password. Please choose a different password.": "New password cannot be the same as your previous password. Please choose a different password."
+  ,"Password changed successfully!": "Password changed successfully!"
+  ,"Failed to change password.": "Failed to change password."
+  ,"Change Account Password": "Change Account Password"
+  ,"Update your admin credentials securely. All 3 verification steps are required.": "Update your admin credentials securely. All 3 verification steps are required."
+  ,"Please remember your new password for subsequent logins.": "Please remember your new password for subsequent logins."
+  ,"1. Previous / Current Password": "1. Previous / Current Password"
+  ,"* Required": "* Required"
+  ,"Enter your current password...": "Enter your current password..."
+  ,"Hide password": "Hide password"
+  ,"Show password": "Show password"
+  ,"Enter your existing account password to verify your administrative authority.": "Enter your existing account password to verify your administrative authority."
+  ,"2. New Password": "2. New Password"
+  ,"Min. 6 characters": "Min. 6 characters"
+  ,"Enter new password (min 6 characters)...": "Enter new password (min 6 characters)..."
+  ,"Password is too short (minimum 6 characters required).": "Password is too short (minimum 6 characters required)."
+  ,"3. Confirm New Password": "3. Confirm New Password"
+  ,"Passwords Match": "Passwords Match"
+  ,"Does Not Match": "Does Not Match"
+  ,"Re-type your new password...": "Re-type your new password..."
+  ,"Re-enter your new password to verify accuracy and avoid typos.": "Re-enter your new password to verify accuracy and avoid typos."
+  ,"UPDATING PASSWORD...": "UPDATING PASSWORD..."
+  ,"UPDATE PASSWORD": "UPDATE PASSWORD"
+  ,"Analytics Timeframe": "Analytics Timeframe"
+  ,"Filter all visual metrics and financial trends": "Filter all visual metrics and financial trends"
+  ,"All Time": "All Time"
+  ,"Today": "Today"
+  ,"Last 7 Days": "Last 7 Days"
+  ,"Last 30 Days": "Last 30 Days"
+  ,"Last 3 Months": "Last 3 Months"
+  ,"This Year": "This Year"
+  ,"Custom Range": "Custom Range"
+  ,"to": "to"
+  ,"daily": "daily"
+  ,"weekly": "weekly"
+  ,"monthly": "monthly"
+  ,"Failed to load business profile": "Failed to load business profile"
+  ,"Business profile settings saved successfully!": "Business profile settings saved successfully!"
+  ,"Failed to update business profile": "Failed to update business profile"
+  ,"User Account & Business Profile": "User Account & Business Profile"
+  ,"View logged-in user details and system business profile configuration.": "View logged-in user details and system business profile configuration."
+  ,"Active User Profile": "Active User Profile"
+  ,"Role": "Role"
+  ,"System Designation": "System Designation"
+  ,"Account": "Account"
+  ,"Account Status": "Account Status"
+  ,"Active Session": "Active Session"
+  ,"Registered Business Profile": "Registered Business Profile"
+  ,"Registered System Data": "Registered System Data"
+  ,"Owner Name": "Owner Name"
+  ,"Owner Name 1": "Owner Name 1"
+  ,"Owner Number 1": "Owner Number 1"
+  ,"Owner Name 2": "Owner Name 2 (Optional)"
+  ,"Owner Number 2": "Owner Number 2 (Optional)"
+  ,"Email Address": "Email Address"
+  ,"Tenant ID / Code": "Tenant ID / Code"
+  ,"Contact & Locale Configuration": "Contact & Locale Configuration"
+  ,"Mobile Number": "Mobile Number"
+  ,"e.g. +92 300 1234567": "e.g. +92 300 1234567"
+  ,"WhatsApp Contact Number": "WhatsApp Contact Number"
+  ,"e.g. Shop 12, New Fruit Market": "e.g. Shop 12, New Fruit Market"
+  ,"e.g. Lahore": "e.g. Lahore"
+  ,"Country": "Country"
+  ,"Currency Unit": "Currency Unit"
+  ,"Currency Symbol": "Currency Symbol"
+  ,"System Time Zone": "System Time Zone"
+  ,"System Date Format": "System Date Format"
+  ,"Logo URL / Base64": "Logo URL / Base64"
+  ,"e.g. https://domain.com/logo.png": "e.g. https://domain.com/logo.png"
+  ,"SAVING PROFILE...": "SAVING PROFILE..."
+  ,"Read-only view. Contact Admin to update business settings.": "Read-only view. Contact Admin to update business settings."
+  ,"Business Name": "Business Name"
+  ,"e.g. Pakistan": "e.g. Pakistan"
+  ,"SAVE SETTINGS": "SAVE SETTINGS"
+  ,"Error loading product catalog and units": "Error loading product catalog and units"
+  ,"Product default settings updated successfully!": "Product default settings updated successfully!"
+  ,"Failed to update product defaults": "Failed to update product defaults"
+  ,"Product Default Settings": "Product Default Settings"
+  ,"Establish standard parameters (rates, average weights, minimum/maximum values) on a per-product level.": "Establish standard parameters (rates, average weights, minimum/maximum values) on a per-product level."
+  ,"Search products by name or category...": "Search products by name or category..."
+  ,"All Categories": "All Categories"
+  ,"Default Unit": "Default Unit"
+  ,"N/A": "N/A"
+  ,"Default Commission": "Default Commission"
+  ,"None": "None"
+  ,"Average Weight": "Average Weight"
+  ,"Not Set": "Not Set"
+  ,"Price Range": "Price Range"
+  ,"Unlimited": "Unlimited"
+  ,"Current Qty": "Current Qty"
+  ,"No products found in catalog.": "No products found in catalog."
+  ,"Page": "Page"
+  ,"of": "of"
+  ,"Previous": "Previous"
+  ,"Next": "Next"
+  ,"Edit Product Default Presets": "Edit Product Default Presets"
+  ,"Default Trading Unit": "Default Trading Unit"
+  ,"Select Unit": "Select Unit"
+  ,"Bag": "Bag"
+  ,"Commission Type": "Commission Type"
+  ,"Percentage (%)": "Percentage (%)"
+  ,"Fixed Amount (Rs.)": "Fixed Amount (Rs.)"
+  ,"Default Rate": "Default Rate"
+  ,"e.g. 5": "e.g. 5"
+  ,"Average Weight per Unit (kg)": "Average Weight per Unit (kg)"
+  ,"e.g. 25": "e.g. 25"
+  ,"Min Price Limit": "Min Price Limit"
+  ,"Min Rs.": "Min Rs."
+  ,"Max Price Limit": "Max Price Limit"
+  ,"Max Rs.": "Max Rs."
+  ,"CANCEL": "CANCEL"
+  ,"SAVING...": "SAVING..."
+  ,"SAVE CHANGES": "SAVE CHANGES"
+  ,"Failed to load auxiliary charges": "Failed to load auxiliary charges"
+  ,"Delete Charge Rule?": "Delete Charge Rule?"
+  ,"Are you sure you want to delete charge rule \"{{name}}\"?": "Are you sure you want to delete charge rule \"{{name}}\"?"
+  ,"Delete Rule": "Delete Rule"
+  ,"Charge definition deleted successfully": "Charge definition deleted successfully"
+  ,"Failed to delete charge definition": "Failed to delete charge definition"
+  ,"Name and Value are required": "Name and Value are required"
+  ,"Charge definition created successfully": "Charge definition created successfully"
+  ,"Charge definition updated successfully": "Charge definition updated successfully"
+  ,"Failed to save charges configuration": "Failed to save charges configuration"
+  ,"Service Charges & Taxes": "Service Charges & Taxes"
+  ,"Establish standard charges like Palledari (labor), charity (chungi), market fee, or transport overrides.": "Establish standard charges like Palledari (labor), charity (chungi), market fee, or transport overrides."
+  ,"ADD SERVICE CHARGE": "ADD SERVICE CHARGE"
+  ,"Search charges by name or billing recipient...": "Search charges by name or billing recipient..."
+  ,"Charge Name": "Charge Name"
+  ,"Charge Type": "Charge Type"
+  ,"Applies To": "Applies To"
+  ,"No auxiliary service charges defined.": "No auxiliary service charges defined."
+  ,"Establish automatic transaction taxations or service additions.": "Establish automatic transaction taxations or service additions."
+  ,"Charge / Fee Name": "Charge / Fee Name"
+  ,"e.g. Palledari (Labor Fee)": "e.g. Palledari (Labor Fee)"
+  ,"Charge Value": "Charge Value"
+  ,"e.g. 15": "e.g. 15"
+  ,"Billing Recipient": "Billing Recipient"
+  ,"Both Beopari/Grower & Buyer": "Both Beopari/Grower & Buyer"
+  ,"Beopari/Grower Only (Deduct)": "Beopari/Grower Only (Deduct)"
+  ,"Buyer Only (Add-on)": "Buyer Only (Add-on)"
+  ,"Deduction Basis": "Deduction Basis"
+  ,"Per Crate": "Per Crate"
+  ,"Per Box": "Per Box"
+  ,"Per Basket": "Per Basket"
+  ,"Per Kilogram": "Per Kilogram"
+  ,"Per Maund (40 kg)": "Per Maund (40 kg)"
+  ,"Per Invoice (Flat)": "Per Invoice (Flat)"
+  ,"Total Sale Amount": "Total Sale Amount"
+  ,"Value": "Value"
+  ,"Customer Financial & Purchase Analytics": "Customer Financial & Purchase Analytics"
+  ,"Visualizing real-time purchase trends, product allocations, and payment balances": "Visualizing real-time purchase trends, product allocations, and payment balances"
+  ,"1. Purchase Value Trend": "1. Purchase Value Trend"
+  ,"Total purchase value over time": "Total purchase value over time"
+  ,"No purchase data available for the selected period.": "No purchase data available for the selected period."
+  ,"Purchase Amount": "Purchase Amount"
+  ,"Purchase Value": "Purchase Value"
+  ,"3. Purchase vs Payment": "3. Purchase vs Payment"
+  ,"Financial position & ledger comparison": "Financial position & ledger comparison"
+  ,"Outstanding Debt": "Outstanding Debt"
+  ,"2. Product Purchase Breakdown": "2. Product Purchase Breakdown"
+  ,"Most purchased produce items by": "Most purchased produce items by"
+  ,"value": "value"
+  ,"quantity": "quantity"
+  ,"By Value": "By Value"
+  ,"By Quantity": "By Quantity"
+  ,"No product data available for the selected period.": "No product data available for the selected period."
+  ,"Quantity": "Quantity"
+  ,"Total Value": "Total Value"
+  ,"Total Quantity": "Total Quantity"
+  ,"Show Top 10 Only": "Show Top 10 Only"
+  ,"View All": "View All"
+  ,"Products": "Products"
+  ,"4. Payment Trend": "4. Payment Trend"
+  ,"Verified payment receipts over time": "Verified payment receipts over time"
+  ,"No payment records found for the selected period.": "No payment records found for the selected period."
+  ,"Payment Amount": "Payment Amount"
+  ,"Beopari/Grower Supply & Settlement Analytics": "Beopari/Grower Supply & Settlement Analytics"
+  ,"Exact visualization of crop supply value, commission deductions, net payables, and account settlements": "Exact visualization of crop supply value, commission deductions, net payables, and account settlements"
+  ,"Gross Supply Value": "Gross Supply Value"
+  ,"Commission Deducted": "Commission Deducted"
+  ,"Exact Mandi commission logic": "Exact Mandi commission logic"
+  ,"Other Lot Expenses": "Other Lot Expenses"
+  ,"Freight & Mandi charges": "Freight & Mandi charges"
+  ,"Net Earned / Payable": "Net Earned / Payable"
+  ,"Net payable for period": "Net payable for period"
+  ,"Paid / Received Amount": "Paid / Received Amount"
+  ,"Current Ledger Balance": "Current Ledger Balance"
+  ,"Receivable from broker": "Receivable from broker"
+  ,"Advance balance": "Advance balance"
+  ,"1. Supply Value Trend": "1. Supply Value Trend"
+  ,"No supply history available for the selected period.": "No supply history available for the selected period."
+  ,"3. Financial Deduction Waterfall": "3. Financial Deduction Waterfall"
+  ,"Gross supply → Commission & Expenses → Net Payable": "Gross supply → Commission & Expenses → Net Payable"
+  ,"Gross Value": "Gross Value"
+  ,"Total Deductions": "Total Deductions"
+  ,"Net Payable": "Net Payable"
+  ,"2. Produce Supply Breakdown": "2. Produce Supply Breakdown"
+  ,"No produce data available for the selected period.": "No produce data available for the selected period."
+  ,"4. Settlement Payment Activity": "4. Settlement Payment Activity"
+  ,"No settlement payment records found for the selected period.": "No settlement payment records found for the selected period."
+  ,"Time / Date": "Time / Date"
+  ,"Party / Entity": "Party / Entity"
+  ,"Transaction Type": "Transaction Type"
+  ,"Item / Particulars": "Item / Particulars"
+  ,"Mode": "Mode"
+  ,"Debit / Banam (Rs)": "Debit / Banam (Rs)"
+  ,"Credit / Jama (Rs)": "Credit / Jama (Rs)"
+  ,"Cash Balance (Rs)": "Cash Balance (Rs)"
+  ,"Date Range": "Date Range"
+  ,"Transaction Nature": "Transaction Nature"
+  ,"Debit (Rs)": "Debit (Rs)"
+  ,"Credit (Rs)": "Credit (Rs)"
+  ,"Balance (Rs)": "Balance (Rs)"
+  ,"Select Party": "Select Party"
+  ,"Lot No": "Lot No"
+  ,"Item / Product": "Item / Product"
+  ,"Qty (Crates)": "Qty (Crates)"
+  ,"Rate (Rs)": "Rate (Rs)"
+  ,"Amount (Rs)": "Amount (Rs)"
+  ,"Item": "Item"
+  ,"Commodity": "Commodity"
+  ,"Lot #": "Lot #"
+  ,"Sale Value (Rs)": "Sale Value (Rs)"
+  ,"Commission Rate / Mode": "Commission Rate / Mode"
+  ,"Commission (Rs)": "Commission (Rs)"
+  ,"Party Filter": "Party Filter"
+  ,"Total Outstanding (Rs)": "Total Outstanding (Rs)"
+  ,"0–7 Days": "0–7 Days"
+  ,"8–15 Days": "8–15 Days"
+  ,"16–30 Days": "16–30 Days"
+  ,"30+ Days (Overdue)": "30+ Days (Overdue)"
+  ,"As of Date": "As of Date"
+  ,"Particulars / Description": "Particulars / Description"
+  ,"Mode (Cash/Bank)": "Mode (Cash/Bank)"
+  ,"In / Receipt (Rs)": "In / Receipt (Rs)"
+  ,"Out / Payment (Rs)": "Out / Payment (Rs)"
+  ,"Movement Ledger": "Movement Ledger"
+  ,"Inward / Issued Crates": "Inward / Issued Crates"
+  ,"Returned / Dispatched": "Returned / Dispatched"
+  ,"Net Crate Balance": "Net Crate Balance"
+  ,"Last Activity": "Last Activity"
+  ,"Ledger Category": "Ledger Category"
+  ,"Settlement Filter": "Settlement Filter"
+  ,"Beopari/Grower Name": "Beopari/Grower Name"
+  ,"Mobile / Phone": "Mobile / Phone"
+  ,"Primary Commodity": "Primary Commodity"
+  ,"Last Arrival Date": "Last Arrival Date"
+  ,"Days Inactive": "Days Inactive"
+  ,"Arrival Date": "Arrival Date"
+  ,"Arrived Qty/Crates": "Arrived Qty/Crates"
+  ,"Sold Crates": "Sold Crates"
+  ,"Gross Value (Rs)": "Gross Value (Rs)"
+  ,"Commission Deducted (Rs)": "Commission Deducted (Rs)"
+  ,"Lot Expenses Deducted (Rs)": "Lot Expenses Deducted (Rs)"
+  ,"Total Deductions (Rs)": "Total Deductions (Rs)"
+  ,"Net Payable (Rs)": "Net Payable (Rs)"
+  ,"Settlement Status": "Settlement Status"
+  ,"Total Net Payable (Rs)": "Total Net Payable (Rs)"
+  ,"30+ Days": "30+ Days"
+  ,"Beopari/Grower / Consignor (زمیندار)": "Beopari/Grower / Consignor (زمیندار)"
+  ,"Commodity (جنس)": "Commodity (جنس)"
+  ,"Sold Volume": "Sold Volume"
+  ,"Gross Turnover (Rs)": "Gross Turnover (Rs)"
+  ,"Levy Rate (%)": "Levy Rate (%)"
+  ,"Market Fee (Rs)": "Market Fee (Rs)"
+  ,"Status Filter": "Status Filter"
+  ,"Payee / Reference": "Payee / Reference"
+  ,"Expense Category": "Expense Category"
+  ,"Min Rate (Rs)": "Min Rate (Rs)"
+  ,"Max Rate (Rs)": "Max Rate (Rs)"
+  ,"Avg Selling Rate (Rs)": "Avg Selling Rate (Rs)"
+  ,"Qty Sold (Crates)": "Qty Sold (Crates)"
+  ,"Rank": "Rank"
+  ,"Total Volume (Crates)": "Total Volume (Crates)"
+  ,"Trade Value (Rs)": "Trade Value (Rs)"
+  ,"Commission Generated (Rs)": "Commission Generated (Rs)"
+  ,"Entity Type": "Entity Type"
+  ,"Month / Year": "Month / Year"
+  ,"Customer Comm (Rs)": "Customer Comm (Rs)"
+  ,"Beopari/Grower Comm (Rs)": "Beopari/Grower Comm (Rs)"
+  ,"Total Comm (Rs)": "Total Comm (Rs)"
+  ,"Misc Income (Rs)": "Misc Income (Rs)"
+  ,"Total Expenses (Rs)": "Total Expenses (Rs)"
+  ,"Net Profit (Rs)": "Net Profit (Rs)"
+  ,"Profit Margin %": "Profit Margin %"
+  ,"Date / Year Range": "Date / Year Range"
+  ,"Days in Shop": "Days in Shop"
+  ,"Unsold Qty": "Unsold Qty"
+  ,"Perishability Risk": "Perishability Risk"
+  ,"Risk Threshold": "Risk Threshold"
+  ,"Cash Flow Only / Rokar (نقد بہاؤ)": "Cash Flow Only / Rokar (نقد بہاؤ)"
+  ,"Customer Receipts (وصولیاں)": "Customer Receipts (وصولیاں)"
+  ,"Beopari/Grower Payments (ادائیگیاں)": "Beopari/Grower Payments (ادائیگیاں)"
+  ,"Walk-in Cash Sales (نقد فروخت)": "Walk-in Cash Sales (نقد فروخت)"
+  ,"Credit Invoices (ادھار بل)": "Credit Invoices (ادھار بل)"
+  ,"Shop Expenses (اخراجات)": "Shop Expenses (اخراجات)"
+  ,"Consignment Arrivals (آمد مال)": "Consignment Arrivals (آمد مال)"
+  ,"Cash Till (نقد روکڑ)": "Cash Till (نقد روکڑ)"
+  ,"Bank Account": "Bank Account"
+  ,"Online / Wallet": "Online / Wallet"
+  ,"Cheque": "Cheque"
+  ,"Credit / Udhar": "Credit / Udhar"
+  ,"Expense": "Expense"
+  ,"Walk-In": "Walk-In"
+  ,"StockEntries": "Stock Entries"
+  ,"Ledger": "Ledger"
+  ,"Transactions": "Transactions"
+  ,"All Parties": "All Parties"
+  ,"All Beopari/Growers": "All Beopari/Growers"
+  ,"CommissionRules": "Commission Rules"
+  ,"Inflows (Receipts & Walk-In)": "Inflows (Receipts & Walk-In)"
+  ,"Outflows (Payouts & Expenses)": "Outflows (Payouts & Expenses)"
+  ,"All Entities (2-Way View)": "All Entities (2-Way View)"
+  ,"Beopari/Grower Inward Ledger": "Beopari/Grower Inward Ledger"
+  ,"Customer Outward Ledger": "Customer Outward Ledger"
+  ,"All Transactions": "All Transactions"
+  ,"Pending Return Only": "Pending Return Only"
+  ,"Settled Only": "Settled Only"
+  ,"Users": "Users"
+  ,"All Lots": "All Lots"
+  ,"Settled Lots Only": "Settled Lots Only"
+  ,"Active / Unsettled Lots": "Active / Unsettled Lots"
+  ,"TaxSettings": "Tax Settings"
+  ,"Hamali / Coolie": "Hamali / Coolie"
+  ,"Tulai / Weighing": "Tulai / Weighing"
+  ,"Transport / Freight": "Transport / Freight"
+  ,"Shop Rent & Utilities": "Shop Rent & Utilities"
+  ,"Miscellaneous": "Miscellaneous"
+  ,"Top Buyers": "Top Buyers"
+  ,"Top Beopari/Growers": "Top Beopari/Growers"
+  ,"2+ Days (Caution)": "2+ Days (Caution)"
+  ,"4+ Days (High Risk)": "4+ Days (High Risk)"
+  ,"Provides a complete chronological record of all cash receipts, payouts, shop expenses, credit auctions, and consignment arrivals across the entire Mandi shop.": "Provides a complete chronological record of all cash receipts, payouts, shop expenses, credit auctions, and consignment arrivals across the entire Mandi shop."
+  ,"Tier 1 — MVP": "Tier 1 — MVP"
+  ,"Tracks historical opening till cash before start date, processes daily cash receipts/sales as Jama (Inflows), beopari/grower payouts/expenses as Banam (Outflows), and maintains true double-entry closing till balances.": "Tracks historical opening till cash before start date, processes daily cash receipts/sales as Jama (Inflows), beopari/grower payouts/expenses as Banam (Outflows), and maintains true double-entry closing till balances."
+  ,"Displays complete debit, credit, and running balance history for a chosen party, with a summary card showing current outstanding balance.": "Displays complete debit, credit, and running balance history for a chosen party, with a summary card showing current outstanding balance."
+  ,"Filters all ledger entries and transactions by party ID. Debits represent purchases or funds owed; Credits represent payments or settlements received. Running balance is updated sequentially: Balance = Previous Balance + Debit - Credit.": "Filters all ledger entries and transactions by party ID. Debits represent purchases or funds owed; Credits represent payments or settlements received. Running balance is updated sequentially: Balance = Previous Balance + Debit - Credit."
+  ,"Tracks auction liquidation per consignment lot, showing exact buyer names, crate quantities, rates, and total sales value.": "Tracks auction liquidation per consignment lot, showing exact buyer names, crate quantities, rates, and total sales value."
+  ,"Joins sales transactions with stock consignment lots. Amount = Quantity * Sale Rate. The totals row sums total crate quantity and total gross sales value.": "Joins sales transactions with stock consignment lots. Amount = Quantity * Sale Rate. The totals row sums total crate quantity and total gross sales value."
+  ,"Provides an executive view of agency revenue generated from trade commission rates applied on sales transactions and beopari/grower lot settlements.": "Provides an executive view of agency revenue generated from trade commission rates applied on sales transactions and beopari/grower lot settlements."
+  ,"Calculates brokerage commission earned across transactions with options for All Parties, All Beopari/Growers, and All Customers. Shows customer sales commission and beopari/grower lot commission deductions with corresponding commission rates (percentage, per-unit, or fixed fee).": "Calculates brokerage commission earned across transactions with options for All Parties, All Beopari/Growers, and All Customers. Shows customer sales commission and beopari/grower lot commission deductions with corresponding commission rates (percentage, per-unit, or fixed fee)."
+  ,"Categorizes buyer credit into aging time buckets (0-7, 8-15, 16-30, 30+ days) to highlight overdue balances.": "Categorizes buyer credit into aging time buckets (0-7, 8-15, 16-30, 30+ days) to highlight overdue balances."
+  ,"Computes unpaid invoice balances for each customer. Each unpaid transaction amount is assigned to an aging bucket based on days elapsed between invoice date and As-Of date. Highlighted in red if 30+ days overdue.": "Computes unpaid invoice balances for each customer. Each unpaid transaction amount is assigned to an aging bucket based on days elapsed between invoice date and As-Of date. Highlighted in red if 30+ days overdue."
+  ,"Monitors daily liquidity movement across cash drawers and bank accounts including walk-in cash customer sales, customer recoveries, beopari/grower payouts, and shop expenses.": "Monitors daily liquidity movement across cash drawers and bank accounts including walk-in cash customer sales, customer recoveries, beopari/grower payouts, and shop expenses."
+  ,"Inflows (Customer Receipts & Walk-in Cash Sales) add to cash/bank balance (+); Outflows (Beopari/Grower Payouts & Expenses) subtract from balance (-). Opening Balance is computed prior to selected date range; Closing Balance = Opening + Total In - Total Out.": "Inflows (Customer Receipts & Walk-in Cash Sales) add to cash/bank balance (+); Outflows (Beopari/Grower Payouts & Expenses) subtract from balance (-). Opening Balance is computed prior to selected date range; Closing Balance = Opening + Total In - Total Out."
+  ,"Tracks beopari/grower inward crates received vs dispatched and customer outward crates issued vs returned.": "Tracks beopari/grower inward crates received vs dispatched and customer outward crates issued vs returned."
+  ,"Tier 2 — Phase 2": "Tier 2 — Phase 2"
+  ,"Beopari/Grower Inward Ledger: Net Owed = Inward Received - Dispatched to Beopari/Grower. Customer Outward Ledger: Net Pending = Crates Issued - Empty Crates Received from Buyer.": "Beopari/Grower Inward Ledger: Net Owed = Inward Received - Dispatched to Beopari/Grower. Customer Outward Ledger: Net Pending = Crates Issued - Empty Crates Received from Buyer."
+  ,"Helps shop clerks identify active growers with zero stock arrivals on a chosen date to trigger procurement outreach.": "Helps shop clerks identify active growers with zero stock arrivals on a chosen date to trigger procurement outreach."
+  ,"Scans registered active beopari/growers whose latest StockEntry arrival date is strictly before the chosen As-Of date. Days Inactive = As-Of Date - Last Arrival Date.": "Scans registered active beopari/growers whose latest StockEntry arrival date is strictly before the chosen As-Of date. Days Inactive = As-Of Date - Last Arrival Date."
+  ,"Provides a complete audit of all expense deductions withheld from beopari/grower consignment settlements per lot, distinguishing freight, labor/unloading, crate expenses, advance deductions, and beopari/grower commissions without mixing Mandi operating expenses.": "Provides a complete audit of all expense deductions withheld from beopari/grower consignment settlements per lot, distinguishing freight, labor/unloading, crate expenses, advance deductions, and beopari/grower commissions without mixing Mandi operating expenses."
+  ,"For each consignment lot: Gross Amount = Sold Crate Revenue (or Arrival Lot Value). Commission Deducted = Percentage or Fixed rate per lot. Lot Expenses Deducted = Sum of specific lot expense items (Freight, Unloading, Crates, Municipal/Advance). Total Deductions = Commission + Lot Expenses. Net Payable = Gross Amount - Total Deductions.": "For each consignment lot: Gross Amount = Sold Crate Revenue (or Arrival Lot Value). Commission Deducted = Percentage or Fixed rate per lot. Lot Expenses Deducted = Sum of specific lot expense items (Freight, Unloading, Crates, Municipal/Advance). Total Deductions = Commission + Lot Expenses. Net Payable = Gross Amount - Total Deductions."
+  ,"Tracks pending financial settlements owed to growers after deducting commission, freight, labor, and prior advances.": "Tracks pending financial settlements owed to growers after deducting commission, freight, labor, and prior advances."
+  ,"Net Payable = (Gross Crate Sales - Commission Deductions - Lot Expenses) - Payments Disbursed. Unpaid balances are categorized into aging intervals based on lot sale date.": "Net Payable = (Gross Crate Sales - Commission Deductions - Lot Expenses) - Payments Disbursed. Unpaid balances are categorized into aging intervals based on lot sale date."
+  ,"Official register of fixed Market / Sarkari fees deducted per consignment lot.": "Official register of fixed Market / Sarkari fees deducted per consignment lot."
+  ,"Official register of fixed Market Committee fees per consignment lot, tracking assessed amounts and settlement status.": "Official register of fixed Market Committee fees per consignment lot, tracking assessed amounts and settlement status."
+  ,"Market / Sarkari Fee is a fixed amount per consignment lot. Summary tracks assessed turnover and total fixed fees accrued.": "Market / Sarkari Fee is a fixed amount per consignment lot. Summary tracks assessed turnover and total fixed fees accrued."
+  ,"Detailed audit of per-consignment labor/freight deductions and shop overhead expenses grouped by expense categories.": "Detailed audit of per-consignment labor/freight deductions and shop overhead expenses grouped by expense categories."
+  ,"Aggregates recorded shop expenses and lot-specific deductions. Bar chart displays expense breakdown by category.": "Aggregates recorded shop expenses and lot-specific deductions. Bar chart displays expense breakdown by category."
+  ,"Helps commission agents and traders analyze price trends, peak market rate periods, price corridor fluctuations, and commodity price seasonality.": "Helps commission agents and traders analyze price trends, peak market rate periods, price corridor fluctuations, and commodity price seasonality."
+  ,"Tier 3 — Analytics": "Tier 3 — Analytics"
+  ,"Filters trade transactions by date range and selected commodity. Computes daily minimum rate, maximum rate, and quantity-weighted average selling rate (Total Value / Total Quantity). Line chart displays average trend line alongside high/low rate corridors.": "Filters trade transactions by date range and selected commodity. Computes daily minimum rate, maximum rate, and quantity-weighted average selling rate (Total Value / Total Quantity). Line chart displays average trend line alongside high/low rate corridors."
+  ,"Identifies key commercial partners, highest volume growers, and most valuable buyers in the Mandi.": "Identifies key commercial partners, highest volume growers, and most valuable buyers in the Mandi."
+  ,"Sums quantity, trade value, and commission per party across sales and stock entries. Ranks parties in descending order for leaderboard visualization.": "Sums quantity, trade value, and commission per party across sales and stock entries. Ranks parties in descending order for leaderboard visualization."
+  ,"Evaluates shop profitability month-by-month by comparing dual-sided brokerage commissions (Customer & Beopari/Grower) and miscellaneous income against total operational expenses.": "Evaluates shop profitability month-by-month by comparing dual-sided brokerage commissions (Customer & Beopari/Grower) and miscellaneous income against total operational expenses."
+  ,"Aggregated by Calendar Month. Total Commission = Customer Commission + Beopari/Grower Commission. Total Revenue = Total Commission + Misc Income. Net Profit = Total Revenue - Total Expenses. Margin % = (Net Profit / Total Revenue) * 100.": "Aggregated by Calendar Month. Total Commission = Customer Commission + Beopari/Grower Commission. Total Revenue = Total Commission + Misc Income. Net Profit = Total Revenue - Total Expenses. Margin % = (Net Profit / Total Revenue) * 100."
+  ,"Highlights unsold stock in shop storage with perishability risk flags (Green/Yellow/Red) based on arrival age to prevent crop spoilage.": "Highlights unsold stock in shop storage with perishability risk flags (Green/Yellow/Red) based on arrival age to prevent crop spoilage."
+  ,"Filters StockEntries with remainingQuantity > 0. Days in Shop = Current Date - Arrival Date. Risk Level: High Risk (> 4 days, Red), Caution (2–4 days, Yellow), Normal (< 2 days, Green).": "Filters StockEntries with remainingQuantity > 0. Days in Shop = Current Date - Arrival Date. Risk Level: High Risk (> 4 days, Red), Caution (2–4 days, Yellow), Normal (< 2 days, Green)."
+  ,"Customer": "Customer"
+  ,"Buyer": "Buyer"
+  ,"Walk-in Cash Sales": "Walk-in Cash Sales"
+  ,"Customer Receipts": "Customer Receipts"
+  ,"Beopari/Grower Payments": "Beopari/Grower Payments"
+  ,"Shop Expenses": "Shop Expenses"
+  ,"Failed to load report data.": "Failed to load report data."
+  ,"Report Specifications & Audit Metadata": "Report Specifications & Audit Metadata"
+  ,"Data Source Collections": "Data Source Collections"
+  ,"Authorized Roles": "Authorized Roles"
+  ,"Included Column Fields": "Included Column Fields"
+  ,"Calculation Logic & Formulas": "Calculation Logic & Formulas"
+  ,"Walk-In Customer (Fast Retail)": "Walk-In Customer (Fast Retail)"
+  ,"Failed to load lots/customers.": "Failed to load lots/customers."
+  ,"Please select a lot first.": "Please select a lot first."
+  ,"Boli session started successfully.": "Boli session started successfully."
+  ,"Failed to start Boli session.": "Failed to start Boli session."
+  ,"Boli session closed.": "Boli session closed."
+  ,"Failed to close session.": "Failed to close session."
+  ,"Boli session reopened.": "Boli session reopened."
+  ,"Failed to reopen session.": "Failed to reopen session."
+  ,"Please start a Boli session before adding a sale.": "Please start a Boli session before adding a sale."
+  ,"Customer, quantity, and rate are required.": "Customer, quantity, and rate are required."
+  ,"Sale saved to the existing sales ledger.": "Sale saved to the existing sales ledger."
+  ,"Failed to record sale.": "Failed to record sale."
+  ,"Sale deleted and ledger updated.": "Sale deleted and ledger updated."
+  ,"Failed to delete sale.": "Failed to delete sale."
+  ,"Fast lot sales workflow": "Fast lot sales workflow"
+  ,"Back to normal sales": "Back to normal sales"
+  ,"Select Lot": "Select Lot"
+  ,"Choose a lot": "Choose a lot"
+  ,"Lot": "Lot"
+  ,"Original Qty": "Original Qty"
+  ,"Sold": "Sold"
+  ,"Percentage": "Percentage"
+  ,"Fixed Amount": "Fixed Amount"
+  ,"Per Unit": "Per Unit"
+  ,"Commission Value": "Commission Value"
+  ,"Working...": "Working..."
+  ,"Start Boli Session": "Start Boli Session"
+  ,"Session": "Session"
+  ,"Reopen": "Reopen"
+  ,"Search and select customer": "Search and select customer"
+  ,"Search name, phone, or Khata ID": "Search name, phone, or Khata ID"
+  ,"No customers found": "No customers found"
+  ,"Remaining after this entry": "Remaining after this entry"
+  ,"Time": "Time"
+  ,"Action": "Action"
+  ,"No sales recorded in this session yet.": "No sales recorded in this session yet."
+  ,"Waiting for session": "Waiting for session"
+  ,"Select a lot and start a Boli session": "Select a lot and start a Boli session"
+  ,"Vehicle status updated to {{status}}": "Vehicle status updated to {{status}}"
+  ,"Failed to update vehicle status": "Failed to update vehicle status"
+  ,"Gate vehicle arrival logged successfully!": "Gate vehicle arrival logged successfully!"
+  ,"Vehicle log updated successfully!": "Vehicle log updated successfully!"
+  ,"Failed to save vehicle entry": "Failed to save vehicle entry"
+  ,"Delete Vehicle Log?": "Delete Vehicle Log?"
+  ,"Are you sure you want to delete vehicle entry \"{{truckNumber}}\"? This action cannot be undone.": "Are you sure you want to delete vehicle entry \"{{truckNumber}}\"? This action cannot be undone."
+  ,"Delete Entry": "Delete Entry"
+  ,"Vehicle log deleted successfully.": "Vehicle log deleted successfully."
+  ,"Failed to delete vehicle record": "Failed to delete vehicle record"
+  ,"Arrived Today": "Arrived Today"
+  ,"Arrived at Mandi gates": "Arrived at Mandi gates"
+  ,"Awaiting Unloading": "Awaiting Unloading"
+  ,"Waiting inside Mandi": "Waiting inside Mandi"
+  ,"Completed Unloads": "Completed Unloads"
+  ,"All crates recorded": "All crates recorded"
+  ,"Dispatched Empty": "Dispatched Empty"
+  ,"Exited Mandi gates": "Exited Mandi gates"
+  ,"Gate Logistics - Active Truck Logs": "Gate Logistics - Active Truck Logs"
+  ,"Track and log vehicle arrivals, waiting times, and cargo details": "Track and log vehicle arrivals, waiting times, and cargo details"
+  ,"Search truck, driver...": "Search truck, driver..."
+  ,"LOG NEW VEHICLE ARRIVAL": "LOG NEW VEHICLE ARRIVAL"
+  ,"Truck Number": "Truck Number"
+  ,"Driver Name": "Driver Name"
+  ,"Crate Load Count": "Crate Load Count"
+  ,"Cargo Description": "Cargo Description"
+  ,"Current Status": "Current Status"
+  ,"Update Status": "Update Status"
+  ,"Crates": "Crates"
+  ,"Arrived": "Arrived"
+  ,"Waiting": "Waiting"
+  ,"Completed": "Completed"
+  ,"Dispatched": "Dispatched"
+  ,"Edit Vehicle Log": "Edit Vehicle Log"
+  ,"Loading vehicle logs...": "Loading vehicle logs..."
+  ,"No vehicle logs matching chosen filter.": "No vehicle logs matching chosen filter."
+  ,"Delete Vehicle Log": "Delete Vehicle Log"
+  ,"Log Gate Vehicle Entry": "Log Gate Vehicle Entry"
+  ,"Update Gate Vehicle Record": "Update Gate Vehicle Record"
+  ,"Track incoming trucks, grower assignments, and crate loads": "Track incoming trucks, grower assignments, and crate loads"
+  ,"Truck / Vehicle Number": "Truck / Vehicle Number"
+  ,"e.g. MH-12-PQ-9999": "e.g. MH-12-PQ-9999"
+  ,"Driver Name & Phone": "Driver Name & Phone"
+  ,"e.g. Driver Ramesh": "e.g. Driver Ramesh"
+  ,"Assign Orchard Beopari/Grower": "Assign Orchard Beopari/Grower"
+  ,"-- Choose Grower --": "-- Choose Grower --"
+  ,"Total Loaded Crate Count": "Total Loaded Crate Count"
+  ,"e.g. 350": "e.g. 350"
+  ,"Gate Status": "Gate Status"
+  ,"Waiting inside": "Waiting inside"
+  ,"Completed Unloading": "Completed Unloading"
+  ,"Cargo Fruit / Notes": "Cargo Fruit / Notes"
+  ,"e.g. Kashmiri Apples Red Quality": "e.g. Kashmiri Apples Red Quality"
+  ,"Saving...": "Saving..."
+  ,"Save Gate Entry": "Save Gate Entry"
+  ,"Clear search": "Clear search"
+  ,"Vehicle Type": "Vehicle Type"
+  ,"Vehicle": "Vehicle"
+  ,"Truck": "Truck"
+  ,"Shehzore": "Shehzore"
+  ,"Mazda": "Mazda"
+  ,"Tractor Trolley": "Tractor Trolley"
+  ,"Other": "Other"
+  ,"Driver Phone": "Driver Phone"
+  ,"Beopari and Products": "Beopari and Products"
+  ,"Beopari": "Beopari"
+  ,"beopari": "beopari"
+  ,"product rows": "product rows"
+  ,"Product Rows": "Product Rows"
+  ,"rows": "rows"
+  ,"Add Beopari": "Add Beopari"
+  ,"Remove Beopari": "Remove Beopari"
+  ,"Add Product": "Add Product"
+  ,"Remove Product": "Remove Product"
+  ,"-- Choose Beopari --": "-- Choose Beopari --"
+  ,"Product": "Product"
+  ,"Custom product": "Custom product"
+  ,"Product name": "Product name"
+  ,"Quantity": "Quantity"
+  ,"Unit": "Unit"
+  ,"Notes": "Notes"
+  ,"Download Truck Parchi": "Download Truck Parchi"
+  ,"Add at least one beopari.": "Add at least one beopari."
+  ,"Select a beopari for every section.": "Select a beopari for every section."
+  ,"Each beopari should appear once; add products to that section.": "Each beopari should appear once; add products to that section."
+  ,"Each product needs a name, quantity of zero or more, and unit.": "Each product needs a name, quantity of zero or more, and unit."
+  ,"Registered Businesses (Tenants)": "Registered Businesses (Tenants)"
+  ,"Manage multi-tenant isolation, subscriptions, accounts and statuses": "Manage multi-tenant isolation, subscriptions, accounts and statuses"
+  ,"Refresh list": "Refresh list"
+  ,"Register Business": "Register Business"
+  ,"Search by business name, reg #, owner, email, phone, city...": "Search by business name, reg #, owner, email, phone, city..."
+  ,"Active Only": "Active Only"
+  ,"Trial Only": "Trial Only"
+  ,"All Subscription Plans": "All Subscription Plans"
+  ,"Business & Reg #": "Business & Reg #"
+  ,"Owner & Contact": "Owner & Contact"
+  ,"Location": "Location"
+  ,"Reg. Date": "Reg. Date"
+  ,"Plan & Expiry": "Plan & Expiry"
+  ,"Arthi": "Arthi"
+  ,"Exp": "Exp"
+  ,"View Business Details": "View Business Details"
+  ,"Edit Business Information": "Edit Business Information"
+  ,"Change Plan / Extend Subscription": "Change Plan / Extend Subscription"
+  ,"Reset Owner Password": "Reset Owner Password"
+  ,"Support Impersonation Login": "Support Impersonation Login"
+  ,"Suspend Business": "Suspend Business"
+  ,"Activate Business": "Activate Business"
+  ,"No businesses match the current search or filters.": "No businesses match the current search or filters."
+  ,"Showing {{from}} to {{to}} of {{count}} businesses": "Showing {{from}} to {{to}} of {{count}} businesses"
+  ,"Page {{current}} of {{total}}": "Page {{current}} of {{total}}"
+  ,"Subscription & Plan Management": "Subscription & Plan Management"
+  ,"Define pricing tiers, features, and track client subscription lifecycles": "Define pricing tiers, features, and track client subscription lifecycles"
+  ,"Subscription Plans Catalog": "Subscription Plans Catalog"
+  ,"Tenant Subscriptions Tracker ({{count}})": "Tenant Subscriptions Tracker ({{count}})"
+  ,"Create Plan": "Create Plan"
+  ,"Most Popular": "Most Popular"
+  ,"Standard MandiOS ERP plan": "Standard MandiOS ERP plan"
+  ,"/ month": "/ month"
+  ,"Rs. {{price}} billed annually (save ~15%)": "Rs. {{price}} billed annually (save ~15%)"
+  ,"Max Users:": "Max Users:"
+  ,"Max Products:": "Max Products:"
+  ,"Duration Preset:": "Duration Preset:"
+  ,"Truck & Logistics Management": "Truck & Logistics Management"
+  ,"Returns & Crates Lifecycle": "Returns & Crates Lifecycle"
+  ,"PDF & Excel Financial Ledgers": "PDF & Excel Financial Ledgers"
+  ,"Priority 24/7 Phone Support": "Priority 24/7 Phone Support"
+  ,"Edit Plan": "Edit Plan"
+  ,"Delete Plan": "Delete Plan"
+  ,"Expiring Soon (≤30d)": "Expiring Soon (≤30d)"
+  ,"Search business or reg #...": "Search business or reg #..."
+  ,"Current Plan": "Current Plan"
+  ,"Start Date": "Start Date"
+  ,"Expiry Date": "Expiry Date"
+  ,"Days Remaining": "Days Remaining"
+  ,"Extend / Change Plan": "Extend / Change Plan"
+  ,"No subscriptions found matching the selected filter.": "No subscriptions found matching the selected filter."
+  ,"Expired {{days}}d ago": "Expired {{days}}d ago"
+  ,"Expires Today": "Expires Today"
+  ,"{{days}} days left": "{{days}} days left"
+  ,"Super Admin Activity & Audit Logs": "Super Admin Activity & Audit Logs"
+  ,"Immutable platform action records and administrative events trail": "Immutable platform action records and administrative events trail"
+  ,"Refresh logs": "Refresh logs"
+  ,"Search by action, performed by, tenant, or details...": "Search by action, performed by, tenant, or details..."
+  ,"All Actions": "All Actions"
+  ,"Performed By": "Performed By"
+  ,"Target Business / Tenant": "Target Business / Tenant"
+  ,"Timestamp": "Timestamp"
+  ,"No audit records match the current filters.": "No audit records match the current filters."
+  ,"Showing {{from}} to {{to}} of {{count}} logs": "Showing {{from}} to {{to}} of {{count}} logs"
+  ,"Platform Users Overview": "Platform Users Overview"
+  ,"Cross-tenant user directory, account statuses and login activity": "Cross-tenant user directory, account statuses and login activity"
+  ,"Total Users: {{count}}": "Total Users: {{count}}"
+  ,"Active: {{count}}": "Active: {{count}}"
+  ,"Search by name, email, phone, or business...": "Search by name, email, phone, or business..."
+  ,"All Roles": "All Roles"
+  ,"Inactive Only": "Inactive Only"
+  ,"User Name": "User Name"
+  ,"Contact Details": "Contact Details"
+  ,"Associated Business / Tenant": "Associated Business / Tenant"
+  ,"Last Login / Activity": "Last Login / Activity"
+  ,"Mandi Business": "Mandi Business"
+  ,"Tenant": "Tenant"
+  ,"View User Details": "View User Details"
+  ,"Deactivate User": "Deactivate User"
+  ,"No users match the search criteria.": "No users match the search criteria."
+  ,"Showing {{from}} to {{to}} of {{count}} users": "Showing {{from}} to {{to}} of {{count}} users"
+  ,"No activity yet": "No activity yet"
+  ,"Tenant Admin": "Tenant Admin"
+  ,"Expired": "Expired"
+  ,"Trial": "Trial"
+  ,"Enterprise": "Enterprise"
+  ,"Pro": "Pro"
+  ,"Basic": "Basic"
+  ,"Pakistan": "Pakistan"
+  ,"BUSINESS_REGISTERED": "Business registered"
+  ,"BUSINESS_EDITED": "Business updated"
+  ,"BUSINESS_ACTIVATED": "Business activated"
+  ,"BUSINESS_SUSPENDED": "Business suspended"
+  ,"SUBSCRIPTION_EXTENDED": "Subscription extended"
+  ,"SUBSCRIPTION_CHANGED": "Subscription changed"
+  ,"USER_ACTIVATED": "User activated"
+  ,"USER_DEACTIVATED": "User deactivated"
+  ,"PASSWORD_RESET": "Password reset"
+  ,"SETTINGS_UPDATED": "Settings updated"
+  ,"Suspended": "Suspended"
+  ,"Details": "Details"
+  ,"Global settings updated successfully!": "Global settings updated successfully!"
+  ,"Failed to update settings.": "Failed to update settings."
+  ,"Full database backup downloaded successfully.": "Full database backup downloaded successfully."
+  ,"Announcement published on the login page.": "Announcement published on the login page."
+  ,"Failed to publish announcement.": "Failed to publish announcement."
+  ,"Remove this announcement from the login page?": "Remove this announcement from the login page?"
+  ,"Announcement removed from the login page.": "Announcement removed from the login page."
+  ,"Failed to remove announcement.": "Failed to remove announcement."
+  ,"Platform Configuration & System Health": "Platform Configuration & System Health"
+  ,"Control global application parameters, system telemetry, and database snapshots": "Control global application parameters, system telemetry, and database snapshots"
+  ,"Global Settings": "Global Settings"
+  ,"System Telemetry": "System Telemetry"
+  ,"Database Backup": "Database Backup"
+  ,"Announcements": "Announcements"
+  ,"Platform Name": "Platform Name"
+  ,"Support Email Address": "Support Email Address"
+  ,"Support Phone / WhatsApp": "Support Phone / WhatsApp"
+  ,"Default Trial Period (Days)": "Default Trial Period (Days)"
+  ,"Maintenance Mode": "Maintenance Mode"
+  ,"Only Super Admins can access the platform when enabled": "Only Super Admins can access the platform when enabled"
+  ,"Saving Changes...": "Saving Changes..."
+  ,"Save Configuration": "Save Configuration"
+  ,"System Status": "System Status"
+  ,"Uptime": "Uptime"
+  ,"Node": "Node"
+  ,"Operational": "Operational"
+  ,"Total Database Storage Records": "Total Database Storage Records"
+  ,"Full Database Snapshot Export": "Full Database Snapshot Export"
+  ,"Download a full JSON archive of all tenant collections and platform records.": "Download a full JSON archive of all tenant collections and platform records."
+  ,"Full Multi-Tenant Complete Backup": "Full Multi-Tenant Complete Backup"
+  ,"Includes businesses, users, stock entries, sales, invoices, ledgers, payments, expenses, trucks, and audit trails.": "Includes businesses, users, stock entries, sales, invoices, ledgers, payments, expenses, trucks, and audit trails."
+  ,"Preparing Backup...": "Preparing Backup..."
+  ,"Download Full JSON Backup": "Download Full JSON Backup"
+  ,"Publish Login Announcement": "Publish Login Announcement"
+  ,"This announcement will appear to users on the login page until the end of this month.": "This announcement will appear to users on the login page until the end of this month."
+  ,"Announcement title": "Announcement title"
+  ,"Write your offer here...": "Write your offer here..."
+  ,"Publishing...": "Publishing..."
+  ,"Publish Offer": "Publish Offer"
+  ,"Published Announcements": "Published Announcements"
+  ,"No announcements published.": "No announcements published."
+  ,"Remove announcement": "Remove announcement"
+  ,"Removing...": "Removing..."
+  ,"Remove": "Remove"
+  ,"Loading users...": "Loading users..."
+  ,"Action Type": "Action Type"
+  ,"Event Details": "Event Details"
+  ,"IP Address": "IP Address"
+  ,"System": "System"
+  ,"Dedicated Report Page": "Dedicated Report Page"
+  ,"System Compliance & Security": "System Compliance & Security"
+  ,"System Activity & Financial Audit Statement": "System Activity & Financial Audit Statement"
+  ,"Refresh Audit Logs": "Refresh Audit Logs"
+  ,"Print Audit Log": "Print Audit Log"
+  ,"SYSTEM ACTIVITY & SECURITY AUDIT TRAIL STATEMENT": "SYSTEM ACTIVITY & SECURITY AUDIT TRAIL STATEMENT"
+  ,"User Role": "User Role"
+  ,"Event Action": "Event Action"
+  ,"Audit Records": "Audit Records"
+  ,"Events": "Events"
+  ,"Security Level": "Security Level"
+  ,"Tenant Isolated": "Tenant Isolated"
+  ,"Audit Protocol": "Audit Protocol"
+  ,"Immutable System Log": "Immutable System Log"
+  ,"Audit Trail Filters": "Audit Trail Filters"
+  ,"All User Roles": "All User Roles"
+  ,"Administrator": "Administrator"
+  ,"Mandi Clerk": "Mandi Clerk"
+  ,"Search Keywords": "Search Keywords"
+  ,"Search user, event description...": "Search user, event description..."
+  ,"System Event Log Statements (": "System Event Log Statements ("
+  ,"Clear Filters": "Clear Filters"
+  ,"Operator / User": "Operator / User"
+  ,"Fetching System Audit Log Entries...": "Fetching System Audit Log Entries..."
+  ,"No system audit logs found.": "No system audit logs found."
+  ,"Inventory & Stock Supplies": "Inventory & Stock Supplies"
+  ,"Mandi Stock Supplies & Consignment Inventory Report": "Mandi Stock Supplies & Consignment Inventory Report"
+  ,"Refresh Stock Data": "Refresh Stock Data"
+  ,"Print Stock Report": "Print Stock Report"
+  ,"INVENTORY STOCK ARRIVAL & WAREHOUSE BALANCE REPORT": "INVENTORY STOCK ARRIVAL & WAREHOUSE BALANCE REPORT"
+  ,"Produce Item": "Produce Item"
+  ,"Stock Status": "Stock Status"
+  ,"Consignment Lots": "Consignment Lots"
+  ,"Lots": "Lots"
+  ,"Total Received Qty": "Total Received Qty"
+  ,"Units": "Units"
+  ,"Total Sold Qty": "Total Sold Qty"
+  ,"Remaining Warehouse Stock": "Remaining Warehouse Stock"
+  ,"Total Arrival Lots": "Total Arrival Lots"
+  ,"Consignments": "Consignments"
+  ,"Total lots in current report view": "Total lots in current report view"
+  ,"Total Stock Received": "Total Stock Received"
+  ,"Total arrival weight/quantity": "Total arrival weight/quantity"
+  ,"Total Quantity Sold": "Total Quantity Sold"
+  ,"Billed in batch sales": "Billed in batch sales"
+  ,"Remaining Warehouse Inventory": "Remaining Warehouse Inventory"
+  ,"Available for future sales": "Available for future sales"
+  ,"Stock Report Filters": "Stock Report Filters"
+  ,"In-Stock (Available Inventory)": "In-Stock (Available Inventory)"
+  ,"Fully Sold / Depleted": "Fully Sold / Depleted"
+  ,"Search Keyword": "Search Keyword"
+  ,"Search Lot#, truck...": "Search Lot#, truck..."
+  ,"Warehouse Inventory Lot Ledger (": "Warehouse Inventory Lot Ledger ("
+  ,"Product Commodity": "Product Commodity"
+  ,"Vehicle No": "Vehicle No"
+  ,"Sold Qty": "Sold Qty"
+  ,"Remaining Inventory": "Remaining Inventory"
+  ,"Fetching Inventory Stock Records...": "Fetching Inventory Stock Records..."
+  ,"No stock inventory entries found matching filters.": "No stock inventory entries found matching filters."
+  ,"TOTALS (": "TOTALS ("
+  ,"Logistics & Truck Freight Statement": "Logistics & Truck Freight Statement"
+  ,"Truck Logs & Freight Logistics Report": "Truck Logs & Freight Logistics Report"
+  ,"Refresh Logistics Data": "Refresh Logistics Data"
+  ,"Print Logistics Report": "Print Logistics Report"
+  ,"TRUCK FREIGHT LOGISTICS & UNLOADING AUDIT STATEMENT": "TRUCK FREIGHT LOGISTICS & UNLOADING AUDIT STATEMENT"
+  ,"Total Arrived Trucks": "Total Arrived Trucks"
+  ,"Vehicles": "Vehicles"
+  ,"Total Freight Disbursed": "Total Freight Disbursed"
+  ,"Total Labor / Unloading Charges": "Total Labor / Unloading Charges"
+  ,"Truck arrivals in report view": "Truck arrivals in report view"
+  ,"Sum of truck freight charges": "Sum of truck freight charges"
+  ,"Sum of unloading charges": "Sum of unloading charges"
+  ,"Logistics Filters": "Logistics Filters"
+  ,"Logistics Status": "Logistics Status"
+  ,"Unloading": "Unloading"
+  ,"Cleared": "Cleared"
+  ,"Truck #, Driver, Transporter...": "Truck #, Driver, Transporter..."
+  ,"Logistics Truck Movement Entries (": "Logistics Truck Movement Entries ("
+  ,"Transporter Company": "Transporter Company"
+  ,"Freight Charges": "Freight Charges"
+  ,"Labor Charges": "Labor Charges"
+  ,"Fetching Logistics Truck Records...": "Fetching Logistics Truck Records..."
+  ,"No truck logistics records found.": "No truck logistics records found."
+  ,"Trucks": "Trucks"
+  ,"Received": "Received"
+  ,"End Date": "End Date"
+  ,"All Actions": "All Actions"
+  ,"Total Qty": "Total Qty"
+  ,"Transporter": "Transporter"
+  ,"Freight Charges (Rs)": "Freight Charges (Rs)"
+  ,"Labor Charges (Rs)": "Labor Charges (Rs)"
+  ,"In-Stock": "In-Stock"
+  ,"Depleted": "Depleted"
+  ,"Failed to load products from server.": "Failed to load products from server."
+  ,"Please enter a product name.": "Please enter a product name."
+  ,"Product \"{{name}}\" added successfully!": "Product \"{{name}}\" added successfully!"
+  ,"Product \"{{name}}\" updated successfully!": "Product \"{{name}}\" updated successfully!"
+  ,"Failed to save product details.": "Failed to save product details."
+  ,"this product": "this product"
+  ,"Delete {{name}}?": "Delete {{name}}?"
+  ,"Are you sure you want to permanently remove \"{{name}}\" from the product catalog? Existing historical sales and invoices will maintain their records.": "Are you sure you want to permanently remove \"{{name}}\" from the product catalog? Existing historical sales and invoices will maintain their records."
+  ,"Are you sure you want to delete {{name}}?": "Are you sure you want to delete {{name}}?"
+  ,"Product \"{{name}}\" removed from catalog.": "Product \"{{name}}\" removed from catalog."
+  ,"Failed to delete product.": "Failed to delete product."
+  ,"Define fruits & vegetables, standard units (crates, bags, boxes) and live stock availability": "Define fruits & vegetables, standard units (crates, bags, boxes) and live stock availability"
+  ,"Refresh Catalog": "Refresh Catalog"
+  ,"ADD NEW PRODUCT": "ADD NEW PRODUCT"
+  ,"Total Produce": "Total Produce"
+  ,"Active Items": "Active Items"
+  ,"Low Stock (≤20)": "Low Stock (≤20)"
+  ,"Out of Stock (0)": "Out of Stock (0)"
+  ,"Search produce catalog by name, category, unit...": "Search produce catalog by name, category, unit..."
+  ,"Grid Cards View": "Grid Cards View"
+  ,"Table View": "Table View"
+  ,"Name (A → Z)": "Name (A → Z)"
+  ,"Name (Z → A)": "Name (Z → A)"
+  ,"Stock (Highest → Lowest)": "Stock (Highest → Lowest)"
+  ,"Stock (Lowest → Highest)": "Stock (Lowest → Highest)"
+  ,"Group by Category": "Group by Category"
+  ,"Category:": "Category:"
+  ,"Stock Level:": "Stock Level:"
+  ,"In Stock (>20)": "In Stock (>20)"
+  ,"Low (≤20)": "Low (≤20)"
+  ,"Loading produce catalog...": "Loading produce catalog..."
+  ,"No Produce Found": "No Produce Found"
+  ,"No products match your current search and filter criteria. Try resetting filters.": "No products match your current search and filter criteria. Try resetting filters."
+  ,"Your product catalog is currently empty. Get started by adding your first fruit or vegetable item.": "Your product catalog is currently empty. Get started by adding your first fruit or vegetable item."
+  ,"Add First Product": "Add First Product"
+  ,"Available Stock": "Available Stock"
+  ,"Near Depletion": "Near Depletion"
+  ,"Out of Stock": "Out of Stock"
+  ,"Edit Product": "Edit Product"
+  ,"Produce Name": "Produce Name"
+  ,"Showing": "Showing"
+  ,"produce items": "produce items"
+  ,"Add New Produce Item": "Add New Produce Item"
+  ,"Edit Product Details": "Edit Product Details"
+  ,"Specify produce name, commodity category and packaging unit": "Specify produce name, commodity category and packaging unit"
+  ,"Product / Produce Name": "Product / Produce Name"
+  ,"e.g. Apple Kala Kulu (سیب کالا کولو) or Potato Lady Rosetta": "e.g. Apple Kala Kulu (سیب کالا کولو) or Potato Lady Rosetta"
+  ,"Fruits (پھل)": "Fruits (پھل)"
+  ,"Vegetables (سبزیاں)": "Vegetables (سبزیاں)"
+  ,"Standard Packaging Unit": "Standard Packaging Unit"
+  ,"Select Unit": "Select Unit"
+  ,"Crate (کریٹ)": "Crate (کریٹ)"
+  ,"Box (پیٹی / ڈبہ)": "Box (پیٹی / ڈبہ)"
+  ,"Bag (بوری / تھیلا)": "Bag (بوری / تھیلا)"
+  ,"Kg (کلو گرام)": "Kg (کلو گرام)"
+  ,"Maund (من)": "Maund (من)"
+  ,"Bunch (لُونگر)": "Bunch (لُونگر)"
+  ,"Carton (کارٹن)": "Carton (کارٹن)"
+  ,"Catalog Status": "Catalog Status"
+  ,"Active (فعال - دستیاب)": "Active (فعال - دستیاب)"
+  ,"Inactive (غیر فعال)": "Inactive (غیر فعال)"
+  ,"Saving...": "Saving..."
+  ,"Delete Product": "Delete Product"
+  ,"Fruits": "Fruits"
+  ,"Vegetables": "Vegetables"
+  ,"Standard Unit": "Standard Unit"
+  ,"Low Stock": "Low Stock"
+  ,"Save Product": "Save Product"
+  ,"Update Product": "Update Product"
+  ,"Global Dashboard Analytical Filters": "Global Dashboard Analytical Filters"
+  ,"All dashboard filters cleared!": "All dashboard filters cleared!"
+  ,"Clear All Filters": "Clear All Filters"
+  ,"Date Filter Period": "Date Filter Period"
+  ,"Yesterday": "Yesterday"
+  ,"This Week": "This Week"
+  ,"This Month": "This Month"
+  ,"Custom Date Range": "Custom Date Range"
+  ,"Mandi Fruit Item": "Mandi Fruit Item"
+  ,"-- All Fruits / Products --": "-- All Fruits / Products --"
+  ,"Selected": "Selected"
+  ,"Search beopari/grower...": "Search beopari/grower..."
+  ,"-- All Beopari/Growers (": "-- All Beopari/Growers ("
+  ,"Show data for all registered growers": "Show data for all registered growers"
+  ,"No beopari/grower matching \"{{query}}\"": "No beopari/grower matching \"{{query}}\""
+  ,"Search buyer / customer...": "Search buyer / customer..."
+  ,"-- All Customers (": "-- All Customers ("
+  ,"Show data for all registered buyers": "Show data for all registered buyers"
+  ,"No buyer matching \"{{query}}\"": "No buyer matching \"{{query}}\""
+  ,"Fruit Category": "Fruit Category"
+  ,"-- All Categories --": "-- All Categories --"
+  ,"Logistics / Truck Log": "Logistics / Truck Log"
+  ,"e.g. MH-12-PQ-9999": "e.g. MH-12-PQ-9999"
+  ,"Mandi Operator Clerk": "Mandi Operator Clerk"
+  ,"-- All Clerks --": "-- All Clerks --"
+  ,"Custom Date Range Selection": "Custom Date Range Selection"
+  ,"Analytical filters applied successfully!": "Analytical filters applied successfully!"
+  ,"APPLY FILTERS": "APPLY FILTERS"
+  ,"Low Stock Warning Alerts!": "Low Stock Warning Alerts!"
+  ,"The following items are low in stock:": "The following items are low in stock:"
+  ,"Please coordinate with Suppliers!": "Please coordinate with Suppliers!"
+  ,"Financial Summary": "Financial Summary"
+  ,"Stock & Lot Ledger": "Stock & Lot Ledger"
+  ,"Customers & Suppliers": "Customers & Suppliers"
+  ,"Operating Expenses": "Operating Expenses"
+  ,"Staff & Payroll": "Staff & Payroll"
+  ,"Recent Activities Feed": "Recent Activities Feed"
+  ,"Gross Sales Revenue": "Gross Sales Revenue"
+  ,"Total sold stock value": "Total sold stock value"
+  ,"Walk-In Customer Revenue": "Walk-In Customer Revenue"
+  ,"Total sold to walk-in buyers": "Total sold to walk-in buyers"
+  ,"Total Cost of Stock": "Total Cost of Stock"
+  ,"Total supplied stock value": "Total supplied stock value"
+  ,"Customer Commission": "Customer Commission"
+  ,"Cash In / Collected": "Cash In / Collected"
+  ,"Customer receipts collected": "Customer receipts collected"
+  ,"Cash Out / Disbursed": "Cash Out / Disbursed"
+  ,"Beopari / Supplier payments disbursed": "Beopari / Supplier payments disbursed"
+  ,"Brokerage Net Profit": "Brokerage Net Profit"
+  ,"Mandi Expenses": "Mandi Expenses"
+  ,"Labor, Transport, Loading costs": "Labor, Transport, Loading costs"
+  ,"Outstanding Receivables": "Outstanding Receivables"
+  ,"Due from Buyers / Customers": "Due from Buyers / Customers"
+  ,"Outstanding Payables": "Outstanding Payables"
+  ,"Owed to Beopari / Suppliers": "Owed to Beopari / Suppliers"
+  ,"Click to view Supplier Expense Deduction Report": "Click to view Supplier Expense Deduction Report"
+  ,"Expense Deductions": "Expense Deductions"
+  ,"View Report ↗": "View Report ↗"
+  ,"Freight, Crates, Market/Sarkari Fee & Lot Deductions": "Freight, Crates, Market/Sarkari Fee & Lot Deductions"
+  ,"Sales vs Commission Growth Ledger": "Sales vs Commission Growth Ledger"
+  ,"Total Trucks Received": "Total Trucks Received"
+  ,"Arrived in chosen period": "Arrived in chosen period"
+  ,"Suppliers Delivering": "Suppliers Delivering"
+  ,"Active suppliers delivering": "Active suppliers delivering"
+  ,"Fruit Categories": "Fruit Categories"
+  ,"Distinct category types": "Distinct category types"
+  ,"Crates Received": "Crates Received"
+  ,"Total volume received": "Total volume received"
+  ,"Crates Sold": "Crates Sold"
+  ,"Total volume sold": "Total volume sold"
+  ,"Remaining Stock": "Remaining Stock"
+  ,"Current available inventory": "Current available inventory"
+  ,"Unsold Consignment Lots": "Unsold Consignment Lots"
+  ,"Lots with pending balance": "Lots with pending balance"
+  ,"Total Active Customers": "Total Active Customers"
+  ,"Registered buyers in Mandi": "Registered buyers in Mandi"
+  ,"Customers Purchased Today": "Customers Purchased Today"
+  ,"Active deal makers today": "Active deal makers today"
+  ,"New Customer Registrations": "New Customer Registrations"
+  ,"Registered in chosen period": "Registered in chosen period"
+  ,"Buyers with Pending Due": "Buyers with Pending Due"
+  ,"Have positive due balances": "Have positive due balances"
+  ,"Total Active Suppliers": "Total Active Suppliers"
+  ,"Registered orchard growers": "Registered orchard growers"
+  ,"Suppliers Delivering Today": "Suppliers Delivering Today"
+  ,"Supplied stock logs today": "Supplied stock logs today"
+  ,"Suppliers with Pending Due": "Suppliers with Pending Due"
+  ,"Growers we owe money to": "Growers we owe money to"
+  ,"Top 10 Customers / Buyers Performance": "Top 10 Customers / Buyers Performance"
+  ,"Crates Purchased": "Crates Purchased"
+  ,"Total Billing Value": "Total Billing Value"
+  ,"Current Balance": "Current Balance"
+  ,"Top 10 Growers / Suppliers Performance": "Top 10 Growers / Suppliers Performance"
+  ,"Beopari Name": "Beopari Name"
+  ,"Crates Supplied": "Crates Supplied"
+  ,"Gross dealing value": "Gross dealing value"
+  ,"Our Pending Payable": "Our Pending Payable"
+  ,"Total Mandi Operating Expenses": "Total Mandi Operating Expenses"
+  ,"Calculated dynamically matching global filters and time-period": "Calculated dynamically matching global filters and time-period"
+  ,"Expenses Category Breakdown": "Expenses Category Breakdown"
+  ,"of total": "of total"
+  ,"No expenses recorded.": "No expenses recorded."
+  ,"Mandi Ledger - Expense Statement": "Mandi Ledger - Expense Statement"
+  ,"Log loading/unloading, transport, labor, and utilities costs": "Log loading/unloading, transport, labor, and utilities costs"
+  ,"RECORD NEW OPERATING EXPENSE": "RECORD NEW OPERATING EXPENSE"
+  ,"Expense Date": "Expense Date"
+  ,"Description / Remarks": "Description / Remarks"
+  ,"Expense Amount": "Expense Amount"
+  ,"No operational expenses recorded.": "No operational expenses recorded."
+  ,"Total Staff Registered": "Total Staff Registered"
+  ,"Employees": "Employees"
+  ,"Active On-Duty": "Active On-Duty"
+  ,"Please select a customer first.": "Please select a customer first."
+  ,"Please select the original sale.": "Please select the original sale."
+  ,"Quantity now returned must be greater than zero.": "Quantity now returned must be greater than zero."
+  ,"Quantity cannot be greater than the quantity sold. (Max: {{max}})": "Quantity cannot be greater than the quantity sold. (Max: {{max}})"
+  ,"Return saved as Draft.": "Return saved as Draft."
+  ,"Return sent for approval.": "Return sent for approval."
+  ,"Failed to record return. Please try again.": "Failed to record return. Please try again."
+  ,"Return has already been approved.": "Return has already been approved."
+  ,"Approve Return?": "Approve Return?"
+  ,"This will automatically restock {{quantity}} {{unit}} into inventory and credit Rs. {{amount}} to {{customer}} balance for Return #{{number}}. Do you want to proceed?": "This will automatically restock {{quantity}} {{unit}} into inventory and credit Rs. {{amount}} to {{customer}} balance for Return #{{number}}. Do you want to proceed?"
+  ,"Yes, Approve Return": "Yes, Approve Return"
+  ,"Return approved successfully. Produce restocked & balance credited.": "Return approved successfully. Produce restocked & balance credited."
+  ,"Failed to approve return.": "Failed to approve return."
+  ,"Cannot reject an already approved return.": "Cannot reject an already approved return."
+  ,"Please provide a short rejection reason.": "Please provide a short rejection reason."
+  ,"Return rejected.": "Return rejected."
+  ,"Failed to reject return.": "Failed to reject return."
+  ,"Delete Return?": "Delete Return?"
+  ,"Are you sure you want to delete Return #{{number}}?": "Are you sure you want to delete Return #{{number}}?"
+  ,"Return deleted successfully.": "Return deleted successfully."
+  ,"Failed to delete return.": "Failed to delete return."
+  ,"Produce Returns Ledger": "Produce Returns Ledger"
+  ,"Step 1: Select Customer": "Step 1: Select Customer"
+  ,"Type customer name or mobile number...": "Type customer name or mobile number..."
+  ,"No phone": "No phone"
+  ,"Return Date": "Return Date"
+  ,"Step 2: Select Original Sale": "Step 2: Select Original Sale"
+  ,"{{count}} recent sales found": "{{count}} recent sales found"
+  ,"Select a customer above to see their recent purchase history.": "Select a customer above to see their recent purchase history."
+  ,"No recent sales records found for this customer.": "No recent sales records found for this customer."
+  ,"Cannot return produce from Lot #{{lot}}. It is already recorded to Payables & Supply Value.": "Cannot return produce from Lot #{{lot}}. It is already recorded to Payables & Supply Value."
+  ,"Settled": "Settled"
+  ,"Sale": "Sale"
+  ,"Settled Lot": "Settled Lot"
+  ,"Returned": "Returned"
+  ,"Can Return": "Can Return"
+  ,"Already Returned": "Already Returned"
+  ,"STEP 3": "STEP 3"
+  ,"Produce Return Details": "Produce Return Details"
+  ,"Quantity Now Returned": "Quantity Now Returned"
+  ,"Max": "Max"
+  ,"Entered quantity ({{quantity}}) exceeds bought/available quantity ({{available}}).": "Entered quantity ({{quantity}}) exceeds bought/available quantity ({{available}})."
+  ,"Total Credit Amount": "Total Credit Amount"
+  ,"Comm. Reversed": "Comm. Reversed"
+  ,"Gross": "Gross"
+  ,"Reason for Return": "Reason for Return"
+  ,"e.g. Quality issue, customer surplus, size mismatch...": "e.g. Quality issue, customer surplus, size mismatch..."
+  ,"Notes / Remarks": "Notes / Remarks"
+  ,"Optional remarks...": "Optional remarks..."
+  ,"Return Quantity Exceeds Bought / Sold Crates": "Return Quantity Exceeds Bought / Sold Crates"
+  ,"You entered {{quantity}} {{unit}}, but the customer only has {{available}} {{unit}} available from this invoice. Please decrease the return quantity to proceed.": "You entered {{quantity}} {{unit}}, but the customer only has {{available}} {{unit}} available from this invoice. Please decrease the return quantity to proceed."
+  ,"Cancel / Reset": "Cancel / Reset"
+  ,"Save Draft": "Save Draft"
+  ,"Submit for Approval": "Submit for Approval"
+  ,"Search return no, customer, product...": "Search return no, customer, product..."
+  ,"All Dates": "All Dates"
+  ,"Waiting Approval": "Waiting Approval"
+  ,"Return No.": "Return No."
+  ,"Product / Details": "Product / Details"
+  ,"Qty Returned": "Qty Returned"
+  ,"Credit Amount": "Credit Amount"
+  ,"Produce Lot": "Produce Lot"
+  ,"Approve Return": "Approve Return"
+  ,"Approve": "Approve"
+  ,"Reject Return": "Reject Return"
+  ,"Reject": "Reject"
+  ,"Delete Record": "Delete Record"
+  ,"No return records found matching the chosen filters.": "No return records found matching the chosen filters."
+  ,"Return Receipt": "Return Receipt"
+  ,"Produce Return Voucher": "Produce Return Voucher"
+  ,"Return Number": "Return Number"
+  ,"Produce Return Item": "Produce Return Item"
+  ,"Produce Credit Amount": "Produce Credit Amount"
+  ,"Reason": "Reason"
+  ,"Received By": "Received By"
+  ,"Approved By": "Approved By"
+  ,"Thank you for your business.": "Thank you for your business."
+  ,"Please enter the reason for rejecting this return voucher:": "Please enter the reason for rejecting this return voucher:"
+  ,"e.g. Sale mismatch, unauthorized return, or duplicate...": "e.g. Sale mismatch, unauthorized return, or duplicate..."
+  ,"Confirm Rejection": "Confirm Rejection"
+  ,"Approved": "Approved"
+  ,"Rejected": "Rejected"
+  ,"Draft": "Draft"
+  ,"Print Receipt": "Print Receipt"
+  ,"Outstanding Balances Ledger": "Outstanding Balances Ledger"
+  ,"Customer Outstanding Balances (Top 10)": "Customer Outstanding Balances (Top 10)"
+  ,"Receivables": "Receivables"
+  ,"Customer Name": "Customer Name"
+  ,"Outstanding Amount": "Outstanding Amount"
+  ,"No outstanding receivables logs found.": "No outstanding receivables logs found."
+  ,"Beopari/Grower Outstanding Payables (Top 10)": "Beopari/Grower Outstanding Payables (Top 10)"
+  ,"Payables": "Payables"
+  ,"Owed Amount": "Owed Amount"
+  ,"No outstanding payables logs found.": "No outstanding payables logs found."
+  ,"Lots Received": "Lots Received"
+  ,"Lots Completed / Sold Out": "Lots Completed / Sold Out"
+  ,"Lots Pending Balance": "Lots Pending Balance"
+  ,"Avg. Selling Price": "Avg. Selling Price"
+  ,"Highest Selling Deal / Lot": "Highest Selling Deal / Lot"
+  ,"Lowest Selling Deal / Lot": "Lowest Selling Deal / Lot"
+  ,"Fruit Consignment Sales & Stock Performance Summary": "Fruit Consignment Sales & Stock Performance Summary"
+  ,"Fruit / Product Name": "Fruit / Product Name"
+  ,"Total Received": "Total Received"
+  ,"Total Sold": "Total Sold"
+  ,"Avg Purchase Rate": "Avg Purchase Rate"
+  ,"Avg Selling Rate": "Avg Selling Rate"
+  ,"Gross Dealing Margin": "Gross Dealing Margin"
+  ,"No stock dealing logs found.": "No stock dealing logs found."
+  ,"Active Monthly Payroll Contract": "Active Monthly Payroll Contract"
+  ,"Total monthly liability": "Total monthly liability"
+  ,"Accumulated Staff Expenditure": "Accumulated Staff Expenditure"
+  ,"Includes Rs. {{amount}} Disbursed Loans": "Includes Rs. {{amount}} Disbursed Loans"
+  ,"Real-time Monthly Audit: {{month}} {{year}}": "Real-time Monthly Audit: {{month}} {{year}}"
+  ,"Auto calculated": "Auto calculated"
+  ,"Payroll Disbursed This Month": "Payroll Disbursed This Month"
+  ,"Paid out to active staff": "Paid out to active staff"
+  ,"Pending Salaries Due": "Pending Salaries Due"
+  ,"Liability to be cleared": "Liability to be cleared"
+  ,"Advances Disbursed This Month": "Advances Disbursed This Month"
+  ,"Emergency salary advances": "Emergency salary advances"
+  ,"Sum": "Sum"
+  ,"Supplies Inventory Log (Purchase)": "Supplies Inventory Log (Purchase)"
+  ,"Record and track consignment lots, produce arrivals, sales dispatches, and restocked customer returns": "Record and track consignment lots, produce arrivals, sales dispatches, and restocked customer returns"
+  ,"RECORD NEW STOCK ARRIVAL": "RECORD NEW STOCK ARRIVAL"
+  ,"Total Lots": "Total Lots"
+  ,"Arrived Stock": "Arrived Stock"
+  ,"Total received": "Total received"
+  ,"Gross Sold": "Gross Sold"
+  ,"Sales tickets": "Sales tickets"
+  ,"Returned Qty": "Returned Qty"
+  ,"Restocked": "Restocked"
+  ,"In warehouse": "In warehouse"
+  ,"Net turnover": "Net turnover"
+  ,"Search by Lot #, beopari/grower, produce...": "Search by Lot #, beopari/grower, produce..."
+  ,"In-Stock (Available)": "In-Stock (Available)"
+  ,"Partially Sold": "Partially Sold"
+  ,"Depleted (Zero Balance)": "Depleted (Zero Balance)"
+  ,"Lot # & Date": "Lot # & Date"
+  ,"Avg Realized Rate": "Avg Realized Rate"
+  ,"No stock arrival supplies found matching current filters.": "No stock arrival supplies found matching current filters."
+  ,"Edit Lot Arrival": "Edit Lot Arrival"
+  ,"Delete Lot Arrival": "Delete Lot Arrival"
+  ,"Showing Page": "Showing Page"
+  ,"total supply lots)": "total supply lots)"
+  ,"Commission Brokerage Sales Tickets": "Commission Brokerage Sales Tickets"
+  ,"Record fruit and vegetable sales to wholesale and retail buyers": "Record fruit and vegetable sales to wholesale and retail buyers"
+  ,"RECORD NEW SALE": "RECORD NEW SALE"
+  ,"Search sales tickets...": "Search sales tickets..."
+  ,"Billing Sum": "Billing Sum"
+  ,"BEOPARI/GROWER STOCK ARRIVAL": "BEOPARI/GROWER STOCK ARRIVAL"
+  ,"Select Beopari/Grower": "Select Beopari/Grower"
+  ,"Arrival Quantity": "Arrival Quantity"
+  ,"Enter physical units received": "Enter physical units received"
+  ,"Voucher Date": "Voucher Date"
+  ,"Vehicle / Truck No. (Optional)": "Vehicle / Truck No. (Optional)"
+  ,"e.g. LES-4921": "e.g. LES-4921"
+  ,"Lot Reference # (Optional)": "Lot Reference # (Optional)"
+  ,"Auto-assigned if empty": "Auto-assigned if empty"
+  ,"Note:": "Note:"
+  ,"Rate will be left pending at arrival, and will be updated automatically as you make sales tickets from this lot.": "Rate will be left pending at arrival, and will be updated automatically as you make sales tickets from this lot."
+  ,"Save Arrival": "Save Arrival"
+  ,"RECORD BATCH CONSIGNMENT SALE": "RECORD BATCH CONSIGNMENT SALE"
+  ,"Select Available Farmer Consignment": "Select Available Farmer Consignment"
+  ,"Select active consignment": "Select active consignment"
+  ,"left) - Supplier:": "left) - Supplier:"
+  ,"(Arrived:": "(Arrived:"
+  ,"Set Sale Rate (Rs.)": "Set Sale Rate (Rs.)"
+  ,"Set flat rate for selected buyers": "Set flat rate for selected buyers"
+  ,"Booking Date": "Booking Date"
+  ,"Select Buyers & Enter Quantities": "Select Buyers & Enter Quantities"
+  ,"Quantity to Buy": "Quantity to Buy"
+  ,"Discount (Rs.)": "Discount (Rs.)"
+  ,"Batch Sale Summary": "Batch Sale Summary"
+  ,"Total Buyers Selected:": "Total Buyers Selected:"
+  ,"Total Units Sold:": "Total Units Sold:"
+  ,"units": "units"
+  ,"Total Billing Amount:": "Total Billing Amount:"
+  ,"Record Batch Sales": "Record Batch Sales"
+  ,"SALES BILL INVOICE": "SALES BILL INVOICE"
+  ,"Format:": "Format:"
+  ,"PRINT": "PRINT"
+  ,"Logo": "Logo"
+  ,"Mandi OS Logo": "Mandi OS Logo"
+  ,"Shop 12, Fruit Market, Lahore, Pakistan": "Shop 12, Fruit Market, Lahore, Pakistan"
+  ,"Invoice:": "Invoice:"
+  ,"Billed To:": "Billed To:"
+  ,"Account Category:": "Account Category:"
+  ,"Mandi Trade Account Buyer": "Mandi Trade Account Buyer"
+  ,"Gross Subtotal:": "Gross Subtotal:"
+  ,"Buyer Commission:": "Buyer Commission:"
+  ,"+ Rs.": "+ Rs."
+  ,"Discount:": "Discount:"
+  ,"- Rs.": "- Rs."
+  ,"Total Invoice:": "Total Invoice:"
+  ,"Terms & Conditions:": "Terms & Conditions:"
+  ,"Close Invoice": "Close Invoice"
+  ,"Opening Customer Desk...": "Opening Customer Desk..."
+  ,"Account Link Error": "Account Link Error"
+  ,"We could not locate an active Customer Profile linked to your username. Contact Lahore Mandi Admin to link your login account!": "We could not locate an active Customer Profile linked to your username. Contact Lahore Mandi Admin to link your login account!"
+  ,"My Purchase History Ledger": "My Purchase History Ledger"
+  ,"Review all fruits & vegetables purchased from Mandi Commission Broker": "Review all fruits & vegetables purchased from Mandi Commission Broker"
+  ,"Unit Sale Price": "Unit Sale Price"
+  ,"Total Invoice Sum": "Total Invoice Sum"
+  ,"INVOICE": "INVOICE"
+  ,"Download PDF Report": "Download PDF Report"
+  ,"Search date or product...": "Search date or product..."
+  ,"Filter Date Range:": "Filter Date Range:"
+  ,"From Date:": "From Date:"
+  ,"To Date:": "To Date:"
+  ,"Reset Dates": "Reset Dates"
+  ,"Total Purchase Days": "Total Purchase Days"
+  ,"Days": "Days"
+  ,"Total Quantity Purchased": "Total Quantity Purchased"
+  ,"Total Day Invoice": "Total Day Invoice"
+  ,"No date records found": "No date records found"
+  ,"Try adjusting your search filter or view overall purchase history.": "Try adjusting your search filter or view overall purchase history."
+  ,"View Products": "View Products"
+  ,"Download PDF for this day": "Download PDF for this day"
+  ,"PDF": "PDF"
+  ,"My Comprehensive General Ledger": "My Comprehensive General Ledger"
+  ,"Posting transaction histories, payments, outstanding debts, and opening balances": "Posting transaction histories, payments, outstanding debts, and opening balances"
+  ,"DOWNLOAD PDF": "DOWNLOAD PDF"
+  ,"Lahore Sabzi & Fruit Mandi Commission Agent": "Lahore Sabzi & Fruit Mandi Commission Agent"
+  ,"Personal Customer Account Statement Ledger": "Personal Customer Account Statement Ledger"
+  ,"Account Owner:": "Account Owner:"
+  ,"| Phone:": "| Phone:"
+  ,"Reference Posting / Memo Description": "Reference Posting / Memo Description"
+  ,"Debit Cash (Purchases)": "Debit Cash (Purchases)"
+  ,"Credit Cash (Payments Paid)": "Credit Cash (Payments Paid)"
+  ,"Balance Post-Posting": "Balance Post-Posting"
+  ,"OFFICIAL TRADE TICKET": "OFFICIAL TRADE TICKET"
+  ,"PRINT TICKET": "PRINT TICKET"
+  ,"No:": "No:"
+  ,"Billed Customer:": "Billed Customer:"
+  ,"Mandi Trade Account Buyer": "Mandi Trade Account Buyer"
+  ,"Total Bill:": "Total Bill:"
+  ,"Close Invoice": "Close Invoice"
+  ,"Day Wise Purchases —": "Day Wise Purchases —"
+  ,"Visual product breakdown and invoice records for": "Visual product breakdown and invoice records for"
+  ,"Download Day PDF": "Download Day PDF"
+  ,"Produces Bought": "Produces Bought"
+  ,"Lines": "Lines"
+  ,"Day Total Sum": "Day Total Sum"
+  ,"Purchased Products Visual Breakdown": "Purchased Products Visual Breakdown"
+  ,"Product / Produce": "Product / Produce"
+  ,"Unit Sale Rate": "Unit Sale Rate"
+  ,"purchase records on": "purchase records on"
+  ,"Close Window": "Close Window"
+  ,"Opening Beopari/Grower Desk...": "Opening Beopari/Grower Desk..."
+  ,"We could not locate an active Beopari/Grower Profile linked to your username. Contact Lahore Mandi Admin to link your login account!": "We could not locate an active Beopari/Grower Profile linked to your username. Contact Lahore Mandi Admin to link your login account!"
+  ,"My Agricultural Supply History": "My Agricultural Supply History"
+  ,"Review all crop and vegetable shipments supplied to Lahore Mandi broker with commission settlement": "Review all crop and vegetable shipments supplied to Lahore Mandi broker with commission settlement"
+  ,"EXPORT CSV": "EXPORT CSV"
+  ,"PRINT REPORT": "PRINT REPORT"
+  ,"Commission Rate & Amt": "Commission Rate & Amt"
+  ,"Net Payable Amount": "Net Payable Amount"
+  ,"✓ Recorded": "✓ Recorded"
+  ,"Pending Settlement": "Pending Settlement"
+  ,"Unrecorded": "Unrecorded"
+  ,"Rs. 0": "Rs. 0"
+  ,"Pending": "Pending"
+  ,"RECEIPT": "RECEIPT"
+  ,"Posting transaction histories, payments received, shipments, and opening balances": "Posting transaction histories, payments received, shipments, and opening balances"
+  ,"Personal Beopari/Grower Account Statement Ledger": "Personal Beopari/Grower Account Statement Ledger"
+  ,"Debit Cash (Shipments Supplied)": "Debit Cash (Shipments Supplied)"
+  ,"Credit Cash (Payments Received)": "Credit Cash (Payments Received)"
+  ,"OFFICIAL SHIPMENT RECEIPT": "OFFICIAL SHIPMENT RECEIPT"
+  ,"No: RECV-": "No: RECV-"
+  ,"Received From Farmer:": "Received From Farmer:"
+  ,"Mandi Trade Account Seller": "Mandi Trade Account Seller"
+  ,"Gross Total": "Gross Total"
+  ,"Gross Supply Value:": "Gross Supply Value:"
+  ,"Beopari/Grower Commission (": "Beopari/Grower Commission ("
+  ,"Other Lot Expenses:": "Other Lot Expenses:"
+  ,"Net Payable to Beopari/Grower:": "Net Payable to Beopari/Grower:"
+  ,"Close Receipt": "Close Receipt"
+  ,"Required fields: Name, Phone, Designation, Joining Date, Salary, Type.": "Required fields: Name, Phone, Designation, Joining Date, Salary, Type."
+  ,"Employee successfully registered": "Employee successfully registered"
+  ,"Employee details updated successfully": "Employee details updated successfully"
+  ,"Failed to save employee records": "Failed to save employee records"
+  ,"Remove {{name}}?": "Remove {{name}}?"
+  ,"Are you absolutely sure you want to remove employee \"{{name}}\"? This will soft-delete their records and move them to Trash.": "Are you absolutely sure you want to remove employee \"{{name}}\"? This will soft-delete their records and move them to Trash."
+  ,"Employee \"{{name}}\" has been successfully removed.": "Employee \"{{name}}\" has been successfully removed."
+  ,"Failed to delete employee record": "Failed to delete employee record"
+  ,"Please enter Month, Year and Basic Salary": "Please enter Month, Year and Basic Salary"
+  ,"Salary payment successfully processed": "Salary payment successfully processed"
+  ,"Failed to process salary payment": "Failed to process salary payment"
+  ,"Amount and Date are required.": "Amount and Date are required."
+  ,"Salary advance recorded successfully": "Salary advance recorded successfully"
+  ,"Failed to record salary advance": "Failed to record salary advance"
+  ,"Delete Salary Record?": "Delete Salary Record?"
+  ,"Are you sure you want to delete this salary record? Connected expense will be cleaned up.": "Are you sure you want to delete this salary record? Connected expense will be cleaned up."
+  ,"Delete Record": "Delete Record"
+  ,"Salary record deleted successfully": "Salary record deleted successfully"
+  ,"Failed to delete salary record": "Failed to delete salary record"
+  ,"Delete Salary Advance?": "Delete Salary Advance?"
+  ,"Are you sure you want to delete this salary advance?": "Are you sure you want to delete this salary advance?"
+  ,"Delete Advance": "Delete Advance"
+  ,"Salary advance deleted successfully": "Salary advance deleted successfully"
+  ,"Failed to delete advance record": "Failed to delete advance record"
+  ,"No data available to export": "No data available to export"
+  ,"Report exported successfully to Excel CSV format!": "Report exported successfully to Excel CSV format!"
+  ,"Printing error: Area not found": "Printing error: Area not found"
+  ,"Failed to load employee list": "Failed to load employee list"
+  ,"Failed to load payroll reports history": "Failed to load payroll reports history"
+  ,"Failed to load employee profile": "Failed to load employee profile"
+  ,"Salary": "Salary"
+  ,"Phone:": "Phone:"
+  ,"No matching": "No matching"
+  ,"s found": "s found"
+  ,"Select Category": "Select Category"
+  ,"Beopari/Grower (Paying Farmer)": "Beopari/Grower (Paying Farmer)"
+  ,"Customer (Receiving Cash)": "Customer (Receiving Cash)"
+  ,"• Phone:": "• Phone:"
+  ,"Current Debt:": "Current Debt:"
+  ,"New Debt:": "New Debt:"
+  ,"Current Receivable:": "Current Receivable:"
+  ,"New Receivable:": "New Receivable:"
+  ,"Amount Cash (Rs.)": "Amount Cash (Rs.)"
+  ,"Enter value in Rs.": "Enter value in Rs."
+  ,"Description / Memo": "Description / Memo"
+  ,"e.g. Bank Transfer Ref, Counter Cash": "e.g. Bank Transfer Ref, Counter Cash"
+  ,"Disburse / Receive": "Disburse / Receive"
+  ,": Rs.": ": Rs."
+  ,"(Rs.": "(Rs."
+  ,"@ Rs.": "@ Rs."
+  ,"Active Staff Member Directory Quicklist (": "Active Staff Member Directory Quicklist ("
+  ,"ID": "ID"
+  ,"Contract Salary": "Contract Salary"
+  ,"No active staff registered.": "No active staff registered."
+  ,"Live Mandi Brokerage Audit Activities Timeline": "Live Mandi Brokerage Audit Activities Timeline"
+  ,"Chronological list of all operational, financial, and administrative activities": "Chronological list of all operational, financial, and administrative activities"
+  ,"No recent auditing events log found.": "No recent auditing events log found."
+  ,"Munshi & Operators Portfolio": "Munshi & Operators Portfolio"
+  ,"Manage login credentials and authorization roles for Mandi operators": "Manage login credentials and authorization roles for Mandi operators"
+  ,"ADD NEW CLERK": "ADD NEW CLERK"
+  ,"Search operators by name, email or phone...": "Search operators by name, email or phone..."
+  ,"Phone No.": "Phone No."
+  ,"Mandi Desk Location": "Mandi Desk Location"
+  ,"Showing page": "Showing page"
+  ,"Prev": "Prev"
+  ,"Beopari Management Center": "Beopari Management Center"
+  ,"Add agriculture suppliers, view history, ledgers and track payments": "Add agriculture suppliers, view history, ledgers and track payments"
+  ,"Search agricultural suppliers by name, address or CNIC...": "Search agricultural suppliers by name, address or CNIC..."
+  ,"Total Supplied Value": "Total Supplied Value"
+  ,"Total Disbursed Paid": "Total Disbursed Paid"
+  ,"Outstanding Balance": "Outstanding Balance"
+  ,"LEDGER": "LEDGER"
+  ,"Linked to mandi data - Deletion protected": "Linked to mandi data - Deletion protected"
+  ,"total suppliers)": "total suppliers)"
+  ,"Customers Management Center": "Customers Management Center"
+  ,"Track mandi wholesale purchasers, outstanding balances, sales histories and payments": "Track mandi wholesale purchasers, outstanding balances, sales histories and payments"
+  ,"ADD NEW CUSTOMER": "ADD NEW CUSTOMER"
+  ,"Search mandi retail/wholesale customers by name, phone, shop address...": "Search mandi retail/wholesale customers by name, phone, shop address..."
+  ,"Customer Name / Shop Address": "Customer Name / Shop Address"
+  ,"Total Purchases Value": "Total Purchases Value"
+  ,"Total Paid Back": "Total Paid Back"
+  ,"Outstanding Receivable": "Outstanding Receivable"
+  ,"total customers)": "total customers)"
+  ,"Record and track consignment lots, produce arrivals, sales dispatches, and customer returns restocked into inventory": "Record and track consignment lots, produce arrivals, sales dispatches, and customer returns restocked into inventory"
+  ,"Search by Lot #, supplier, produce...": "Search by Lot #, supplier, produce..."
+  ,"Beopari / Grower": "Beopari / Grower"
+  ,"Mandi Commission Brokerage Sales Ledger": "Mandi Commission Brokerage Sales Ledger"
+  ,"Manage and record sales made to market retail and wholesale buyers": "Manage and record sales made to market retail and wholesale buyers"
+  ,"RECORD NEW SALES VOUCHER": "RECORD NEW SALES VOUCHER"
+  ,"Search sales ledger...": "Search sales ledger..."
+  ,"Buyer Customer": "Buyer Customer"
+  ,"Quantity Sold": "Quantity Sold"
+  ,"Discounts": "Discounts"
+  ,"Total Invoice Value": "Total Invoice Value"
+  ,"Print Invoice": "Print Invoice"
+  ,"Pay or Receive Money": "Pay or Receive Money"
+  ,"Directly disburse cash or bank payments to suppliers, or collect payments from customers with instant automatic ledger balance updates.": "Directly disburse cash or bank payments to suppliers, or collect payments from customers with instant automatic ledger balance updates."
+  ,"Reset Form": "Reset Form"
+  ,"Total Supplier Payables": "Total Supplier Payables"
+  ,"View ↗": "View ↗"
+  ,"Total Customer Receivables": "Total Customer Receivables"
+  ,"Active Payment Methods": "Active Payment Methods"
+  ,"Available": "Available"
+  ,"Direct Payment / Receipt Entry": "Direct Payment / Receipt Entry"
+  ,"Fill in details below to disburse cash or collect payments": "Fill in details below to disburse cash or collect payments"
+  ,"Direct Form": "Direct Form"
+  ,"Recent Payment Activity": "Recent Payment Activity"
+  ,"Latest posted receipts & disbursements": "Latest posted receipts & disbursements"
+  ,"No payment transactions recorded yet.": "No payment transactions recorded yet."
+  ,"Mandi General Accounts: Cash Disbursements & Receipts": "Mandi General Accounts: Cash Disbursements & Receipts"
+  ,"Record payments given to suppliers or cash collected from customers": "Record payments given to suppliers or cash collected from customers"
+  ,"RECORD NEW PAYMENT": "RECORD NEW PAYMENT"
+  ,"Search cashier ledger by party, type, date...": "Search cashier ledger by party, type, date..."
+  ,"Role Type": "Role Type"
+  ,"Description / Ref": "Description / Ref"
+  ,"Amount Cash": "Amount Cash"
+  ,"total payments and receipts)": "total payments and receipts)"
+  ,"Mandi Financial Ledger & Audit Statement Reports": "Mandi Financial Ledger & Audit Statement Reports"
+  ,"Analyze purchase logs, profits, and export accounting ledgers to Excel/Spreadsheet": "Analyze purchase logs, profits, and export accounting ledgers to Excel/Spreadsheet"
+  ,"EXPORT SALES EXCEL": "EXPORT SALES EXCEL"
+  ,"EXPORT PURCHASES EXCEL": "EXPORT PURCHASES EXCEL"
+  ,"Total Purchases Cost": "Total Purchases Cost"
+  ,"Value of supplied stock received": "Value of supplied stock received"
+  ,"Total Sales Revenue": "Total Sales Revenue"
+  ,"Gross billing value": "Gross billing value"
+  ,"Net Commission from Customer": "Net Commission from Customer"
+  ,"Commission fee charged to buyer": "Commission fee charged to buyer"
+  ,"Net Commission Fee Deducted from Supplier": "Net Commission Fee Deducted from Supplier"
+  ,"Commission deducted on supplier lots": "Commission deducted on supplier lots"
+  ,"Purchase History Statement": "Purchase History Statement"
+  ,"Farmer / Supplier": "Farmer / Supplier"
+  ,"Sales Ledger Statement": "Sales Ledger Statement"
+  ,"Buyer / Shop": "Buyer / Shop"
+  ,"Disc": "Disc"
+  ,"Billing": "Billing"
+  ,"Audit logs & System Activity Log": "Audit logs & System Activity Log"
+  ,"Review critical bookkeeping modifications and login telemetry for transparency": "Review critical bookkeeping modifications and login telemetry for transparency"
+  ,"Telemetry History (Top 100 Logs)": "Telemetry History (Top 100 Logs)"
+  ,"User": "User"
+  ,"Action Identifier": "Action Identifier"
+  ,"Bookkeeping Modifications Details": "Bookkeeping Modifications Details"
+  ,"Deleted Users & Trash Bin": "Deleted Users & Trash Bin"
+  ,"View soft-deleted user accounts (Customers, Suppliers, Clerks, Employees) and restore them anytime.": "View soft-deleted user accounts (Customers, Suppliers, Clerks, Employees) and restore them anytime."
+  ,"REFRESH TRASH": "REFRESH TRASH"
+  ,"Search deleted accounts by name, user type, phone, email, or deleted by...": "Search deleted accounts by name, user type, phone, email, or deleted by..."
+  ,"User Type": "User Type"
+  ,"Contact Info": "Contact Info"
+  ,"Deleted Date": "Deleted Date"
+  ,"Deleted By": "Deleted By"
+  ,"No soft-deleted users found in the trash bin.": "No soft-deleted users found in the trash bin."
+  ,"Restore": "Restore"
+  ,"Khata ID (Unique / Auto-Generated)": "Khata ID (Unique / Auto-Generated)"
+  ,"Used for login & ledgers": "Used for login & ledgers"
+  ,"CNIC (Optional)": "CNIC (Optional)"
+  ,"e.g. 35201-XXXXXXX-X": "e.g. 35201-XXXXXXX-X"
+  ,"Opening Balance": "Opening Balance"
+  ,"Use negative for our payable debt": "Use negative for our payable debt"
+  ,"Reference By (Optional)": "Reference By (Optional)"
+  ,"e.g. Referred by Malik Shabir": "e.g. Referred by Malik Shabir"
+  ,"Opening Outstanding Debt Receivable": "Opening Outstanding Debt Receivable"
+  ,"Positive Rs. they owe us": "Positive Rs. they owe us"
+  ,"Crate": "Crate"
+  ,"Box": "Box"
+  ,"Kg": "Kg"
+  ,"Operating Desk Status": "Operating Desk Status"
+  ,"Submit Details": "Submit Details"
+  ,"BEOPARI STOCK ARRIVAL": "BEOPARI STOCK ARRIVAL"
+  ,"RECORD DIRECT TRANSACTION PAYMENT": "RECORD DIRECT TRANSACTION PAYMENT"
+  ,"Log expenditures for brokerage activities and general operations": "Log expenditures for brokerage activities and general operations"
+  ,"-- Choose Category --": "-- Choose Category --"
+  ,"Expense Cost (Rs.)": "Expense Cost (Rs.)"
+  ,"Date of Expense": "Date of Expense"
+  ,"Provide specific billing context (e.g. Labor payment for lot #34)": "Provide specific billing context (e.g. Labor payment for lot #34)"
+  ,"Record Expense": "Record Expense"
+  ,"General Account Statement Ledger": "General Account Statement Ledger"
+  ,"Ledger details for": "Ledger details for"
+  ,"Mandi Stock Brokerage Account Statement": "Mandi Stock Brokerage Account Statement"
+  ,"Statement Ledger for Party:": "Statement Ledger for Party:"
+  ,"Generated:": "Generated:"
+  ,"Transaction Entry / Reference Description": "Transaction Entry / Reference Description"
+  ,"Posting Type": "Posting Type"
+  ,"Debit Cash (Dr)": "Debit Cash (Dr)"
+  ,"Credit Cash (Cr)": "Credit Cash (Cr)"
+  ,"No ledger transaction postings located.": "No ledger transaction postings located."
+  ,"Close Ledger": "Close Ledger"
+  ,"BILLING TAX INVOICE": "BILLING TAX INVOICE"
+  ,"Phone: 03001234567 | NTN: 489210-9": "Phone: 03001234567 | NTN: 489210-9"
+  ,"Mandi Trade Account Client": "Mandi Trade Account Client"
+  ,"Status:": "Status:"
+  ,"PAID & POSTED": "PAID & POSTED"
+  ,"Item Description": "Item Description"
+  ,"Discount Coupon:": "Discount Coupon:"
+  ,"Grand Billing Total:": "Grand Billing Total:"
+  ,"No data available to export": "No data available to export"
+  ,"The account is linked to existing transactions.": "The account is linked to existing transactions."
+  ,"Active": "Active"
+  ,"Inactive": "Inactive"
+  ,"Approved": "Approved"
+  ,"Rejected": "Rejected"
+  ,"Restored": "Restored"
+  ,"Debit": "Debit"
+  ,"Credit": "Credit"
+  ,"Depleted": "Depleted"
+  ,"In-Stock": "In-Stock"
+  ,"New Purchase": "New Purchase"
+  ,"New Sale": "New Sale"
+  ,"New Payment": "New Payment"
+  ,"Unknown": "Unknown"
+  ,"Phone/WhatsApp:": "Phone/WhatsApp:"
+  ,"OFFICIAL EMPLOYEE & PAYROLL AUDIT": "OFFICIAL EMPLOYEE & PAYROLL AUDIT"
+  ,"Business Code:": "Business Code:"
+  ,"Tenant ID:": "Tenant ID:"
+  ,"Report Category": "Report Category"
+  ,"Filter Period": "Filter Period"
+  ,"Generated By": "Generated By"
+  ,"Authorized Admin": "Authorized Admin"
+  ,"Prepared By (HR & Payroll)": "Prepared By (HR & Payroll)"
+  ,"Audited By (Finance)": "Audited By (Finance)"
+  ,"Authorized Signatory": "Authorized Signatory"
+  ,"Computer Generated Official Report • {{business}} • Valid Without Physical Stamp": "Computer Generated Official Report • {{business}} • Valid Without Physical Stamp"
+  ,"Error loading server data": "Error loading server data"
+  ,"{{type}} entry successfully recorded!": "{{type}} entry successfully recorded!"
+  ,"{{type}} entry successfully updated!": "{{type}} entry successfully updated!"
+  ,"Operation failed": "Operation failed"
+  ,"Are you sure you want to delete {{name}}? This action cannot be undone.": "Are you sure you want to delete {{name}}? This action cannot be undone."
+  ,"{{type}} deleted successfully.": "{{type}} deleted successfully."
+  ,"Delete failed": "Delete failed"
+  ,"Mandi OS - Sabzi & Fruit Broker": "Mandi OS - Sabzi & Fruit Broker"
+  ,"Thank you for trading at Lahore Sabzi & Fruit Mandi!": "Thank you for trading at Lahore Sabzi & Fruit Mandi!"
+  ,"No customer profile linked to this login.": "No customer profile linked to this login."
+  ,"Failed to load transaction history.": "Failed to load transaction history."
+  ,"No beopari/grower profile linked to this login.": "No beopari/grower profile linked to this login."
+  ,"Rs/Unit": "Rs/Unit"
+  ,"Rs Fixed": "Rs Fixed"
+  ,"Recorded": "Recorded"
+  ,"Supply History & Commission Report": "Supply History & Commission Report"
+  ,"Official Agricultural Supply History & Commission Settlement Report": "Official Agricultural Supply History & Commission Settlement Report"
+  ,"Beopari/Grower:": "Beopari/Grower:"
+  ,"Gross Supply Amount": "Gross Supply Amount"
+  ,"Other Expenses": "Other Expenses"
+  ,"Recorded Shipments:": "Recorded Shipments:"
+  ,"lots": "lots"
+  ,"Total Gross Supply Value:": "Total Gross Supply Value:"
+  ,"Less Total Beopari/Grower Commission:": "Less Total Beopari/Grower Commission:"
+  ,"Less Other Lot Expenses:": "Less Other Lot Expenses:"
+  ,"Report Generated on:": "Report Generated on:"
+  ,"Quantity Supplied": "Quantity Supplied"
+  ,"Farmer Purchase Rate (Rs)": "Farmer Purchase Rate (Rs)"
+  ,"Gross Supply Amount (Rs)": "Gross Supply Amount (Rs)"
+  ,"Commission Rate/Type": "Commission Rate/Type"
+  ,"Commission Amount (Rs)": "Commission Amount (Rs)"
+  ,"Other Expenses (Rs)": "Other Expenses (Rs)"
+  ,"Net Payable Amount (Rs)": "Net Payable Amount (Rs)"
+  ,"Please select party and enter amount and date.": "Please select party and enter amount and date."
+  ,"Payment / Receipt recorded successfully!": "Payment / Receipt recorded successfully!"
+  ,"Failed to record payment": "Failed to record payment"
+  ,"{{type}} created successfully!": "{{type}} created successfully!"
+  ,"{{type}} updated successfully!": "{{type}} updated successfully!"
+  ,"Failed to submit form": "Failed to submit form"
+  ,"Cannot delete beopari/grower \"{{name}}\": This beopari/grower has linked transactions/records (stock arrivals, payments, or ledger entries) in the application.": "Cannot delete beopari/grower \"{{name}}\": This beopari/grower has linked transactions/records (stock arrivals, payments, or ledger entries) in the application."
+  ,"Cannot delete customer \"{{name}}\": This customer has linked transactions/records (sales invoices, payments, or ledger entries) in the application.": "Cannot delete customer \"{{name}}\": This customer has linked transactions/records (sales invoices, payments, or ledger entries) in the application."
+  ,"Are you sure you want to delete {{name}}? This user will be soft-deleted and moved to the Deleted Users / Trash section, where they can be restored anytime.": "Are you sure you want to delete {{name}}? This user will be soft-deleted and moved to the Deleted Users / Trash section, where they can be restored anytime."
+  ,"Are you absolutely sure you want to delete {{name}}? This action is irreversible.": "Are you absolutely sure you want to delete {{name}}? This action is irreversible."
+  ,"Delete & Move to Trash": "Delete & Move to Trash"
+  ,"{{name}} soft-deleted and moved to Trash.": "{{name}} soft-deleted and moved to Trash."
+  ,"Failed to delete record.": "Failed to delete record."
+  ,"Restore {{name}}?": "Restore {{name}}?"
+  ,"Are you sure you want to restore {{name}}? This will reactivate their account and restore their profile.": "Are you sure you want to restore {{name}}? This will reactivate their account and restore their profile."
+  ,"Restore Account": "Restore Account"
+  ,"{{name}} ({{role}}) restored successfully.": "{{name}} ({{role}}) restored successfully."
+  ,"Failed to restore user.": "Failed to restore user."
+  ,"Report exported to Excel (.csv) format!": "Report exported to Excel (.csv) format!"
+  ,"January": "January"
+  ,"February": "February"
+  ,"March": "March"
+  ,"April": "April"
+  ,"May": "May"
+  ,"June": "June"
+  ,"July": "July"
+  ,"August": "August"
+  ,"September": "September"
+  ,"October": "October"
+  ,"November": "November"
+  ,"December": "December"
+  ,"Monthly Payroll Sheet": "Monthly Payroll Sheet"
+  ,"Calculate monthly take-home payouts": "Calculate monthly take-home payouts"
+  ,"Active Staff Directory": "Active Staff Directory"
+  ,"Overview of joined contract employees": "Overview of joined contract employees"
+  ,"Filter cash payouts by Paid/Unpaid": "Filter cash payouts by Paid/Unpaid"
+  ,"Track staff pending salaries": "Track staff pending salaries"
+  ,"Advances & Loans Ledger": "Advances & Loans Ledger"
+  ,"Advances disbursed to employees": "Advances disbursed to employees"
+  ,"Staff Expenditure Audit": "Staff Expenditure Audit"
+  ,"Accumulated staff expenses ledger": "Accumulated staff expenses ledger"
+  ,"Basic Monthly Salary": "Basic Monthly Salary"
+  ,"Bonus & Incentives": "Bonus & Incentives"
+  ,"Allowances (Food / Travel / Housing)": "Allowances (Food / Travel / Housing)"
+  ,"Overtime Earnings": "Overtime Earnings"
+  ,"Salary Advance Adjustment": "Salary Advance Adjustment"
+  ,"Net Disbursed Salary Payout": "Net Disbursed Salary Payout"
+  ,"Remarks / Notes:": "Remarks / Notes:"
+  ,"Employee Signature": "Employee Signature"
+  ,"Authorized Stamp & Signature ({{business}})": "Authorized Stamp & Signature ({{business}})"
+  ,"Cannot delete \"{{name}}\": Supplier is linked to active or historical records (stock arrivals, payments, or ledger transactions).": "Cannot delete \"{{name}}\": Supplier is linked to active or historical records (stock arrivals, payments, or ledger transactions)."
+  ,"Cannot delete \"{{name}}\": Customer is linked to active or historical records (sales invoices, payments, or ledger transactions).": "Cannot delete \"{{name}}\": Customer is linked to active or historical records (sales invoices, payments, or ledger transactions)."
+  ,"Directory": "Directory"
+  ,"Payroll Reports": "Payroll Reports"
+  ,"ID, Name, CNIC, Phone...": "ID, Name, CNIC, Phone..."
+  ,"Ref:": "Ref:"
+  ,"Rs.": "Rs."
+  ,"View Profile": "View Profile"
+  ,"Edit Details": "Edit Details"
+  ,"Remove Employee": "Remove Employee"
+  ,"registered employees": "registered employees"
+  ,", Pakistan": ", Pakistan"
+  ,"Edit Info": "Edit Info"
+  ,"Basic Salary": "Basic Salary"
+  ,"Advance Spent": "Advance Spent"
+  ,"Deducted Adv.": "Deducted Adv."
+  ,"Pending Adv.": "Pending Adv."
+  ,"Process Salary Payment": "Process Salary Payment"
+  ,"Bonus/Allow.": "Bonus/Allow."
+  ,"Overtime": "Overtime"
+  ,"Advance Ded.": "Advance Ded."
+  ,"Net Salary": "Net Salary"
+  ,"Payment Date": "Payment Date"
+  ,"Method": "Method"
+  ,"No salary payments processed yet.": "No salary payments processed yet."
+  ,"+Rs.": "+Rs."
+  ,"-Rs.": "-Rs."
+  ,"Print Official Salary Pay Slip": "Print Official Salary Pay Slip"
+  ,"Delete salary record": "Delete salary record"
+  ,"Disburse Salary Advance": "Disburse Salary Advance"
+  ,"Advance Amount": "Advance Amount"
+  ,"Disbursed / Reason": "Disbursed / Reason"
+  ,"Audit / Remarks": "Audit / Remarks"
+  ,"Opening Contract Advance Balance": "Opening Contract Advance Balance"
+  ,"Added automatically at employee setup": "Added automatically at employee setup"
+  ,"Static": "Static"
+  ,"No salary advances recorded.": "No salary advances recorded."
+  ,"Delete advance record": "Delete advance record"
+  ,"The general ledger automatically maps salaries and other miscellaneous cash payouts matching the name/ID of": "The general ledger automatically maps salaries and other miscellaneous cash payouts matching the name/ID of"
+  ,"in real-time.": "in real-time."
+  ,"Recorded Date": "Recorded Date"
+  ,"Amount Outbound": "Amount Outbound"
+  ,"Description Record": "Description Record"
+  ,"Recorded By": "Recorded By"
+  ,"No expense entries found matching this employee.": "No expense entries found matching this employee."
+  ,"Select Payroll Report": "Select Payroll Report"
+  ,"Select Payroll Year": "Select Payroll Year"
+  ,"Select Payroll Month": "Select Payroll Month"
+  ,"Disbursement Status": "Disbursement Status"
+  ,"Fully Paid": "Fully Paid"
+  ,"Partial Payments": "Partial Payments"
+  ,"Unpaid / Deferred": "Unpaid / Deferred"
+  ,"Payment Method": "Payment Method"
+  ,"All Methods": "All Methods"
+  ,"Cash Handout": "Cash Handout"
+  ,"Bank Transfer": "Bank Transfer"
+  ,"EasyPaisa/JazzCash": "EasyPaisa/JazzCash"
+  ,"Business Logo": "Business Logo"
+  ,"Proprietor:": "Proprietor:"
+  ,"Official Payroll Audit Report": "Official Payroll Audit Report"
+  ,"Date:": "Date:"
+  ,"Reg Code:": "Reg Code:"
+  ,"Period:": "Period:"
+  ,"• Records:": "• Records:"
+  ,"Accumulated Total Sum": "Accumulated Total Sum"
+  ,"Loading Report Ledgers...": "Loading Report Ledgers..."
+  ,"No payroll logs matching the search filters found.": "No payroll logs matching the search filters found."
+  ,"👤 Personal Identification & Profile Info": "👤 Personal Identification & Profile Info"
+  ,"e.g. Raheel Muhammad": "e.g. Raheel Muhammad"
+  ,"Father's full name": "Father's full name"
+  ,"37405-XXXXXXX-X": "37405-XXXXXXX-X"
+  ,"Secondary contact phone": "Secondary contact phone"
+  ,"email@mandi.com": "email@mandi.com"
+  ,"Full resident address": "Full resident address"
+  ,"Rawalpindi / Sargodha": "Rawalpindi / Sargodha"
+  ,"https://images.unsplash.com/... or upload link": "https://images.unsplash.com/... or upload link"
+  ,"e.g. Malik Ahmad / Munshi": "e.g. Malik Ahmad / Munshi"
+  ,"Active / On duty": "Active / On duty"
+  ,"Inactive / Suspended": "Inactive / Suspended"
+  ,"💼 Official Position & Salary Contract details": "💼 Official Position & Salary Contract details"
+  ,"e.g. Weighbridge Clerk, Driver, Munshi": "e.g. Weighbridge Clerk, Driver, Munshi"
+  ,"Weighing, Accounting, Loading": "Weighing, Accounting, Loading"
+  ,"Monthly Cycle": "Monthly Cycle"
+  ,"Pending loan/advance if any": "Pending loan/advance if any"
+  ,"Provide details about emergency contact, medical info, previous employers, or references...": "Provide details about emergency contact, medical info, previous employers, or references..."
+  ,"Save employee file": "Save employee file"
+  ,"Disburse monthly salary to": "Disburse monthly salary to"
+  ,"Salary Year": "Salary Year"
+  ,"Salary Month": "Salary Month"
+  ,"Bonus / Reward": "Bonus / Reward"
+  ,"Allowances": "Allowances"
+  ,"Overtime Pay": "Overtime Pay"
+  ,"Advance Deduction": "Advance Deduction"
+  ,"Other Deductions": "Other Deductions"
+  ,"Net Take-Home Salary Calculation Formula": "Net Take-Home Salary Calculation Formula"
+  ,"Basic + Bonus + Allowance + Overtime - Advance - Other Deductions": "Basic + Bonus + Allowance + Overtime - Advance - Other Deductions"
+  ,"Calculated Salary": "Calculated Salary"
+  ,"Payment Status": "Payment Status"
+  ,"Mark as Fully Paid": "Mark as Fully Paid"
+  ,"Mark as Partial Payment": "Mark as Partial Payment"
+  ,"Remarks & Audit Logs": "Remarks & Audit Logs"
+  ,"e.g. Cleared pending advance and credited Eid Bonus": "e.g. Cleared pending advance and credited Eid Bonus"
+  ,"MANDATORY AUTOMATIC EXPENSE FLOW:": "MANDATORY AUTOMATIC EXPENSE FLOW:"
+  ,"Marking this salary payment as": "Marking this salary payment as"
+  ,"Paid": "Paid"
+  ,"or": "or"
+  ,"Partial": "Partial"
+  ,"will immediately register a general expense with category": "will immediately register a general expense with category"
+  ,"(including net salary payout + advance deducted) to update": "(including net salary payout + advance deducted) to update"
+  ,"in Dashboard stats and Profit & Loss calculations.": "in Dashboard stats and Profit & Loss calculations."
+  ,"Processing...": "Processing..."
+  ,"Confirm & Process Payment": "Confirm & Process Payment"
+  ,"Record Salary Advance": "Record Salary Advance"
+  ,"Disburse emergency advance to": "Disburse emergency advance to"
+  ,"Disbursement Date": "Disbursement Date"
+  ,"Reason for Loan / Advance": "Reason for Loan / Advance"
+  ,"e.g. Domestic medical expense, family travel": "e.g. Domestic medical expense, family travel"
+  ,"Office Remarks": "Office Remarks"
+  ,"Add details about repayment or installments...": "Add details about repayment or installments..."
+  ,"Recording...": "Recording..."
+  ,"Confirm Advance": "Confirm Advance"
+  ,"Walk-In Buyer": "Walk-In Buyer"
+  ,"Customer Return": "Customer Return"
+  ,"Consignment Lot Report": "Consignment Lot Report"
+  ,"Consignment Lot Sheet Report": "Consignment Lot Sheet Report"
+  ,"Total Arrived Crates": "Total Arrived Crates"
+  ,"Crates Sold / Remaining": "Crates Sold / Remaining"
+  ,"Settlement Recorded": "Settlement Recorded"
+  ,"Crate Sales Breakdown ({{count}} Transactions)": "Crate Sales Breakdown ({{count}} Transactions)"
+  ,"Customer / Buyer": "Customer / Buyer"
+  ,"Qty Sold": "Qty Sold"
+  ,"Gross Sale (Rs)": "Gross Sale (Rs)"
+  ,"No sales recorded for this lot yet.": "No sales recorded for this lot yet."
+  ,"Total Gross Crate Sales": "Total Gross Crate Sales"
+  ,"Raw Sales": "Raw Sales"
+  ,"Less Beopari/Grower Commission ({{rate}})": "Less Beopari/Grower Commission ({{rate}})"
+  ,"Less Other Lot Expenses": "Less Other Lot Expenses"
+  ,"Net Payable to Beopari/Grower": "Net Payable to Beopari/Grower"
+  ,"Report Generated on": "Report Generated on"
+  ,"Invoice No": "Invoice No"
+  ,"Sale Rate (Rs)": "Sale Rate (Rs)"
+  ,"RETURN": "RETURN"
+  ,"SUMMARY & DEDUCTIONS FOR LOT": "SUMMARY & DEDUCTIONS FOR LOT"
+  ,"Total Gross Crate Sales (Rs)": "Total Gross Crate Sales (Rs)"
+  ,"Beopari/Grower Commission (Rs)": "Beopari/Grower Commission (Rs)"
+  ,"Total Other Lot Expenses (Rs)": "Total Other Lot Expenses (Rs)"
+  ,"Net Payable to Beopari/Grower (Rs)": "Net Payable to Beopari/Grower (Rs)"
+  ,"Recorded Settlement": "Recorded Settlement"
+  ,"Fully Sold (Pending Settlement)": "Fully Sold (Pending Settlement)"
+  ,"In Stock / Active": "In Stock / Active"
+  ,"Back to All Lots": "Back to All Lots"
+  ,"PRINT LOT SHEET": "PRINT LOT SHEET"
+  ,"Gross Crate Sales": "Gross Crate Sales"
+  ,"Not Available / Pending": "Not Available / Pending"
+  ,"Sales entries recorded": "{{count}} sales entries recorded"
+  ,"Rs / unit": "Rs / unit"
+  ,"Itemized expenses": "{{count}} itemized expenses"
+  ,"No extra charges": "No extra charges"
+  ,"Consignment Settlement Deductions & Other Lot Expenses": "Consignment Settlement Deductions & Other Lot Expenses"
+  ,"Broker commission and operational freight/labor expenses charged to this consignment lot": "Broker commission and operational freight/labor expenses charged to this consignment lot"
+  ,"Beopari/Grower Commission": "Beopari/Grower Commission"
+  ,"Rs/unit": "Rs/unit"
+  ,"Total Other Lot Expenses": "Total Other Lot Expenses"
+  ,"No Additional Expenses": "No Additional Expenses"
+  ,"Itemized Lot Charges Breakdown": "Itemized Lot Charges Breakdown"
+  ,"Net Calculated Payable to Beopari/Grower for this Lot": "Net Calculated Payable to Beopari/Grower for this Lot"
+  ,"Ded": "Ded"
+  ,"Returned Stock Value Deductions": "Returned Stock Value Deductions ({{count}} returns)"
+  ,"Crates Returned": "Crates Returned"
+  ,"Return #": "Return #"
+  ,"Gross Return Minus": "Gross Return Minus"
+  ,"Condition": "Condition"
+  ,"Gross Sale Value": "Gross Sale Value"
+  ,"No Crate Sales Recorded Yet": "No Crate Sales Recorded Yet"
+  ,"This lot is currently in stock. Available Information:": "This lot is currently in stock. Available Information:"
+  ,"Arrived Quantity": "Arrived Quantity"
+  ,"Crate sales transactions & settlement data will automatically populate as sales occur.": "Crate sales transactions & settlement data will automatically populate as sales occur."
+  ,"Lot Wise Consignment Reports": "Lot Wise Consignment Reports"
+  ,"Read-only lot tracking, crate sales breakdown, and arrival logs for all lots sent by your account": "Read-only lot tracking, crate sales breakdown, and arrival logs for all lots sent by your account"
+  ,"REFRESH LOTS": "REFRESH LOTS"
+  ,"Search lots by Lot #, Product name, or Date...": "Search lots by Lot #, Product name, or Date..."
+  ,"Active / In Stock": "Active / In Stock"
+  ,"Fully Sold": "Fully Sold"
+  ,"Newest First": "Newest First"
+  ,"Oldest First": "Oldest First"
+  ,"Total Crates": "Total Crates"
+  ,"Other Exp": "Other Exp"
+  ,"Net": "Net"
+  ,"View Detailed Lot Sheet & Sales": "View Detailed Lot Sheet & Sales"
+  ,"No Lot Reports Found": "No Lot Reports Found"
+  ,"No consignment lots match your current search or filter criteria. Try clearing search keywords.": "No consignment lots match your current search or filter criteria. Try clearing search keywords."
+  ,"You have not sent any crop or vegetable consignment lots to Lahore Mandi yet.": "You have not sent any crop or vegetable consignment lots to Lahore Mandi yet."
+  ,"Good": "Good"
+  ,"Damaged": "Damaged"
+  ,"Spoiled": "Spoiled"
+  ,"Failed to load initial data from server.": "Failed to load initial data from server."
+  ,"Please select a farmer consignment batch Lot.": "Please select a farmer consignment batch Lot."
+  ,"Please enter a valid selling rate.": "Please enter a valid selling rate."
+  ,"Please enter a valid rate.": "Please enter a valid rate."
+  ,"Please select at least one customer using the checkbox.": "Please select at least one customer using the checkbox."
+  ,"Quantity for {{name}} must be a valid positive number.": "Quantity for {{name}} must be a valid positive number."
+  ,"Rate for {{name}} must be a valid positive number.": "Rate for {{name}} must be a valid positive number."
+  ,"Requested total quantity ({{requested}}) exceeds available consignment stock ({{available}}).": "Requested total quantity ({{requested}}) exceeds available consignment stock ({{available}})."
+  ,"Batch Consignment Sale recorded successfully!": "Batch Consignment Sale recorded successfully!"
+  ,"Batch Sale with Custom Rates recorded successfully!": "Batch Sale with Custom Rates recorded successfully!"
+  ,"Failed to record batch sale.": "Failed to record batch sale."
+  ,"Rate applied to all checked customers.": "Rate applied to all checked customers."
+  ,"Preview Batch Sale": "Preview Batch Sale"
+  ,"Preview Batch Sale (Custom Rate)": "Preview Batch Sale (Custom Rate)"
+  ,"Review allocation details before recording": "Review allocation details before recording"
+  ,"Consignment Details": "Consignment Details"
+  ,"Sale Date": "Sale Date"
+  ,"Rate/Unit": "Rate/Unit"
+  ,"Allocated Buyers": "Allocated Buyers"
+  ,"Gross Amount": "Gross Amount"
+  ,"Batch Totals": "Batch Totals"
+  ,"Total Qty Allocated": "Total Qty Allocated"
+  ,"Total Commission": "Total Commission"
+  ,"Total Receivable": "Total Receivable"
+  ,"Remaining Stock After Sale": "Remaining Stock After Sale"
+  ,"Loading batch sale form data...": "Loading batch sale form data..."
+  ,"Back to Sales Ledger": "Back to Sales Ledger"
+  ,"Record Batch Consignment Sale": "Record Batch Consignment Sale"
+  ,"Allocate and sell arrivals from a single farmer consignment batch to multiple buyers quickly": "Allocate and sell arrivals from a single farmer consignment batch to multiple buyers quickly"
+  ,"1. Select Consignment & Price": "1. Select Consignment & Price"
+  ,"1. Select Consignment & Commission": "1. Select Consignment & Commission"
+  ,"Farmer Consignment Batch (Lot)": "Farmer Consignment Batch (Lot)"
+  ,"Choose Active Consignment": "Choose Active Consignment"
+  ,"units left": "units left"
+  ,"LOT NUMBER": "LOT NUMBER"
+  ,"BEOPARI/GROWER (FARMER)": "BEOPARI/GROWER (FARMER)"
+  ,"PRODUCT": "PRODUCT"
+  ,"ARRIVAL DATE": "ARRIVAL DATE"
+  ,"TOTAL QUANTITY": "TOTAL QUANTITY"
+  ,"AVAILABLE QUANTITY": "AVAILABLE QUANTITY"
+  ,"Select a Farmer consignment batch above to populate batch details and active rates.": "Select a Farmer consignment batch above to populate batch details and active rates."
+  ,"Select a Farmer consignment batch above to populate batch details.": "Select a Farmer consignment batch above to populate batch details."
+  ,"Selling Rate (Rs. / unit)": "Selling Rate (Rs. / unit)"
+  ,"Enter sale rate": "Enter sale rate"
+  ,"of Sale": "of Sale"
+  ,"Requested Qty": "Requested Qty"
+  ,"Gross Sale (Beopari/Grower Credit)": "Gross Sale (Beopari/Grower Credit)"
+  ,"Buyer Comm. Recovered": "Buyer Comm. Recovered"
+  ,"Total Customer Purchase Value": "Total Customer Purchase Value"
+  ,"Warning: Requested batch sale quantity exceeds active available stock by {{quantity}} units!": "Warning: Requested batch sale quantity exceeds active available stock by {{quantity}} units!"
+  ,"Discard Draft?": "Discard Draft?"
+  ,"Discard all unsaved progress and go back?": "Discard all unsaved progress and go back?"
+  ,"Recording Ledger Vouchers...": "Recording Ledger Vouchers..."
+  ,"Save Batch Sale Voucher": "Save Batch Sale Voucher"
+  ,"Search & select buyers to allocate quantity:": "Search & select buyers to allocate quantity:"
+  ,"Search & select buyers to allocate quantity and rate:": "Search & select buyers to allocate quantity and rate:"
+  ,"Quantity to Allocate": "Quantity to Allocate"
+  ,"Discount (Rs.)": "Discount (Rs.)"
+  ,"Total Bill (Rs.)": "Total Bill (Rs.)"
+  ,"Walk-In Customer": "Walk-In Customer"
+  ,"Comm": "Comm"
+  ,"Batch Sale (Custom Rate)": "Batch Sale (Custom Rate)"
+  ,"Record batch sales with individual rates per customer": "Record batch sales with individual rates per customer"
+  ,"TOTAL QTY": "TOTAL QTY"
+  ,"AVAILABLE": "AVAILABLE"
+  ,"Commission Rate": "Commission Rate"
+  ,"e.g. 5%": "e.g. 5%"
+  ,"e.g. 40 Rs./unit": "e.g. 40 Rs./unit"
+  ,"2. Allocate Quantities & Rates to Buyers": "2. Allocate Quantities & Rates to Buyers"
+  ,"Live Allocation Balance Sheet": "Live Allocation Balance Sheet"
+  ,"Total Comm": "Total Comm"
+  ,"Warning: Requested quantity exceeds available stock by {{quantity}} units!": "Warning: Requested quantity exceeds available stock by {{quantity}} units!"
+  ,"Set Rate for All": "Set Rate for All"
+  ,"Recording Vouchers...": "Recording Vouchers..."
+  ,"Rate (Rs. / unit)": "Rate (Rs. / unit)"
+  ,"Set Rate for All Checked Customers": "Set Rate for All Checked Customers"
+  ,"Enter rate": "Enter rate"
+  ,"No data to export.": "No data to export."
+  ,"Walk-In Sold Qty": "Walk-In Sold Qty"
+  ,"Registered Sold Qty": "Registered Sold Qty"
+  ,"Gross Sales Turnover (Rs.)": "Gross Sales Turnover (Rs.)"
+  ,"Commission (Rs.)": "Commission (Rs.)"
+  ,"Lot Status": "Lot Status"
+  ,"Mandi Trade Ledger - Sold Consignment Lots Report": "Mandi Trade Ledger - Sold Consignment Lots Report"
+  ,"Consignment Lots Ledger Master Sheet": "Consignment Lots Ledger Master Sheet"
+  ,"GRAND TOTALS": "GRAND TOTALS"
+  ,"Lahore Sabzi & Fruit Mandi Commission Brokerage Platform • Authorized Copy": "Lahore Sabzi & Fruit Mandi Commission Brokerage Platform • Authorized Copy"
+  ,"RET": "RET"
+  ,"Produce Return": "Produce Return"
+  ,"Sabzi & Fruit Mandi Trade Brokerage": "Sabzi & Fruit Mandi Trade Brokerage"
+  ,"Mandi OS Platform, Pakistan": "Mandi OS Platform, Pakistan"
+  ,"Arthi Reg Code": "Arthi Reg Code"
+  ,"CONSIGNMENT LOT SETTLEMENT VOUCHER": "CONSIGNMENT LOT SETTLEMENT VOUCHER"
+  ,"Issued": "Issued"
+  ,"Consignment & Beopari/Grower Profile": "Consignment & Beopari/Grower Profile"
+  ,"Contact Phone": "Contact Phone"
+  ,"Commodity Produce": "Commodity Produce"
+  ,"Inventory Disposal Summary": "Inventory Disposal Summary"
+  ,"Initial Received Qty": "Initial Received Qty"
+  ,"Disposed / Sold Qty": "Disposed / Sold Qty"
+  ,"Remaining Balance": "Remaining Balance"
+  ,"Recorded to Payables": "Recorded to Payables"
+  ,"Customer Trades & Invoices Log": "Customer Trades & Invoices Log"
+  ,"Buyer Name": "Buyer Name"
+  ,"Gross Value": "Gross Value"
+  ,"Net Value": "Net Value"
+  ,"NET TOTALS FOR LOT #{{lot}} (Sales - Returns)": "NET TOTALS FOR LOT #{{lot}} (Sales - Returns)"
+  ,"Beopari/Grower Settlement & Deductions Breakdown": "Beopari/Grower Settlement & Deductions Breakdown"
+  ,"Gross Consignment Sales Value (Credit)": "Gross Consignment Sales Value (Credit)"
+  ,"Beopari/Grower Brokerage Commission ({{rate}} {{type}})": "Beopari/Grower Brokerage Commission ({{rate}} {{type}})"
+  ,"per unit": "per unit"
+  ,"fixed": "fixed"
+  ,"Market / Sarkari Fee ({{rate}}%)": "Market / Sarkari Fee ({{rate}}%)"
+  ,"Lot Expense Deductions": "Lot Expense Deductions"
+  ,"NET PAYABLE TO BEOPARI/GROWER": "NET PAYABLE TO BEOPARI/GROWER"
+  ,"Mandi Clerk Signature": "Mandi Clerk Signature"
+  ,"Authorized Stamp & Signature": "Authorized Stamp & Signature"
+  ,"Professional Lot Voucher": "Professional Lot Voucher"
+  ,"Loading Sold Consignments Archives...": "Loading Sold Consignments Archives..."
+  ,"This consignment lot is already settled & recorded to payables. Settlement configuration is locked.": "This consignment lot is already settled & recorded to payables. Settlement configuration is locked."
+  ,"Beopari/Grower Lot Settlement configuration saved successfully!": "Beopari/Grower Lot Settlement configuration saved successfully!"
+  ,"Failed to save lot financial settlement": "Failed to save lot financial settlement"
+  ,"This consignment lot settlement has already been recorded to Outstanding Payables and Beopari/Grower Supply Value.": "This consignment lot settlement has already been recorded to Outstanding Payables and Beopari/Grower Supply Value."
+  ,"Successfully recorded Rs. {{amount}} to Outstanding Payables and Beopari/Grower Supply Value!": "Successfully recorded Rs. {{amount}} to Outstanding Payables and Beopari/Grower Supply Value!"
+  ,"Failed to record lot settlement": "Failed to record lot settlement"
+  ,"Sold Consignments Ledger": "Sold Consignments Ledger"
+  ,"Audit, track, export, and print completed consignment sales across all stock lots and beopari/growers": "Audit, track, export, and print completed consignment sales across all stock lots and beopari/growers"
+  ,"Export Ledger (CSV)": "Export Ledger (CSV)"
+  ,"Quick search products, beopari/growers, customers, lots...": "Quick search products, beopari/growers, customers, lots..."
+  ,"{{count}} lots selected for bulk actions": "{{count}} lots selected for bulk actions"
+  ,"Print Selected Lots": "Print Selected Lots"
+  ,"Export Selected (CSV)": "Export Selected (CSV)"
+  ,"Consignment Lot #": "Consignment Lot #"
+  ,"Commodity Product": "Commodity Product"
+  ,"Click row to inspect lot details": "Click row to inspect lot details"
+  ,"{{count}} invoice(s) recorded": "{{count}} invoice(s) recorded"
+  ,"Unknown Beopari/Grower": "Unknown Beopari/Grower"
+  ,"No Contact": "No Contact"
+  ,"See Date-Wise Consignment Sales Breakdown in New Window": "See Date-Wise Consignment Sales Breakdown in New Window"
+  ,"See Date Wise": "See Date Wise"
+  ,"Inspect In-Page": "Inspect In-Page"
+  ,"No consignment lots found matching the search criteria.": "No consignment lots found matching the search criteria."
+  ,"Back to Master Sold Consignments": "Back to Master Sold Consignments"
+  ,"Lot Sheet Inspection": "Lot Sheet Inspection"
+  ,"Consignment Batch Master Code": "Consignment Batch Master Code"
+  ,"Calculate net payable and post final settlement (Bikri Parchi) to Beopari/Grower Khata & Outstanding Payables": "Calculate net payable and post final settlement (Bikri Parchi) to Beopari/Grower Khata & Outstanding Payables"
+  ,"Settling...": "Settling..."
+  ,"Settled in Payables (Rs. {{amount}})": "Settled in Payables (Rs. {{amount}})"
+  ,"Submit to Payables (Bikri Parchi)": "Submit to Payables (Bikri Parchi)"
+  ,"Print Professional Lot Voucher": "Print Professional Lot Voucher"
+  ,"Download PDF Voucher": "Download PDF Voucher"
+  ,"Consignment Product": "Consignment Product"
+  ,"Produce": "Produce"
+  ,"Original Quantity": "Original Quantity"
+  ,"Disposed": "Disposed"
+  ,"units": "units"
+  ,"Broker Commissions": "Broker Commissions"
+  ,"Supplier": "Supplier"
+  ,"Closed": "Closed"
+  ,"Beopari/Grower Portfolio": "Beopari/Grower Portfolio"
+  ,"Beopari/Grower Mobile": "Beopari/Grower Mobile"
+  ,"No Phone": "No Phone"
+  ,"Total Mandi Supplies": "Total Mandi Supplies"
+  ,"Beopari/Grower Settlement & Expense Deductions Configuration": "Beopari/Grower Settlement & Expense Deductions Configuration"
+  ,"Configure beopari/grower commission & additional lot expenses. Deductions here adjust beopari/grower payable balance.": "Configure beopari/grower commission & additional lot expenses. Deductions here adjust beopari/grower payable balance."
+  ,"Settlement configuration is locked (Lot already settled & recorded to payables)": "Settlement configuration is locked (Lot already settled & recorded to payables)"
+  ,"Save Settlement Configuration": "Save Settlement Configuration"
+  ,"Configuration Locked (Settled)": "Configuration Locked (Settled)"
+  ,"1. Beopari/Grower Commission Rule": "1. Beopari/Grower Commission Rule"
+  ,"Fixed Per Unit": "Fixed Per Unit"
+  ,"Commission Deduction": "Commission Deduction"
+  ,"2. Market / Sarkari Fee": "2. Market / Sarkari Fee"
+  ,"Market / Sarkari Fee Amount (Rs.)": "Market / Sarkari Fee Amount (Rs.)"
+  ,"Fixed Amount (Rs.)": "Fixed Amount (Rs.)"
+  ,"Enter fixed Rs. amount": "Enter fixed Rs. amount"
+  ,"Applied once as a fixed amount per consignment lot.": "Applied once as a fixed amount per consignment lot."
+  ,"Fixed Market / Sarkari Fee": "Fixed Market / Sarkari Fee"
+  ,"Average Fee per Lot": "Average Fee per Lot"
+  ,"e.g. 1.5 or 2": "e.g. 1.5 or 2"
+  ,"Market Fee Deduction": "Market Fee Deduction"
+  ,"3. Additional Expense Deductions": "3. Additional Expense Deductions"
+  ,"Via Settings": "Via Settings"
+  ,"No active expense categories loaded.": "No active expense categories loaded."
+  ,"Additional Expenses": "Additional Expenses"
+  ,"Gross Sales Value (خام بکری)": "Gross Sales Value (خام بکری)"
+  ,"Raw": "Raw"
+  ,"Return": "Return"
+  ,"Comm. & Market Fee": "Comm. & Market Fee"
+  ,"Fee ({{rate}}%)": "Fee ({{rate}}%)"
+  ,"Total Beopari/Grower Deductions": "Total Beopari/Grower Deductions"
+  ,"Returned Stock Value Deductions ({{count}} Returns)": "Returned Stock Value Deductions ({{count}} Returns)"
+  ,"Total Returned Deducted": "Total Returned Deducted"
+  ,"Produce Restocked": "Produce Restocked"
+  ,"Customer Sales Allocation History ({{count}} trades)": "Customer Sales Allocation History ({{count}} trades)"
+  ,"Invoice ID": "Invoice ID"
+  ,"Buyer": "Buyer"
+  ,"Buyer Type": "Buyer Type"
+  ,"Net Receivable": "Net Receivable"
+  ,"Chronological Inventory Movement Flow": "Chronological Inventory Movement Flow"
+  ,"Party": "Party"
+  ,"Running Balance": "Running Balance"
+  ,"System Audit Logs (Lots/Vouchers)": "System Audit Logs (Lots/Vouchers)"
+  ,"User": "User"
+  ,"No matching activity logs recorded for this stock batch.": "No matching activity logs recorded for this stock batch."
+  ,"In-Page Voucher Preview": "In-Page Voucher Preview"
+  ,"Print Voucher": "Print Voucher"
+  ,"Download PDF": "Download PDF",
+  "Total Bill": "Total Bill",
+  "Fast Retail": "Fast Retail",
+  "Registered": "Registered",
+  "Gross Sale": "Gross Sale",
+  "Confirm & Record Sale": "Confirm & Record Sale",
+  "Lot Information": "Lot Information",
+  "BEOPARI/GROWER": "BEOPARI/GROWER",
+  "Discard Draft": "Discard Draft",
+  "Search buyer name or phone...": "Search buyer name or phone...",
+  "Select": "Select",
+  "Apply": "Apply",
+  "Gross Turnover": "Gross Turnover",
+  "Comm.": "Comm.",
+  "Reset": "Reset",
+  "Professional Consignment Lot Voucher": "Professional Consignment Lot Voucher",
+  "Active Trading": "Active Trading",
+  "Allow pop-up windows to print this Urdu report or save it as PDF.": "Allow pop-up windows to print this Urdu report or save it as PDF.",
+  "Total Cost Payable": "Total Cost Payable",
+  "Review all fruits & vegetables purchased from the Mandi": "Review all fruits & vegetables purchased from the Mandi",
+  "Lahore Sabzi & Fruit Mandi": "Lahore Sabzi & Fruit Mandi",
+  "Opening balance is read-only because this supplier has purchase or financial transaction history.": "Opening balance is read-only because this supplier has purchase or financial transaction history.",
+  "Opening balance is read-only because this customer has purchase or financial transaction history.": "Opening balance is read-only because this customer has purchase or financial transaction history.",
+  "ARHTI CODE": "ARHTI CODE",
+  "Business logo": "Business logo",
+  "Business mark": "Business mark",
+  "MandiOS Business Report": "MandiOS Business Report",
+  "Report header": "Report header",
+  "Report Period": "Report Period",
+  "Sales Tax Invoice": "Sales Tax Invoice",
+  "OFFICIAL SALARY PAY SLIP": "OFFICIAL SALARY PAY SLIP",
+  "Employee": "Employee",
+  "Records": "Records",
+  "Access Restricted": "Access Restricted",
+  "Active Sales Date(s) Recorded": "Active Sales Date(s) Recorded",
+  "All Commodities": "All Commodities",
+  "All Entities (تمام فریق)": "All Entities (تمام فریق)",
+  "All Modes (تمام ذرائع)": "All Modes (تمام ذرائع)",
+  "All Transactions (Debit & Credit)": "All Transactions (Debit & Credit)",
+  "All Transactions (تمام اندراجات)": "All Transactions (تمام اندراجات)",
+  "BANAM / بنام (OUTFLOWS & EXPENSES)": "BANAM / بنام (OUTFLOWS & EXPENSES)",
+  "Batch Invoice(s) Created On This Date": "Batch Invoice(s) Created On This Date",
+  "Beopari/Grower Catalog Ledger": "Beopari/Grower Catalog Ledger",
+  "Billed Consignments": "Billed Consignments",
+  "Billed Customer": "Billed Customer",
+  "Billing Tax Invoice": "Billing Tax Invoice",
+  "Broker Commission": "Broker Commission",
+  "Broker Commission (کمیشن)": "Broker Commission (کمیشن)",
+  "Brokerage Commission Revenue": "Brokerage Commission Revenue",
+  "Buyer / Customer Name": "Buyer / Customer Name",
+  "Cash Balance": "Cash Balance",
+  "Commission Agent": "Commission Agent",
+  "Commission Agent (Malik) Signature": "Commission Agent (Malik) Signature",
+  "Comprehensive double-entry cash till balance, customer recoveries, payouts, daily shop expenses, and trade auctions.": "Comprehensive double-entry cash till balance, customer recoveries, payouts, daily shop expenses, and trade auctions.",
+  "Computer Generated Tax Voucher": "Computer Generated Tax Voucher",
+  "Consignment & Auction Operations Summary": "Consignment & Auction Operations Summary",
+  "Consignment Beopari/Grower & Lot": "Consignment Beopari/Grower & Lot",
+  "Consignment Lot Ledger Report": "Consignment Lot Ledger Report",
+  "Consignment Report Filters": "Consignment Report Filters",
+  "Consignment Sales & Turnover": "Consignment Sales & Turnover",
+  "Credit (Consignment Credits Only)": "Credit (Consignment Credits Only)",
+  "Credit (Jama)": "Credit (Jama)",
+  "Credit (Payments Received Only)": "Credit (Payments Received Only)",
+  "Credit / جمع (Rs)": "Credit / جمع (Rs)",
+  "Current closing ledger status": "Current closing ledger status",
+  "Customer Portfolio Ledger": "Customer Portfolio Ledger",
+  "Customer Type": "Customer Type",
+  "Daily Cash Flow Dynamics (Inflows vs Outflows)": "Daily Cash Flow Dynamics (Inflows vs Outflows)",
+  "Daily Financial Journal": "Daily Financial Journal",
+  "Date-Wise Consignment Sales & Record Batch Invoices Breakdown": "Date-Wise Consignment Sales & Record Batch Invoices Breakdown",
+  "Date-Wise Sales Breakdown": "Date-Wise Sales Breakdown",
+  "Day Book / روزنامچہ (Roznamcha)": "Day Book / روزنامچہ (Roznamcha)",
+  "Debit (Banam)": "Debit (Banam)",
+  "Debit (Disbursed Payments Only)": "Debit (Disbursed Payments Only)",
+  "Debit (Sales Purchases Only)": "Debit (Sales Purchases Only)",
+  "Debit / بنام (Rs)": "Debit / بنام (Rs)",
+  "Dedicated Invoice Page": "Dedicated Invoice Page",
+  "Disbursed Cash Payments (Debit)": "Disbursed Cash Payments (Debit)",
+  "Discount Applied:": "Discount Applied:",
+  "Excel / CSV": "Excel / CSV",
+  "Fetching Beopari/Grower Ledger Entries...": "Fetching Beopari/Grower Ledger Entries...",
+  "Fetching Consignment Vouchers...": "Fetching Consignment Vouchers...",
+  "Fetching Customer Ledger Entries...": "Fetching Customer Ledger Entries...",
+  "Generating Invoice Document...": "Generating Invoice Document...",
+  "Gross Sales Turnover": "Gross Sales Turnover",
+  "Gross sales credits posted": "Gross sales credits posted",
+  "JAMA / جمع (INFLOWS & RECEIPTS)": "JAMA / جمع (INFLOWS & RECEIPTS)",
+  "Ledger Statement Filters & Range": "Ledger Statement Filters & Range",
+  "Loading Consignment Lot Sheet Data...": "Loading Consignment Lot Sheet Data...",
+  "Lot Ref": "Lot Ref",
+  "Mandi Arthi Code:": "Mandi Arthi Code:",
+  "Mandi Cash Till Balancing Equation:": "Mandi Cash Till Balancing Equation:",
+  "Mandi Commission Balancing Protocol": "Mandi Commission Balancing Protocol",
+  "Mandi OS • Sabzi & Fruit Brokerage System": "Mandi OS • Sabzi & Fruit Brokerage System",
+  "Munshi / Cashier Signature": "Munshi / Cashier Signature",
+  "NET TOTAL AMOUNT:": "NET TOTAL AMOUNT:",
+  "Net Account Balance": "Net Account Balance",
+  "Net Closing Till (باقی کیش)": "Net Closing Till (باقی کیش)",
+  "Net Gross Turnover": "Net Gross Turnover",
+  "Net Payable Balance": "Net Payable Balance",
+  "Net commission earned": "Net commission earned",
+  "Net flow:": "Net flow:",
+  "New Window": "New Window",
+  "No batch sales recorded for this lot yet.": "No batch sales recorded for this lot yet.",
+  "No cash inflows or receipts recorded for this period.": "No cash inflows or receipts recorded for this period.",
+  "No cash outflows or payouts recorded for this period.": "No cash outflows or payouts recorded for this period.",
+  "No consignment lot record found.": "No consignment lot record found.",
+  "No consignment vouchers found matching filters.": "No consignment vouchers found matching filters.",
+  "No ledger entries found matching your criteria.": "No ledger entries found matching your criteria.",
+  "No ledger transaction entries found matching your search.": "No ledger transaction entries found matching your search.",
+  "No sale voucher record found for invoice preview.": "No sale voucher record found for invoice preview.",
+  "No transactions found for this period or filter parameters.": "No transactions found for this period or filter parameters.",
+  "No transactions match your current search or filters.": "No transactions match your current search or filters.",
+  "No trend data available for single moment query.": "No trend data available for single moment query.",
+  "OFFICIAL TAX INVOICE": "OFFICIAL TAX INVOICE",
+  "Opening Till (شروع کا کیش)": "Opening Till (شروع کا کیش)",
+  "PDF Export": "PDF Export",
+  "Particulars": "Particulars",
+  "Party / Source": "Party / Source",
+  "Payment Terms:": "Payment Terms:",
+  "Payout vouchers disbursed": "Payout vouchers disbursed",
+  "Physical consignment arrivals and credit invoices generate future settlement payables/receivables, while cash sales and cashier vouchers directly adjust the running till.": "Physical consignment arrivals and credit invoices generate future settlement payables/receivables, while cash sales and cashier vouchers directly adjust the running till.",
+  "Print Consignment Report": "Print Consignment Report",
+  "Print Ledger": "Print Ledger",
+  "Print Lot Sheet": "Print Lot Sheet",
+  "Print Roznamcha": "Print Roznamcha",
+  "Product Description": "Product Description",
+  "Registered Customers:": "Registered Customers:",
+  "Report Filters": "Report Filters",
+  "Report Not Found": "Report Not Found",
+  "Return Vouchers": "Return Vouchers",
+  "Return to Reports Hub": "Return to Reports Hub",
+  "Returned Produce": "Returned Produce",
+  "Sale Price": "Sale Price",
+  "Sales Date:": "Sales Date:",
+  "Sales Turnover Value": "Sales Turnover Value",
+  "Sales Vouchers": "Sales Vouchers",
+  "Select Beopari/Grower Catalog": "Select Beopari/Grower Catalog",
+  "Select Consignment Lot Sheet": "Select Consignment Lot Sheet",
+  "Select Customer Portfolio": "Select Customer Portfolio",
+  "Select Sale Voucher to Preview Invoice": "Select Sale Voucher to Preview Invoice",
+  "Sold Consignments & Mandi Turnover Report": "Sold Consignments & Mandi Turnover Report",
+  "Sum of cash & bank receipts": "Sum of cash & bank receipts",
+  "Sum of filtered purchase vouchers": "Sum of filtered purchase vouchers",
+  "TOTALS": "TOTALS",
+  "TOTALS FOR FILTERED ROWS": "TOTALS FOR FILTERED ROWS",
+  "The requested report ID \"": "The requested report ID \"",
+  "Thermal 3-inch Slip": "Thermal 3-inch Slip",
+  "Total Consignment Credits (Credit)": "Total Consignment Credits (Credit)",
+  "Total Inflows (جمع / وصولیاں)": "Total Inflows (جمع / وصولیاں)",
+  "Total Outflows (بنام / ادائیگیاں)": "Total Outflows (بنام / ادائیگیاں)",
+  "Total Payments Received (Credit)": "Total Payments Received (Credit)",
+  "Total Quantity Billed": "Total Quantity Billed",
+  "Total Sales Billed (Debit)": "Total Sales Billed (Debit)",
+  "Total Shop Kharcha / Expenses": "Total Shop Kharcha / Expenses",
+  "Total Sold:": "Total Sold:",
+  "Total Stock Arrived": "Total Stock Arrived",
+  "Total Stock Auctioned / Sold": "Total Stock Auctioned / Sold",
+  "Total items sold across lots": "Total items sold across lots",
+  "Total market turnover": "Total market turnover",
+  "Total transaction vouchers": "Total transaction vouchers",
+  "Total: Rs.": "Total: Rs.",
+  "Transaction Sort Order": "Transaction Sort Order",
+  "Try widening your date range or clearing specific filter dropdowns.": "Try widening your date range or clearing specific filter dropdowns.",
+  "Turnover: Rs.": "Turnover: Rs.",
+  "Vehicle:": "Vehicle:",
+  "Visual Trend Analytics": "Visual Trend Analytics",
+  "Walk-In Customers:": "Walk-In Customers:",
+  "cash & recovery credits": "cash & recovery credits",
+  "crates": "crates",
+  "crates returned": "crates returned",
+  "payouts & shop expenses": "payouts & shop expenses",
+  "sales units": "sales units",
+  "units @ Rs.": "units @ Rs.",
+  "↩️ Produce Returns (واپسی مال)": "↩️ Produce Returns (واپسی مال)",
+  "⏳ Credit / Udhar (ادھار)": "⏳ Credit / Udhar (ادھار)",
+  "🏢 Shop & Staff Expenses (دکان و عملہ)": "🏢 Shop & Staff Expenses (دکان و عملہ)",
+  "🏦 Bank Account (بینک)": "🏦 Bank Account (بینک)",
+  "👤 Customers / Buyers (خریدار)": "👤 Customers / Buyers (خریدار)",
+  "💵 Cash Till (نقد روکڑ)": "💵 Cash Till (نقد روکڑ)",
+  "💸 Shop Expenses (دکان خرچہ)": "💸 Shop Expenses (دکان خرچہ)",
+  "📊 Daily Mandi Analytics": "📊 Daily Mandi Analytics",
+  "📑 Credit Invoices (ادھار بل)": "📑 Credit Invoices (ادھار بل)",
+  "📖 T-Account Cash Book (دو طرفہ روزنامچہ)": "📖 T-Account Cash Book (دو طرفہ روزنامچہ)",
+  "📜 Cheque (چیک)": "📜 Cheque (چیک)",
+  "📞 Tel/WhatsApp:": "📞 Tel/WhatsApp:",
+  "📤 Beopari/Grower Payments (ادائیگیاں)": "📤 Beopari/Grower Payments (ادائیگیاں)",
+  "📥 Customer Receipts (وصولیاں)": "📥 Customer Receipts (وصولیاں)",
+  "📦 Consignment Arrivals (آمد مال)": "📦 Consignment Arrivals (آمد مال)",
+  "📱 Online / Wallet (ایزی پیسہ/جاز کیش)": "📱 Online / Wallet (ایزی پیسہ/جاز کیش)",
+  "🚜 Beopari/Growers / Farmers (زمیندار/بیوپاری)": "🚜 Beopari/Growers / Farmers (زمیندار/بیوپاری)",
+  "🚶 Walk-In Buyers (عام گاہک)": "🚶 Walk-In Buyers (عام گاہک)",
+  "🛒 Walk-In Cash Sales (نقد فروخت)": "🛒 Walk-In Cash Sales (نقد فروخت)",
+  "🟢 Cash Flow Only / Rokar (نقد روکڑ)": "🟢 Cash Flow Only / Rokar (نقد روکڑ)",
+  "Consignment Vouchers Ledger (": "Consignment Vouchers Ledger (",
+  "Invoices)": "Invoices)",
+  "Statement Posting Entries (": "Statement Posting Entries (",
+  "Beopari/Grower Ledger Postings (": "Beopari/Grower Ledger Postings (",
+  "From:": "From:",
+  "From": "From",
+  "Total Jama + Opening (": "Total Jama + Opening (",
+  "Total Banam + Closing Till (": "Total Banam + Closing Till (",
+  "Opening (": "Opening (",
+  ") + Jama (": ") + Jama (",
+  ") - Banam (": ") - Banam (",
+  ") = Closing (": ") = Closing (",
+  "Till Reconciled: Rs.": "Till Reconciled: Rs.",
+  "Produce Returns (واپسی مال)": "Produce Returns (واپسی مال)",
+  "(Value: Rs.": "(Value: Rs.",
+  "| Beopari/Grower:": "| Beopari/Grower:",
+  "| Product:": "| Product:",
+  ") - Arrived:": ") - Arrived:",
+  "Buyer: Rs.": "Buyer: Rs.",
+  "| Supp: Rs.": "| Supp: Rs.",
+  "Lot Ref: #": "Lot Ref: #",
+  "A4 Standard": "A4 Standard",
+  "A5 Half Sheet": "A5 Half Sheet",
+  ") - Bal: Rs.": ") - Bal: Rs.",
+  "\" does not exist in Mandi OS configuration.": "\" does not exist in Mandi OS configuration.",
+  "-- Choose Customer --": "-- Choose Customer --",
+  "-- Choose Beopari/Grower --": "-- Choose Beopari/Grower --",
+  "📋 Master Chronological Journal (": "📋 Master Chronological Journal (",
+  "Refresh Consignment Data": "Refresh Consignment Data",
+  "CONSIGNMENT SALES & BROKERAGE TURNOVER REPORT": "CONSIGNMENT SALES & BROKERAGE TURNOVER REPORT",
+  "Search Invoice#, Customer...": "Search Invoice#, Customer...",
+  "Refresh Ledger": "Refresh Ledger",
+  "CUSTOMER ACCOUNT STATEMENT / KHATA": "CUSTOMER ACCOUNT STATEMENT / KHATA",
+  "Search voucher description...": "Search voucher description...",
+  "Search party, lot, or item...": "Search party, lot, or item...",
+  "Filter by Transaction Nature": "Filter by Transaction Nature",
+  "Filter by Payment Mode": "Filter by Payment Mode",
+  "Filter by Party Entity": "Filter by Party Entity",
+  "Reset all filters": "Reset all filters",
+  "DAILY ROZNAMCHA / DAY BOOK STATEMENT": "DAILY ROZNAMCHA / DAY BOOK STATEMENT",
+  "Open in a standalone window": "Open in a standalone window",
+  "Company Logo": "Company Logo",
+  "Mandi Logo": "Mandi Logo",
+  "BEOPARI/GROWER ACCOUNT STATEMENT / KHATA": "BEOPARI/GROWER ACCOUNT STATEMENT / KHATA",
+  "Search description...": "Search description...",
+  "General Statement Ledger": "General Statement Ledger",
+  "Customer General Ledger": "Customer General Ledger",
+  "Beopari/Grower General Ledger": "Beopari/Grower General Ledger",
+  "(Receivable)": "(Receivable)",
+  "(Advance / Credit)": "(Advance / Credit)",
+  "(Payable)": "(Payable)",
+  "(Advance / Debit)": "(Advance / Debit)",
+  "All-Time": "All-Time",
+  "Present": "Present",
+  "Arrival": "Arrival",
+  "kg": "kg",
+  "Opening Till": "Opening Till",
+  "Total Inflows (Jama)": "Total Inflows (Jama)",
+  "Total Outflows (Banam)": "Total Outflows (Banam)",
+  "Closing Till": "Closing Till",
+  "Debit / Banam": "Debit / Banam",
+  "Credit / Jama": "Credit / Jama",
+  "Daily Hisab": "Daily Hisab",
+  "Customer Daily Hisab": "Customer Daily Hisab",
+  "Beopari (Supplier) Daily Hisab": "Beopari (Supplier) Daily Hisab",
+  "Previous Balance": "Previous Balance",
+  "Today's Purchases": "Today's Purchases",
+  "Total Outstanding": "Total Outstanding",
+  "Today's Payment": "Today's Payment",
+  "Remaining Balance": "Remaining Balance",
+  "Daily Total": "Daily Total",
+  "Customer and supplier daily balances from existing ledger transactions": "Customer and supplier daily balances from existing ledger transactions",
+  "Search party name, phone, or Khata ID": "Search party name, phone, or Khata ID",
+  "No matching parties found": "No matching parties found",
+  "Loading Daily Hisab...": "Loading Daily Hisab...",
+  "Failed to load Daily Hisab": "Failed to load Daily Hisab",
+  "Print Daily Hisab": "Print Daily Hisab",
+  "Cash Disbursements & Receipts": "Cash Disbursements & Receipts",
+  "Recorded payment and receipt transactions": "Recorded payment and receipt transactions",
+  "Download Parchi": "Download Parchi",
+  "Download Parchi PDF": "Download Parchi PDF",
+  "Parchi": "Parchi",
+  "Delete payment": "Delete payment",
+  "Payment / Receipt Parchi": "Payment / Receipt Parchi",
+  "Disbursement": "Disbursement",
+  "Total Amount": "Total Amount",
+  "Paid / Disbursement Amount": "Paid / Disbursement Amount",
+  "Payment recorded, but Parchi PDF could not be downloaded.": "Payment recorded, but Parchi PDF could not be downloaded.",
+  "Failed to download Parchi PDF.": "Failed to download Parchi PDF.",
+  "Negative balances represent an advance or credit balance.": "Negative balances represent an advance or credit balance.",
+  "Receipt": "Receipt"
+  ,"Allocate to Own Trading Purchase (optional)": "Allocate to Own Trading Purchase (optional)"
+  ,"General payment (not allocated)": "General payment (not allocated)"
+  ,"Outstanding": "Outstanding"
+  ,"Own Trading": "Own Trading"
+  ,"Own Trading purchase recorded and lots created.": "Own Trading purchase recorded and lots created."
+  ,"Failed to record Own Trading purchase.": "Failed to record Own Trading purchase."
+  ,"Cancel Own Trading Purchase?": "Cancel Own Trading Purchase?"
+  ,"This reverses the purchase and removes linked stock only if no sales, returns, or stock adjustments exist. Any supplier advance remains as a supplier credit until refunded.": "This reverses the purchase and removes linked stock only if no sales, returns, or stock adjustments exist. Any supplier advance remains as a supplier credit until refunded."
+  ,"Cancel Purchase": "Cancel Purchase"
+  ,"Own Trading purchase cancelled.": "Own Trading purchase cancelled."
+  ,"Failed to cancel Own Trading purchase.": "Failed to cancel Own Trading purchase."
+  ,"Own Trading Purchases": "Own Trading Purchases"
+  ,"Record purchases made by your business. Each item creates its own linked stock lot.": "Record purchases made by your business. Each item creates its own linked stock lot."
+  ,"Record Own Trading Purchase": "Record Own Trading Purchase"
+  ,"Date / Reference": "Date / Reference"
+  ,"Source / Truck": "Source / Truck"
+  ,"Items": "Items"
+  ,"Landed Cost": "Landed Cost"
+  ,"Own Trading Purchase": "Own Trading Purchase"
+  ,"This creates own-trading lots and supplier balances immediately. No settlement is required.": "This creates own-trading lots and supplier balances immediately. No settlement is required."
+  ,"Suppliers and purchase items": "Suppliers and purchase items"
+  ,"Each item is linked to its own supplier, product, and stock lot.": "Each item is linked to its own supplier, product, and stock lot."
+  ,"Add Supplier": "Add Supplier"
+  ,"Supplier / Beopari": "Supplier / Beopari"
+  ,"Advance Payment": "Advance Payment"
+  ,"Remove Supplier": "Remove Supplier"
+  ,"Record Purchase and Create Lots": "Record Purchase and Create Lots"
+  ,"Own Trading Report": "Own Trading Report"
+  ,"Purchase-to-sale activity for goods purchased by the business, including landed cost, inventory value, receivables, payables, and lot-wise trading profit.": "Purchase-to-sale activity for goods purchased by the business, including landed cost, inventory value, receivables, payables, and lot-wise trading profit."
+  ,"Tracks Own Trading purchases separately from commission consignments. Profit recognizes cost only for sold or wasted stock; unsold stock remains valued as inventory.": "Tracks Own Trading purchases separately from commission consignments. Profit recognizes cost only for sold or wasted stock; unsold stock remains valued as inventory."
+  ,"Landed cost = purchase line amount + allocated transport/loading/unloading/other costs. Cost of goods sold = net sold quantity × landed unit cost. Remaining inventory is valued at landed unit cost and is not included in sold cost. Gross trading profit = sales revenue after approved returns − cost of goods sold. Wastage cost is deducted separately for net trading profit.": "Landed cost = purchase line amount + allocated transport/loading/unloading/other costs. Cost of goods sold = net sold quantity × landed unit cost. Remaining inventory is valued at landed unit cost and is not included in sold cost. Gross trading profit = sales revenue after approved returns − cost of goods sold. Wastage cost is deducted separately for net trading profit."
+  ,"Purchase Reference": "Purchase Reference"
+  ,"Source Mandi": "Source Mandi"
+  ,"Lot ID": "Lot ID"
+  ,"Purchased Qty": "Purchased Qty"
+  ,"Allocated Expenses": "Allocated Expenses"
+  ,"Landed Cost / Unit": "Landed Cost / Unit"
+  ,"Wasted Qty": "Wasted Qty"
+  ,"Sales Revenue": "Sales Revenue"
+  ,"Cost of Goods Sold": "Cost of Goods Sold"
+  ,"Gross Trading Profit": "Gross Trading Profit"
+  ,"Wastage Cost": "Wastage Cost"
+  ,"Net Trading Profit": "Net Trading Profit"
+  ,"Supplier Payments": "Supplier Payments"
+  ,"Supplier Payable": "Supplier Payable"
+  ,"Customer Recoveries": "Customer Recoveries"
+  ,"Customer Receivable": "Customer Receivable"
+  ,"Unpaid": "Unpaid"
+  ,"OwnTradingPurchases": "OwnTradingPurchases"
+  ,"Returned Produce Condition": "Returned Produce Condition"
+  ,"Damaged or spoiled Own Trading returns are recorded as wastage and are not restocked.": "Damaged or spoiled Own Trading returns are recorded as wastage and are not restocked."
+  ,"Own Trading Sale Summary": "Own Trading Sale Summary"
+
+}

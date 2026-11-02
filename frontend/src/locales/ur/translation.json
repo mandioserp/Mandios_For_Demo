@@ -1,0 +1,2836 @@
+{
+  "Daily & Financial": "روزانہ اور مالی",
+  "Core daily transaction logs, party ledgers, and financial accounting reports.": "روزمرہ لین دین، فریقوں کے کھاتے اور مالی حساب کی بنیادی رپورٹس۔",
+  "Operations": "کاروباری امور",
+  "Crate inventory, beopari/grower advances, attendance logs, and market fee compliance.": "کریٹ اسٹاک، بیوپاری کی پیشگی، حاضری اور منڈی فیس کی تعمیل۔",
+  "Analytics": "تجزیہ",
+  "Commodity price trends, commercial partner leaderboards, and profit margins.": "اشیا کے ریٹ کا رجحان، کاروباری ساتھیوں کی درجہ بندی اور منافع کا تناسب۔",
+  "Day Book (Roznamcha)": "روزانہ حساب (روزنامچہ)",
+  "Every transaction across all parties recorded sequentially for a chosen date range with cash till balance and mandi trading audit.": "منتخب مدت کے تمام لین دین، نقد بیلنس اور منڈی کاروبار کا تاریخ وار حساب۔",
+  "Party Ledger / Khata": "فریق کا لیجر / کھاتہ",
+  "Full transaction statement and running account balance history for a single customer or beopari/grower.": "کسی ایک گاہک یا بیوپاری کے تمام لین دین اور جاری کھاتے کی تفصیل۔",
+  "Lot-wise Sales Report": "لاٹ کے حساب سے فروخت",
+  "Detailed breakdown of every consignment lot sold, with buyer allocations and sale rates.": "فروخت شدہ ہر لاٹ، خریداروں اور فروخت کے ریٹ کی تفصیل۔",
+  "Commission (Aarhat) Report": "کمیشن (آڑھت) رپورٹ",
+  "Brokerage commission earned by the Mandi agency across transactions.": "منڈی کے لین دین سے حاصل ہونے والے بروکریج کمیشن کی رپورٹ۔",
+  "Outstanding / Udhaar Report": "بقایا / ادھار رپورٹ",
+  "Aging analysis of pending receivables owed by buyers to manage credit risk.": "گاہکوں سے وصول طلب رقم کی مدت وار تفصیل اور ادھار کے خطرے کا جائزہ۔",
+  "Cash / Bank Book": "نقدی / بینک کھاتہ",
+  "Real-time record of cash and bank account receipts, walk-in customer cash sales, beopari/grower payouts, and net liquidity balances.": "نقد اور بینک وصولیاں، نقد فروخت، بیوپاری کو ادائیگی اور دستیاب رقم کا تازہ حساب۔",
+  "Bardana / Crate Report": "باردانہ / کریٹ رپورٹ",
+  "2-Way balance ledger auditing beopari/grower inward vs customer outward crate movements and direct return settlements.": "بیوپاری سے آنے اور گاہک کو جانے والے کریٹ اور واپسی کے تصفیے کا دو طرفہ حساب۔",
+  "Peshgi / Advance Report": "پیشگی رپورٹ",
+  "Separation of Beopari/Grower vs Customer Peshgi with real-time auto-deductions and recovery tracking.": "بیوپاری اور گاہک کی پیشگی رقم، خودکار کٹوتیوں اور وصولی کی الگ تفصیل۔",
+  "Absent Party Report": "غیر حاضر فریق رپورٹ",
+  "Identify regular beopari/growers who have not delivered any crop arrivals on a given date for proactive follow-up.": "مخصوص تاریخ پر مال نہ بھیجنے والے باقاعدہ بیوپاریوں کی شناخت اور پیروی۔",
+  "Beopari/Grower Expense Deductions Report": "بیوپاری کے اخراجات اور کٹوتیوں کی رپورٹ",
+  "Itemized audit of freight, labor (hamali), crates, commissions, and lot-specific deductions withheld from beopari/grower consignments.": "بیوپاری کے مال سے منہا کرایہ، مزدوری، کریٹ اور کمیشن سمیت لاٹ وار کٹوتیوں کا حساب۔",
+  "Beopari/Grower Payables Report": "بیوپاری کو واجب الادا رقم کی رپورٹ",
+  "Summary of net amounts owed to farmers/beopari-growers for sold consignments, with payment aging.": "فروخت شدہ مال کے عوض بیوپاریوں کو واجب الادا خالص رقم اور ادائیگی کی مدت کا خلاصہ۔",
+  "Market Fee / Committee Levy Report": "منڈی فیس / کمیٹی لیوی رپورٹ",
+  "Official statutory audit register computing government Market Committee levies (مارکیٹ کمیٹی فیس / لیوی) on consignment gross turnovers.": "مال کی مجموعی فروخت پر سرکاری مارکیٹ کمیٹی فیس اور لیوی کا باقاعدہ آڈٹ رجسٹر۔",
+  "Mandi Expenses & Deductions Report": "منڈی اخراجات اور کٹوتیوں کی رپورٹ",
+  "Itemized breakdown of labor (hamali), weighing (tulai), transport, and shop operating expenses.": "مزدوری، تولائی، ٹرانسپورٹ اور دکان کے اخراجات کی مد وار تفصیل۔",
+  "Item-wise Price Trend": "جنس کے حساب سے ریٹ کا رجحان",
+  "Historical commodity rate trajectories tracking real-time daily average, minimum, and maximum selling rates per commodity over time.": "ہر جنس کے روزانہ اوسط، کم سے کم اور زیادہ سے زیادہ فروخت ریٹ کا تاریخی رجحان۔",
+  "Top Beopari/Growers & Buyers": "نمایاں بیوپاری اور خریدار",
+  "Ranked leaderboard of top beopari/growers by supply volume and top buyers by purchase value.": "فراہم کردہ مقدار کے لحاظ سے نمایاں بیوپاری اور خریداری کی مالیت کے لحاظ سے بڑے خریدار۔",
+  "Monthly Profit Summary": "ماہانہ منافع کا خلاصہ",
+  "Financial performance report summarizing monthly brokerage commission revenue (Customer + Beopari/Grower) and miscellaneous income minus shop operating expenses.": "ماہانہ کمیشن اور دیگر آمدن میں سے دکان کے اخراجات منہا کرکے مالی کارکردگی کا خلاصہ۔",
+  "Stock & Unsold Lot Report": "اسٹاک اور غیر فروخت شدہ لاٹ رپورٹ",
+  "Audit of unsold consignment lots categorized by aging days to flag perishability and spoilage risk.": "غیر فروخت شدہ لاٹ کی عمر وار جانچ تاکہ جلد خراب ہونے والے مال کی نشاندہی ہو۔",
+  "Centralized Intelligence & Auditing": "مرکزی کاروباری معلومات اور آڈٹ",
+  "Reports Hub": "رپورٹس کا مرکزی صفحہ",
+  "Access real-time financial, operational, and business analytics reports for Mandi OS. Select a report below to inspect detailed transaction ledgers, charts, and downloadable statements.": "MandiOS کی تازہ مالی اور کاروباری رپورٹس دیکھیں۔ لین دین، چارٹس اور اسٹیٹمنٹ کی تفصیل کے لیے نیچے سے رپورٹ منتخب کریں۔",
+  "Active Role": "فعال کردار",
+  "Available Reports": "دستیاب رپورٹس",
+  "Search report name, description or metrics...": "رپورٹ کا نام، تفصیل یا اعداد تلاش کریں...",
+  "All Tiers": "تمام درجے",
+  "Tier": "درجہ",
+  "Open in new window": "نئی ونڈو میں کھولیں",
+  "View Report": "رپورٹ دیکھیں",
+  "No reports matched your filter": "منتخب فلٹر کے مطابق کوئی رپورٹ نہیں ملی",
+  "Try clearing your search keyword or switching your tier filter.": "تلاش کا لفظ ہٹا کر یا درجہ بدل کر دیکھیں۔",
+  "Reset Filters": "فلٹر دوبارہ ترتیب دیں",
+  "Settings Panels": "ترتیبات کے حصے",
+  "Configure system-wide parameters.": "پورے سسٹم کی ترتیبات تبدیل کریں۔",
+  "Your user role is not authorized to view this report.": "آپ کے صارف کردار کو یہ رپورٹ دیکھنے کی اجازت نہیں۔",
+  "All Buyers": "تمام خریدار",
+  "Export CSV": "CSV برآمد کریں",
+  "Export PDF": "PDF برآمد کریں",
+  "Generating report query and aggregations...": "رپورٹ تیار ہو رہی ہے...",
+  "Mandi Broker": "منڈی بروکر",
+  "Home": "صفحۂ آغاز",
+  "Sabzi & Fruit System": "سبزی اور پھل کا نظام",
+  "Clerks / Employees": "منشی / ملازمین",
+  "Suppliers Catalog": "بیوپاریوں کی فہرست",
+  "Customers Portfolio": "گاہکوں کی فہرست",
+  "Stock Supplies": "مال کی آمد",
+  "Sales Ledger": "فروخت کا لیجر",
+  "Financial Reports": "مالی رپورٹس",
+  "Mandi Trade Ledger": "منڈی کے کاروبار کا لیجر",
+  "Sabzi & Fruit Commission Brokerage Engine": "سبزی اور پھل کی کمیشن بروکریج",
+  "Supplier Stock": "بیوپاری کا اسٹاک",
+  "Products List": "اشیا کی فہرست",
+  "Select Language": "زبان منتخب کریں",
+  "Mandi Broker Management": "منڈی بروکر مینجمنٹ",
+  "Sabzi & Fruit Commission Trade Engine": "سبزی اور پھل کی کمیشن تجارت",
+  "Password Key": "پاس ورڈ",
+  "System Role Access": "سسٹم میں کردار منتخب کریں",
+  "Admin (Full Control)": "ایڈمن (مکمل اختیار)",
+  "Clerk (Desk Operator)": "منشی (ڈیسک آپریٹر)",
+  "Customer (Buyer)": "گاہک (خریدار)",
+  "Supplier (Farmer/Grower)": "بیوپاری (کاشتکار)",
+  "Authenticating Trade Access...": "کاروباری رسائی کی تصدیق ہو رہی ہے...",
+  "Sign In To Mandi": "منڈی میں لاگ اِن کریں",
+  "Demo Credentials:": "ڈیمو لاگ اِن معلومات:",
+  "Total Stock Inward": "کل موصولہ اسٹاک",
+  "Total Sales Handled": "کل فروخت",
+  "Active Accounts": "فعال کھاتے",
+  "Brokerage Commission": "بروکریج کمیشن",
+  "Gross Commissions": "مجموعی کمیشن",
+  "Total Receivables": "کل وصولیاں",
+  "Total Payables": "کل واجب الادا",
+  "Overall Cash Balance": "مجموعی نقد بیلنس",
+  "Overview Statistics": "مجموعی اعداد و شمار",
+  "Live Mandi Commission Brokerage Analytics": "منڈی کمیشن بروکریج کا تازہ تجزیہ",
+  "Net Balance": "خالص بیلنس",
+  "Active Clerks": "فعال منشی",
+  "Suppliers": "بیوپاری",
+  "Customers": "گاہک",
+  "Products": "اشیا",
+  "Stock Entries": "اسٹاک اندراجات",
+  "Payments": "ادائیگیاں",
+  "Audit Logs": "آڈٹ لاگز",
+  "Search...": "تلاش...",
+  "Add": "شامل کریں",
+  "Delete": "حذف کریں",
+  "Edit": "ترمیم کریں",
+  "Name": "نام",
+  "Phone": "فون",
+  "Address": "پتہ",
+  "Role": "کردار",
+  "Type": "قسم",
+  "Description": "تفصیل",
+  "Category": "قسم",
+  "Unit": "اکائی",
+  "Remaining": "باقی",
+  "Discount": "رعایت",
+  "Net Total": "خالص کل",
+  "Party Name": "فریق کا نام",
+  "Party Type": "فریق کی قسم",
+  "Payment Mode": "ادائیگی کا طریقہ",
+  "Cash": "نقد",
+  "Bank": "بینک",
+  "Check": "چیک",
+  "Inward Stock": "موصولہ اسٹاک",
+  "Outward Sales": "فروخت شدہ مال",
+  "Add New Clerk": "نیا منشی شامل کریں",
+  "ADD NEW BEOPARI": "نیا بیوپاری شامل کریں",
+  "Add New Customer": "نیا گاہک شامل کریں",
+  "Add New Product": "نئی شے شامل کریں",
+  "Record Stock Inward": "اسٹاک کی آمد درج کریں",
+  "Record Sales Invoice": "فروخت کا بل درج کریں",
+  "Record Payment / Receipt": "ادائیگی / وصولی درج کریں",
+  "Supplier / Grower": "بیوپاری / کاشتکار",
+  "Party Select": "فریق منتخب کریں",
+  "Select Name": "نام منتخب کریں",
+  "Select Product": "شے منتخب کریں",
+  "Select Supplier": "بیوپاری منتخب کریں",
+  "Select Customer": "گاہک منتخب کریں",
+  "Purchase Rate": "خریداری کا ریٹ",
+  "Market Sale Rate": "منڈی کا فروخت ریٹ",
+  "Sale Rate": "فروخت کا ریٹ",
+  "Save Details": "تفصیلات محفوظ کریں",
+  "Submitting...": "جمع ہو رہا ہے...",
+  "Receivable": "وصول طلب",
+  "Payable": "واجب الادا",
+  "Debt": "قرض",
+  "All Suppliers": "تمام بیوپاری",
+  "All Customers": "تمام گاہک",
+  "All Products": "تمام اشیا",
+  "Today's Supplies": "آج کی آمد",
+  "Today's Sales": "آج کی فروخت",
+  "Low Stock Warnings!": "کم اسٹاک کی تنبیہ!",
+  "Recent Stock Supplies (Purchase)": "حالیہ مال کی آمد (خریداری)",
+  "Recent Sales Tickets": "حالیہ فروخت کی پرچیاں",
+  "Agriculture Stock Supplies": "زرعی مال کی آمد",
+  "Add, edit, or delete shipments supplied by growers and farmers": "کاشتکاروں اور بیوپاریوں کی بھیجی ہوئی آمد درج، ترمیم یا حذف کریں",
+  "RECORD NEW SHIPMENT": "نئی آمد درج کریں",
+  "Search supplies...": "آمد میں تلاش کریں...",
+  "Supplier Name": "بیوپاری کا نام",
+  "Product Name": "شے کا نام",
+  "Arrived Qty": "موصولہ مقدار",
+  "Remaining Qty": "باقی مقدار",
+  "Avg Sale Rate": "اوسط فروخت ریٹ",
+  "Total Credited": "کل جمع رقم",
+  "Mandi Wholesale Sales Invoices": "منڈی کے تھوک فروخت بل",
+  "Manage and record auction sales of grower products to customers": "کاشتکار کی اشیا کی نیلامی اور گاہکوں کو فروخت درج کریں",
+  "RECORD NEW SALE TICKET": "نئی فروخت کی پرچی درج کریں",
+  "Search sales...": "فروخت میں تلاش کریں...",
+  "Buyer / Customer": "خریدار / گاہک",
+  "Market Fee": "منڈی فیس",
+  "Total Amount": "کل رقم",
+  "Bill Amount": "بل کی رقم",
+  "Final Net Bill": "حتمی خالص بل",
+  "Rate / Unit": "ریٹ / اکائی",
+  "Loading Clerk Desk...": "منشی کا ڈیش بورڈ لوڈ ہو رہا ہے...",
+  "Loading Admin Suite...": "ایڈمن پینل لوڈ ہو رہا ہے...",
+  "Total Debited": "کل منہا رقم",
+  "My Customer Account Profile": "میرے گاہک کے کھاتے کی تفصیل",
+  "Total Purchased": "کل خریداری",
+  "Outstanding Balance (Payable)": "بقایا واجب الادا رقم",
+  "My Ledger History": "میرے لیجر کی تفصیل",
+  "My Supplier (Grower) Profile": "میرے بیوپاری کے کھاتے کی تفصیل",
+  "Total Supplied (Qty)": "کل فراہم کردہ مقدار",
+  "Outstanding Balance (Receivable)": "بقایا وصول طلب رقم",
+  "My Supply Shipments": "میری بھیجی ہوئی آمد",
+  "Ledger Transaction Sheet": "لیجر کے لین دین",
+  "Entries": "اندراجات",
+  "Tickets": "پرچیاں",
+  "left": "باقی",
+  "Items near depletion": "ختم ہونے کے قریب اشیا",
+  "Coordinate with Suppliers!": "بیوپاریوں سے رابطہ کریں!",
+  "Verified payments on counter": "کاؤنٹر پر تصدیق شدہ وصولیاں",
+  "Verified cashier payouts": "کیشئر کی تصدیق شدہ ادائیگیاں",
+  "Pending from Customers": "گاہکوں سے وصول طلب",
+  "Owed to Suppliers": "بیوپاریوں کو واجب الادا",
+  "Net Profit": "خالص منافع",
+  "In chosen period": "منتخب مدت میں",
+  "Active Products": "فعال اشیا",
+  "Low Stock items": "کم اسٹاک والی اشیا",
+  "Loading Brokerage Dashboard...": "بروکریج ڈیش بورڈ لوڈ ہو رہا ہے...",
+  "All": "تمام",
+  "Done": "مکمل",
+  "Cancelled": "منسوخ",
+  "All Statuses": "تمام حالتیں",
+  "Record Cancelled": "ریکارڈ منسوخ",
+  "Sale Cancelled": "فروخت منسوخ",
+  "Lot Cancelled": "لاٹ منسوخ",
+  "Payment Cancelled": "ادائیگی منسوخ",
+  "Expense Cancelled": "خرچ منسوخ",
+  "Confirm Action": "عمل کی تصدیق",
+  "Are you sure you want to proceed?": "کیا آپ واقعی آگے بڑھنا چاہتے ہیں؟",
+  "Confirm": "تصدیق کریں",
+  "Confirmation Required": "تصدیق درکار ہے",
+  "Connection Restored!": "انٹرنیٹ بحال ہو گیا!",
+  "You are back online. All features and data sync are active.": "آپ دوبارہ آن لائن ہیں۔ تمام سہولتیں اور ڈیٹا کی ہم آہنگی فعال ہے۔",
+  "Network Connection Lost": "انٹرنیٹ رابطہ منقطع ہو گیا",
+  "Offline Mode": "آف لائن موڈ",
+  "Internet signals are dropped or unavailable. Changes may not sync until connection returns.": "انٹرنیٹ دستیاب نہیں۔ رابطہ بحال ہونے تک تبدیلیاں ہم آہنگ نہیں ہوں گی۔",
+  "Checking...": "جانچ جاری ہے...",
+  "Check Connection": "رابطہ چیک کریں",
+  "Party": "فریق",
+  "City": "شہر",
+  "Balance": "بیلنس",
+  "Business": "کاروبار",
+  "Total Sum": "کل رقم",
+  "Report": "رپورٹ",
+  "No records found for the selected report filters.": "منتخب فلٹرز کے لیے کوئی ریکارڈ نہیں ملا۔",
+  "Total Days Logged": "درج شدہ کل دن",
+  "Total Quantity": "کل مقدار",
+  "Total Net Amount": "کل خالص رقم",
+  "Purchase Date": "خریداری کی تاریخ",
+  "Items Purchased": "خریدی گئی اشیا",
+  "Day Total Invoice": "روزانہ بل کی کل رقم",
+  "Total Items": "کل اشیا",
+  "Day Net Amount": "روزانہ خالص رقم",
+  "Product": "شے",
+  "Initial Arrived Qty": "ابتدائی موصولہ مقدار",
+  "Net Sold Qty": "خالص فروخت شدہ مقدار",
+  "Remaining Stock": "باقی اسٹاک",
+  "Gross Consignment Sales Value": "مال کی فروخت کی مجموعی رقم",
+  "Beopari Commission": "بیوپاری کا کمیشن",
+  "Market / Sarkari Fee": "منڈی / سرکاری فیس",
+  "Lot Expense Deductions": "لاٹ کے اخراجات کی کٹوتی",
+  "Net Payable to Supplier": "بیوپاری کو قابلِ ادائیگی خالص رقم",
+  "Transaction Reference / Description": "لین دین کا حوالہ / تفصیل",
+  "Posting": "اندراج",
+  "Debit (Dr)": "ڈیبٹ (جمع)",
+  "Credit (Cr)": "کریڈٹ (وصول)",
+  "Balance After": "بعد کا بیلنس",
+  "Invoice #": "انوائس نمبر",
+  "Buyer Name": "خریدار کا نام",
+  "Buyer Type": "خریدار کی قسم",
+  "Gross Value": "مجموعی رقم",
+  "Net Value": "خالص رقم",
+  "Qty": "مقدار",
+  "Unit Rate": "فی اکائی ریٹ",
+  "Line Total": "قطار کی کل رقم",
+  "S.No": "نمبر شمار",
+  "Day Total": "روزانہ کل",
+  "Toggle dark mode": "ڈارک موڈ تبدیل کریں",
+  "Built for Pakistan's mandis": "پاکستان کی منڈیوں کے لیے بنایا گیا",
+  "Super Admin?": "سپر ایڈمن؟",
+  "Enter your assigned Khata ID issued by your Arthi": "آڑھتی کی طرف سے دیا گیا کھاتہ نمبر درج کریں",
+  "Hide password": "پاس ورڈ چھپائیں",
+  "Show password": "پاس ورڈ دکھائیں",
+  "Forgot password?": "پاس ورڈ بھول گئے؟",
+  "Signing in...": "لاگ اِن ہو رہا ہے...",
+  "Sign in to MandiOS": "MandiOS میں لاگ اِن کریں",
+  "New here?": "نئے صارف ہیں؟",
+  "Contact your arthi to get registered.": "اندراج کے لیے اپنے آڑھتی سے رابطہ کریں۔",
+  "Admin": "ایڈمن",
+  "Clerk": "منشی",
+  "Supplier": "بیوپاری",
+  "Super Admin": "سپر ایڈمن",
+  "Buyer Khata": "گاہک کا کھاتہ",
+  "Beopari/Grower Khata": "بیوپاری کا کھاتہ",
+  "Mandi Account Assistance": "منڈی اکاؤنٹ میں مدد",
+  "MandiOS accounts are securely managed by your Arthi Commission Shop Administrator.": "MandiOS کے کھاتوں کا محفوظ انتظام آپ کے آڑھتی کمیشن شاپ ایڈمنسٹریٹر کے پاس ہے۔",
+  "Password Reset": "پاس ورڈ دوبارہ بنائیں",
+  "Please contact your Mandi Admin or desk operator to generate a new PIN / password.": "نیا پن یا پاس ورڈ حاصل کرنے کے لیے اپنے منڈی ایڈمن یا منشی سے رابطہ کریں۔",
+  "New Party Registration": "نئے فریق کا اندراج",
+  "To link your Khata as a Customer or Beopari/Grower, ask the Arthi to register your mobile number and issue your Khata ID.": "گاہک یا بیوپاری کا کھاتہ منسلک کرنے کے لیے آڑھتی سے اپنا موبائل نمبر درج کروا کر کھاتہ نمبر حاصل کریں۔",
+  "Understood": "سمجھ گیا",
+  "Proprietor": "مالک",
+  "Mandi Trade Reg": "منڈی رجسٹریشن",
+  "MandiOS Brokerage ERP": "MandiOS بروکریج ERP",
+  "Official Report": "سرکاری رپورٹ",
+  "Period": "مدت",
+  "Generated": "تیار کردہ",
+  "BEOPARI/GROWER CONSIGNMENT STATEMENT LEDGER": "بیوپاری کے مال کا لیجر اسٹیٹمنٹ",
+  "CUSTOMER ACCOUNT STATEMENT LEDGER": "گاہک کے کھاتے کا لیجر اسٹیٹمنٹ",
+  "DAY-WISE PURCHASE REPORT": "روزانہ خریداری رپورٹ",
+  "DAILY PURCHASE BREAKDOWN": "روزانہ خریداری کی تفصیل",
+  "PROFESSIONAL CONSIGNMENT LOT VOUCHER": "مال کے لاٹ کی رسید",
+  "MANDI OS — DAILY ROZNAMCHA / DAY BOOK REPORT": "MandiOS — روزنامچہ رپورٹ",
+  "Lot Number": "لاٹ نمبر",
+  "Beopari": "بیوپاری",
+  "Total Debit": "کل ڈیبٹ",
+  "Total Credit": "کل کریڈٹ",
+  "Day": "دن",
+  "Dashboard": "ڈیش بورڈ",
+  "Purchases": "خریداری",
+  "Lots & Stock": "لاٹ اور اسٹاک",
+  "Sales": "فروخت",
+  "Sales Lots": "فروخت کے لاٹ",
+  "Boli": "بولی",
+  "Customers Khata": "گاہک کا کھاتہ",
+  "Beopari Khata": "بیوپاری کا کھاتہ",
+  "Khata & Ledger": "کھاتہ اور لیجر",
+  "Commission": "کمیشن",
+  "Bardana": "باردانہ",
+  "Returns": "واپسی",
+  "Truck Logs & Logistics": "ٹرک لاگ اور ترسیل",
+  "Register Munshi": "منشی کا اندراج",
+  "Employee & Salary": "ملازمین اور تنخواہیں",
+  "Product Catalog": "اشیا کی فہرست",
+  "Lot Supplies": "مال کی آمد",
+  "Audit & Log Activity": "آڈٹ اور سرگرمیوں کا ریکارڈ",
+  "Deleted Users / Trash": "حذف شدہ صارفین",
+  "Beopari/Grower Stock": "بیوپاری کا اسٹاک",
+  "Sales Transactions": "فروخت کے لین دین",
+  "My Dashboard": "میرا ڈیش بورڈ",
+  "Purchase History": "خریداری کی تاریخ",
+  "Day Wise Report": "روزانہ رپورٹ",
+  "My General Ledger": "میرا جنرل لیجر",
+  "Supply History": "مال کی فراہمی کی تاریخ",
+  "Lot Wise Report": "لاٹ کے حساب سے رپورٹ",
+  "Businesses / Tenants": "کاروبار / کرایہ دار",
+  "Subscriptions": "سبسکرپشنز",
+  "Users Overview": "صارفین کا جائزہ",
+  "Global Search": "تمام ریکارڈز میں تلاش",
+  "Platform Settings": "پلیٹ فارم کی ترتیبات",
+  "Unit Management": "اکائیوں کا انتظام",
+  "Expense Categories": "اخراجات کی اقسام",
+  "Payment Methods": "ادائیگی کے طریقے",
+  "Invoice Layout": "انوائس کی ترتیب",
+  "Change Password": "پاس ورڈ تبدیل کریں",
+  "Record Batch Sale": "بیچ فروخت درج کریں",
+  "Lot Sale / Boli Session": "لاٹ کی فروخت / بولی سیشن",
+  "Batch Sale (Custom Rate)": "مخصوص ریٹ پر بیچ فروخت",
+  "Sold Consignments": "فروخت شدہ مال کا کھاتہ",
+  "Pay or Receive": "ادائیگی یا وصولی",
+  "Payments & Receipts": "ادائیگیاں اور رسیدیں",
+  "Expenses": "اخراجات",
+  "Reports": "رپورٹس",
+  "Settings": "ترتیبات",
+  "Sign Out": "لاگ آؤٹ",
+  "Sign in": "لاگ اِن",
+  "Welcome to MandiOS": "MandiOS میں خوش آمدید",
+  "Sabzi & Fruit Mandi ka Complete Digital System": "پھل و سبزی منڈی کا مکمل ڈیجیٹل نظام",
+  "Select Role": "کردار منتخب کریں",
+  "Arhti": "آڑھتی",
+  "Munshi": "منشی",
+  "Beopari/Grower": "بیوپاری / کاشتکار",
+  "Shop Owner": "آڑھتی / مالک",
+  "Desk Operator": "منشی",
+  "Farmer Khata": "کاشتکار کا کھاتہ",
+  "Customer Khata ID": "گاہک کا کھاتہ نمبر",
+  "Beopari/Grower Khata ID": "بیوپاری کا کھاتہ نمبر",
+  "Super Admin Email Address": "سپر ایڈمن کا ای میل",
+  "Clerk Email Address": "منشی کا ای میل",
+  "Admin Email Address": "ایڈمن کا ای میل",
+  "Email Address": "ای میل",
+  "Password": "پاس ورڈ",
+  "The Operating System for Fruit & Vegetables Commission Brokers.": "پھل و سبزی کے کمیشن ایجنٹوں کا کاروباری نظام",
+  "Khata management": "کھاتوں کا انتظام",
+  "Bardana tracking": "باردانہ کا حساب",
+  "Peshgi advances": "پیشگی رقوم",
+  "Reports hub": "رپورٹس",
+  "Contact us today to digitize your business.": "اپنے کاروبار کو ڈیجیٹل بنانے کے لیے آج ہی رابطہ کریں۔",
+  "Chat on WhatsApp": "واٹس ایپ پر رابطہ کریں",
+  "Welcome back to MandiOS": "MandiOS میں دوبارہ خوش آمدید",
+  "Language": "زبان",
+  "English": "English",
+  "Urdu": "اردو",
+  "Cancel": "منسوخ",
+  "Save": "محفوظ کریں",
+  "Close": "بند کریں",
+  "Search": "تلاش",
+  "Date": "تاریخ",
+  "Amount": "رقم",
+  "Quantity": "تعداد",
+  "Rate": "ریٹ",
+  "Total": "کل",
+  "Status": "حیثیت",
+  "Actions": "عمل",
+  "No records found": "کوئی ریکارڈ نہیں ملا",
+  "Loading...": "لوڈ ہو رہا ہے...",
+  "Confirm Sign Out": "لاگ آؤٹ کی تصدیق",
+  "Are you sure you want to sign out?": "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟"
+  ,"1. New Return": "۱۔ نئی واپسی"
+  ,"2. Return History": "۲۔ واپسی کی تاریخ"
+  ,"Active": "فعال"
+  ,"Activity Record Details": "سرگرمی کے ریکارڈ کی تفصیل"
+  ,"Add Employee": "ملازم شامل کریں"
+  ,"Address Details": "پتے کی تفصیل"
+  ,"All Designations": "تمام عہدے"
+  ,"All Salary Types": "تنخواہ کی تمام اقسام"
+  ,"Alternate Mobile": "متبادل موبائل نمبر"
+  ,"Assalam-o-Alaikum": "السلام علیکم"
+  ,"Audit Log Narrative & Summary": "آڈٹ لاگ کی روداد اور خلاصہ"
+  ,"Automatically linked expense module logs": "اخراجات کے ماڈیول سے خودکار طور پر منسلک لاگز"
+  ,"Back to Directory": "فہرست پر واپس جائیں"
+  ,"Basic Contract Salary": "معاہدے کے مطابق بنیادی تنخواہ"
+  ,"Bookkeeping activity": "حساب کتاب کی سرگرمی"
+  ,"Brokerage commission charged": "بروکریج کمیشن وصول کیا گیا"
+  ,"CNIC": "شناختی کارڈ"
+  ,"CNIC Card Number": "شناختی کارڈ نمبر"
+  ,"Cash payout of": "نقد ادائیگی کی رقم"
+  ,"Cash payout to": "نقد ادائیگی وصول کنندہ"
+  ,"City Location": "شہر"
+  ,"Clear History": "تاریخ صاف کریں"
+  ,"Commission Deducted from Customer": "گاہک سے منہا کیا گیا کمیشن"
+  ,"Compiling real-time bookkeeping logs...": "حساب کتاب کے تازہ لاگز تیار ہو رہے ہیں..."
+  ,"Consignment lot shipment received from beopari/grower": "بیوپاری / کاشتکار سے مال کا لاٹ موصول ہوا"
+  ,"Consignment shipment arrived from": "مال کی کھیپ موصول ہوئی"
+  ,"Contact Mobile": "رابطے کا موبائل نمبر"
+  ,"Contract Status": "معاہدے کی حالت"
+  ,"Coordinate with Beopari/Growers!": "بیوپاریوں سے رابطہ کریں!"
+  ,"Date & Timestamp": "تاریخ اور وقت"
+  ,"Day Wise Purchase Report": "روزانہ خریداری رپورٹ"
+  ,"Department Team": "شعبہ / ٹیم"
+  ,"Designation": "عہدہ"
+  ,"Designation Position": "عہدے کی پوزیشن"
+  ,"Directory Filters & Search": "فہرست کے فلٹر اور تلاش"
+  ,"Directory PDF generated successfully!": "فہرست کی PDF کامیابی سے تیار ہو گئی!"
+  ,"Download PDF": "PDF ڈاؤن لوڈ کریں"
+  ,"ERP Broker System": "بروکر ERP نظام"
+  ,"Edit Employee Registration File": "ملازم کے اندراج میں ترمیم کریں"
+  ,"Email ID": "ای میل"
+  ,"Employee & Payroll Management": "ملازمین اور تنخواہوں کا انتظام"
+  ,"Employee ID": "ملازم نمبر"
+  ,"Employment & Contract logs": "ملازمت اور معاہدے کے لاگز"
+  ,"Enter employee contract details": "ملازم کے معاہدے کی تفصیل درج کریں"
+  ,"Excel": "Excel"
+  ,"Excel Export": "Excel میں برآمد کریں"
+  ,"Father Name": "والد کا نام"
+  ,"Full Name": "پورا نام"
+  ,"Gate logistics vehicle arrival registered for truck number": "گیٹ پر ٹرک کی آمد درج کی گئی، ٹرک نمبر"
+  ,"Global Search & Intelligence": "تمام ریکارڈز میں تلاش"
+  ,"Handled by": "کارروائی کرنے والا"
+  ,"Inactive": "غیر فعال"
+  ,"Initial Opening Advance": "ابتدائی پیشگی بیلنس"
+  ,"Initial Status": "ابتدائی حالت"
+  ,"Instantly lookup ledger entries, lot shipments, sales tickets, phone numbers, or users.": "لیجر اندراجات، مال کی آمد، فروخت کی پرچیوں، فون نمبروں یا صارفین کو فوراً تلاش کریں۔"
+  ,"Invoice generated for": "انوائس تیار کی گئی"
+  ,"Invoice generated for customer": "گاہک کے لیے انوائس تیار کی گئی"
+  ,"Joining Date": "ملازمت شروع کرنے کی تاریخ"
+  ,"Live stream of arrivals, sales, expenses, and counter payments.": "آمد، فروخت، اخراجات اور کاؤنٹر ادائیگیوں کی تازہ فہرست۔"
+  ,"Loading directory records...": "فہرست کے ریکارڈ لوڈ ہو رہے ہیں..."
+  ,"Logged By (Operator)": "درج کرنے والا آپریٹر"
+  ,"Logged by": "درج کیا"
+  ,"Manage employee profiles, monthly salary calculation, salary advances, and automated expense books": "ملازمین کے پروفائل، ماہانہ تنخواہ، تنخواہ کی پیشگی اور اخراجات کے خودکار حساب کا انتظام کریں"
+  ,"Mandi Bookkeeping Audit Log": "منڈی حساب کتاب کا آڈٹ لاگ"
+  ,"Mandi Brokerage Business Command Hub. Manage shipments, auctions, and accounting in one place.": "منڈی بروکریج کاروبار کا مرکزی پینل؛ آمد، نیلامی اور حساب کتاب ایک جگہ سنبھالیں۔"
+  ,"Mandi Module": "منڈی ماڈیول"
+  ,"Mandi OS": "Mandi OS"
+  ,"Monthly": "ماہانہ"
+  ,"Monthly Basic": "ماہانہ بنیادی"
+  ,"National CNIC Number": "قومی شناختی کارڈ نمبر"
+  ,"New beopari/grower profile": "نیا بیوپاری / کاشتکار پروفائل"
+  ,"New customer profile": "نیا گاہک پروفائل"
+  ,"New fruit commodity": "نئی پھل کی جنس"
+  ,"No Recent Transactions": "حالیہ لین دین موجود نہیں"
+  ,"No Results Found": "کوئی نتیجہ نہیں ملا"
+  ,"No bookkeeping logs matched your filters in this period.": "اس مدت میں آپ کے فلٹرز کے مطابق کوئی حسابی لاگ نہیں ملا۔"
+  ,"No employee registration logs found.": "ملازمین کے اندراج کا کوئی لاگ نہیں ملا۔"
+  ,"Notes & Extra Details": "نوٹس اور اضافی تفصیلات"
+  ,"Official Joining Date": "ملازمت شروع کرنے کی سرکاری تاریخ"
+  ,"Opening Advance Balance": "ابتدائی پیشگی بیلنس"
+  ,"Operating expenditure recorded under category": "کاروباری خرچ درج کیا گیا، مد"
+  ,"Operating expense for": "کاروباری خرچ برائے"
+  ,"Optional": "اختیاری"
+  ,"Payroll PDF report downloaded successfully!": "تنخواہوں کی PDF رپورٹ ڈاؤن لوڈ ہو گئی!"
+  ,"Permanent Address": "مستقل پتہ"
+  ,"Personal registration files": "ذاتی اندراج کی فائلیں"
+  ,"Photo": "تصویر"
+  ,"Primary Mobile": "بنیادی موبائل نمبر"
+  ,"Print": "پرنٹ کریں"
+  ,"Print Report": "رپورٹ پرنٹ کریں"
+  ,"Processed by": "کارروائی کرنے والا"
+  ,"Produce Returns & Settlements": "مال کی واپسی اور تصفیہ"
+  ,"Product Inventory Catalog": "اشیا کے اسٹاک کی فہرست"
+  ,"Profile Image URL": "پروفائل تصویر کا URL"
+  ,"Querying all mandi modules simultaneously...": "منڈی کے تمام ماڈیولز میں بیک وقت تلاش جاری ہے..."
+  ,"Quick Filter Shortcuts": "فوری فلٹر"
+  ,"Received customer payment of": "گاہک سے وصول شدہ رقم"
+  ,"Received payment from": "وصولی از"
+  ,"Recent Activities & Financial Transactions": "حالیہ سرگرمیاں اور مالی لین دین"
+  ,"Recent Searches": "حالیہ تلاشیں"
+  ,"Record Sales": "فروخت درج کریں"
+  ,"Record details for": "ریکارڈ کی تفصیل"
+  ,"Recorded Transaction Amount": "درج شدہ لین دین کی رقم"
+  ,"Reference By": "حوالہ دینے والا"
+  ,"Reference ID": "حوالہ نمبر"
+  ,"Refresh": "تازہ کریں"
+  ,"Refresh Live Data": "تازہ معلومات لوڈ کریں"
+  ,"Register New Mandi Employee": "منڈی کا نیا ملازم درج کریں"
+  ,"Registered beopari/grower": "بیوپاری / کاشتکار کا اندراج کیا"
+  ,"Registered by": "اندراج کیا"
+  ,"Registered customer": "گاہک کا اندراج کیا"
+  ,"Registered product": "شے کا اندراج کیا"
+  ,"Related Party / Contact": "متعلقہ فریق / رابطہ"
+  ,"Salary Cycle": "تنخواہ کا دورانیہ"
+  ,"Salary Payment Cycle": "تنخواہ کی ادائیگی کا دورانیہ"
+  ,"Salary advances disbursed logs": "تنخواہ کی پیشگی ادائیگیوں کا ریکارڈ"
+  ,"Salary payments history logs": "تنخواہ کی ادائیگیوں کی تاریخ"
+  ,"Search Employee": "ملازم تلاش کریں"
+  ,"Search by customer, invoice ID, truck, lot, CNIC, mobile number, user...": "گاہک، انوائس نمبر، ٹرک، لاٹ، شناختی کارڈ، موبائل یا صارف تلاش کریں..."
+  ,"Select a category to automatically lock search parameters and focus search bar.": "زمرہ منتخب کریں تاکہ تلاش کے فلٹر مقرر ہو جائیں اور سرچ بار فعال ہو۔"
+  ,"Sequenced date-wise purchase logs. Click any date row to view products bought on that date.": "تاریخ وار خریداری کا ریکارڈ۔ کسی تاریخ پر کلک کرکے اس دن خریدی گئی اشیا دیکھیں۔"
+  ,"Simple Mandi produce returns, automatic stock replenishment, and customer ledger adjustments": "منڈی کے مال کی واپسی، اسٹاک کی خودکار بحالی اور گاہک کے کھاتے میں ترمیم"
+  ,"Special / Medical / Registration Notes": "خصوصی / طبی / اندراج کے نوٹس"
+  ,"Truck shipment from": "ٹرک کے ذریعے کھیپ، از"
+  ,"Update contract and personal details": "معاہدے اور ذاتی تفصیلات تبدیل کریں"
+  ,"View Business Profile": "کاروباری پروفائل دیکھیں"
+  ,"We couldn't find any records matching your search term across the database.": "آپ کی تلاش کے مطابق کوئی ریکارڈ نہیں ملا۔"
+  ,"by operator": "آپریٹر کے ذریعے"
+  ,"for amount": "رقم کے لیے"
+  ,"from": "سے"
+  ,"from beopari/grower": "بیوپاری / کاشتکار سے"
+  ,"issued to beopari/grower/party": "بیوپاری / فریق کو جاری کیا"
+  ,"logged for": "کے لیے درج کیا"
+  ,"on": "بتاریخ"
+  ,"saved in Mandi database.": "منڈی کے ڈیٹا بیس میں محفوظ کیا گیا۔"
+  ,"was added to the catalog by": "کیٹلاگ میں شامل کیا، از"
+  ,"was created in the system by": "سسٹم میں بنایا، از"
+  ,"was registered in the Mandi ledger by": "منڈی لیجر میں درج کیا، از"
+  ,"with total amount": "کل رقم"
+  ,"with total value": "کل مالیت"
+  ,"Classify structural Mandi expenses specifically tailored and saved for your business account.": "اپنے کاروبار کے مطابق منڈی کے اخراجات کی اقسام بنائیں اور محفوظ کریں۔"
+  ,"ADD CATEGORY": "قسم شامل کریں"
+  ,"Search categories by name...": "نام کے ذریعے اقسام تلاش کریں..."
+  ,"Category Name": "قسم کا نام"
+  ,"No expense categories structured.": "اخراجات کی کوئی قسم موجود نہیں۔"
+  ,"Formulate categorizations for operating costs.": "کاروباری اخراجات کے لیے اقسام بنائیں۔"
+  ,"e.g. Electricity, Wages, Fuel": "مثلاً بجلی، اجرت، ایندھن"
+  ,"Detail what type of bills fall into this group...": "وضاحت کریں کہ کون سے بل اس زمرے میں آئیں گے..."
+  ,"Invoice Sizing & Prints": "انوائس اور پرنٹ کی ترتیب"
+  ,"Configure standard parameters for generating bills, print slips, and billing cycles.": "بل، پرنٹ پرچیاں اور ادائیگی کے دورانیے کی ترتیبات مقرر کریں۔"
+  ,"Invoice Header Text": "انوائس کا بالائی متن"
+  ,"Invoice Footer Note": "انوائس کا اختتامی نوٹ"
+  ,"Terms & Conditions": "شرائط و ضوابط"
+  ,"Invoice Specific Brand Logo URL": "انوائس کے لوگو کا لنک"
+  ,"Default Billing Due Cycle (Days)": "ادائیگی کی مقررہ مدت (دن)"
+  ,"Invoice Print Format": "انوائس کا پرنٹ فارمیٹ"
+  ,"A4 (Standard Full Layout)": "A4 (معیاری مکمل صفحہ)"
+  ,"A5 (Compact Split Sheet)": "A5 (مختصر صفحہ)"
+  ,"Thermal 3-inch (Receipt Slip)": "تھرمل 3 انچ (رسید)"
+  ,"Letter size (Standard US)": "لیٹر سائز (امریکی معیار)"
+  ,"Invoice No. Prefix": "انوائس نمبر کا سابقہ"
+  ,"Invoice Starting Serial No.": "انوائس کا ابتدائی سلسلہ نمبر"
+  ,"Authorized Signatory Text": "مجاز دستخط کنندہ کا متن"
+  ,"UPDATING INVOICES...": "انوائس کی ترتیبات محفوظ ہو رہی ہیں..."
+  ,"SAVE INVOICE PRESETS": "انوائس کی ترتیبات محفوظ کریں"
+  ,"Payment Channels": "ادائیگی کے طریقے"
+  ,"Define valid channels for double-entry cash receipts or payouts specific to your business account.": "اپنے کاروباری کھاتے میں نقد وصولی یا ادائیگی کے قابل قبول طریقے مقرر کریں۔"
+  ,"ADD PAYMENT METHOD": "ادائیگی کا طریقہ شامل کریں"
+  ,"Search payment channels...": "ادائیگی کے طریقے تلاش کریں..."
+  ,"Method Name": "طریقے کا نام"
+  ,"Requires Details (Cheque # / TxID)": "تفصیل درکار ہے (چیک نمبر / ٹرانزیکشن آئی ڈی)"
+  ,"No payment methods configured.": "ادائیگی کا کوئی طریقہ مقرر نہیں۔"
+  ,"Setup bank transfer or mobile banking configurations.": "بینک ٹرانسفر یا موبائل بینکنگ کی ترتیبات بنائیں۔"
+  ,"Method / Channel Name": "طریقے / چینل کا نام"
+  ,"e.g. Bank Alfalah, JazzCash, EasyPaisa, Cash": "مثلاً بینک الفلاح، جاز کیش، ایزی پیسہ، نقد"
+  ,"Instructions / Bank Details": "ہدایات / بینک کی تفصیل"
+  ,"Include account IBAN or processing notes...": "اکاؤنٹ IBAN یا کارروائی کی ہدایات درج کریں..."
+  ,"Manage trading units, abbreviations, and basic scale settings configured specifically for your business.": "اپنے کاروبار کے لیے تجارتی اکائیاں، مختصر نام اور پیمائش کی بنیادی ترتیبات سنبھالیں۔"
+  ,"ADD NEW UNIT": "نئی اکائی شامل کریں"
+  ,"Search units by name or abbreviation...": "نام یا مختصر نام سے اکائیاں تلاش کریں..."
+  ,"Unit Name": "اکائی کا نام"
+  ,"Abbr / Symbol": "مختصر نام / علامت"
+  ,"Multiplier (Conversion)": "تبدیلی کا عدد"
+  ,"Decimal Weight Support": "اعشاری وزن کی سہولت"
+  ,"No trading units registered.": "کوئی تجارتی اکائی درج نہیں۔"
+  ,"Define custom packages for agricultural stock arrival and sale.": "زرعی مال کی آمد اور فروخت کے لیے مخصوص پیکنگ اکائیاں بنائیں۔"
+  ,"e.g. Crate, Sack, Box, Mann": "مثلاً کریٹ، بوری، ڈبہ، من"
+  ,"Symbol / Abbr": "علامت / مختصر نام"
+  ,"e.g. crt, sk, bx": "مثلاً crt، sk، bx"
+  ,"Conversion Factor": "تبدیلی کا تناسب"
+  ,"e.g. 1": "مثلاً ۱"
+  ,"Additional context on trading, standard sizing...": "تجارت یا معیاری وزن سے متعلق مزید وضاحت..."
+  ,"Please enter your current (previous) password.": "اپنا موجودہ (پرانا) پاس ورڈ درج کریں۔"
+  ,"Please enter your new password.": "اپنا نیا پاس ورڈ درج کریں۔"
+  ,"New password must be at least 6 characters long.": "نیا پاس ورڈ کم از کم 6 حروف کا ہونا چاہیے۔"
+  ,"Please confirm your new password in the third field.": "تیسرے خانے میں نئے پاس ورڈ کی تصدیق کریں۔"
+  ,"New password and confirm password do not match. Please ensure both fields are identical.": "نیا پاس ورڈ اور تصدیقی پاس ورڈ یکساں نہیں ہیں۔ دونوں خانے درست طور پر بھریں۔"
+  ,"New password cannot be the same as your previous password. Please choose a different password.": "نیا پاس ورڈ پرانے پاس ورڈ جیسا نہیں ہو سکتا۔ کوئی دوسرا پاس ورڈ منتخب کریں۔"
+  ,"Password changed successfully!": "پاس ورڈ کامیابی سے تبدیل ہو گیا!"
+  ,"Failed to change password.": "پاس ورڈ تبدیل نہیں ہو سکا۔"
+  ,"Change Account Password": "اکاؤنٹ کا پاس ورڈ تبدیل کریں"
+  ,"Update your admin credentials securely. All 3 verification steps are required.": "اپنی ایڈمن اسناد محفوظ طریقے سے تبدیل کریں۔ تصدیق کے تینوں مراحل ضروری ہیں۔"
+  ,"Please remember your new password for subsequent logins.": "اگلی بار لاگ ان کرنے کے لیے نیا پاس ورڈ یاد رکھیں۔"
+  ,"1. Previous / Current Password": "۱۔ پرانا / موجودہ پاس ورڈ"
+  ,"* Required": "* ضروری"
+  ,"Enter your current password...": "اپنا موجودہ پاس ورڈ درج کریں..."
+  ,"Hide password": "پاس ورڈ چھپائیں"
+  ,"Show password": "پاس ورڈ دکھائیں"
+  ,"Enter your existing account password to verify your administrative authority.": "ایڈمن اختیار کی تصدیق کے لیے اپنے موجودہ اکاؤنٹ کا پاس ورڈ درج کریں۔"
+  ,"2. New Password": "۲۔ نیا پاس ورڈ"
+  ,"Min. 6 characters": "کم از کم 6 حروف"
+  ,"Enter new password (min 6 characters)...": "نیا پاس ورڈ درج کریں (کم از کم 6 حروف)..."
+  ,"Password is too short (minimum 6 characters required).": "پاس ورڈ بہت مختصر ہے (کم از کم 6 حروف ضروری ہیں)۔"
+  ,"3. Confirm New Password": "۳۔ نئے پاس ورڈ کی تصدیق"
+  ,"Passwords Match": "پاس ورڈ یکساں ہیں"
+  ,"Does Not Match": "یکساں نہیں"
+  ,"Re-type your new password...": "نیا پاس ورڈ دوبارہ درج کریں..."
+  ,"Re-enter your new password to verify accuracy and avoid typos.": "درستگی کے لیے نیا پاس ورڈ دوبارہ درج کریں۔"
+  ,"UPDATING PASSWORD...": "پاس ورڈ تبدیل ہو رہا ہے..."
+  ,"UPDATE PASSWORD": "پاس ورڈ تبدیل کریں"
+  ,"Analytics Timeframe": "تجزیے کا دورانیہ"
+  ,"Filter all visual metrics and financial trends": "تمام گراف اور مالی رجحانات کو فلٹر کریں"
+  ,"All Time": "تمام مدت"
+  ,"Today": "آج"
+  ,"Last 7 Days": "گزشتہ 7 دن"
+  ,"Last 30 Days": "گزشتہ 30 دن"
+  ,"Last 3 Months": "گزشتہ 3 ماہ"
+  ,"This Year": "رواں سال"
+  ,"Custom Range": "اپنی تاریخیں منتخب کریں"
+  ,"to": "تا"
+  ,"daily": "روزانہ"
+  ,"weekly": "ہفتہ وار"
+  ,"monthly": "ماہانہ"
+  ,"Failed to load business profile": "کاروباری پروفائل لوڈ نہیں ہو سکا"
+  ,"Business profile settings saved successfully!": "کاروباری پروفائل کی ترتیبات محفوظ ہو گئیں!"
+  ,"Failed to update business profile": "کاروباری پروفائل اپ ڈیٹ نہیں ہو سکا"
+  ,"User Account & Business Profile": "صارف کا اکاؤنٹ اور کاروباری پروفائل"
+  ,"View logged-in user details and system business profile configuration.": "لاگ اِن صارف کی تفصیل اور کاروباری پروفائل کی ترتیبات دیکھیں۔"
+  ,"Active User Profile": "موجودہ صارف کا پروفائل"
+  ,"Role": "کردار"
+  ,"System Designation": "نظام میں عہدہ"
+  ,"Account": "اکاؤنٹ"
+  ,"Account Status": "اکاؤنٹ کی حالت"
+  ,"Active Session": "فعال سیشن"
+  ,"Registered Business Profile": "درج شدہ کاروباری پروفائل"
+  ,"Registered System Data": "نظام میں درج معلومات"
+  ,"Owner Name": "مالک کا نام"
+  ,"Owner Name 1": "مالک 1 کا نام"
+  ,"Owner Number 1": "مالک 1 کا فون نمبر"
+  ,"Owner Name 2": "مالک 2 کا نام (اختیاری)"
+  ,"Owner Number 2": "مالک 2 کا فون نمبر (اختیاری)"
+  ,"Email Address": "ای میل پتہ"
+  ,"Tenant ID / Code": "کاروباری شناخت / کوڈ"
+  ,"Contact & Locale Configuration": "رابطے اور علاقائی ترتیبات"
+  ,"Mobile Number": "موبائل نمبر"
+  ,"e.g. +92 300 1234567": "مثلاً +92 300 1234567"
+  ,"WhatsApp Contact Number": "واٹس ایپ رابطہ نمبر"
+  ,"e.g. Shop 12, New Fruit Market": "مثلاً دکان 12، نئی فروٹ منڈی"
+  ,"e.g. Lahore": "مثلاً لاہور"
+  ,"Country": "ملک"
+  ,"Currency Unit": "کرنسی کی اکائی"
+  ,"Currency Symbol": "کرنسی کی علامت"
+  ,"System Time Zone": "نظام کا ٹائم زون"
+  ,"System Date Format": "نظام میں تاریخ کی ترتیب"
+  ,"Logo URL / Base64": "لوگو کا URL / Base64"
+  ,"e.g. https://domain.com/logo.png": "مثلاً https://domain.com/logo.png"
+  ,"SAVING PROFILE...": "پروفائل محفوظ ہو رہا ہے..."
+  ,"Read-only view. Contact Admin to update business settings.": "صرف دیکھنے کی سہولت۔ کاروباری ترتیبات بدلنے کے لیے ایڈمن سے رابطہ کریں۔"
+  ,"Business Name": "کاروبار کا نام"
+  ,"e.g. Pakistan": "مثلاً پاکستان"
+  ,"SAVE SETTINGS": "ترتیبات محفوظ کریں"
+  ,"Error loading product catalog and units": "اشیا کی فہرست اور اکائیاں لوڈ نہیں ہو سکیں"
+  ,"Product default settings updated successfully!": "اشیا کی بنیادی ترتیبات کامیابی سے اپ ڈیٹ ہو گئیں!"
+  ,"Failed to update product defaults": "اشیا کی بنیادی ترتیبات اپ ڈیٹ نہیں ہو سکیں"
+  ,"Product Default Settings": "اشیا کی بنیادی ترتیبات"
+  ,"Establish standard parameters (rates, average weights, minimum/maximum values) on a per-product level.": "ہر جنس کے لیے نرخ، اوسط وزن اور کم سے کم / زیادہ سے زیادہ قیمت مقرر کریں۔"
+  ,"Search products by name or category...": "نام یا قسم سے جنس تلاش کریں..."
+  ,"All Categories": "تمام اقسام"
+  ,"Default Unit": "بنیادی اکائی"
+  ,"N/A": "دستیاب نہیں"
+  ,"Default Commission": "بنیادی کمیشن"
+  ,"None": "کوئی نہیں"
+  ,"Average Weight": "اوسط وزن"
+  ,"Not Set": "مقرر نہیں"
+  ,"Price Range": "قیمت کی حد"
+  ,"Unlimited": "بلا حد"
+  ,"Current Qty": "موجودہ مقدار"
+  ,"No products found in catalog.": "فہرست میں کوئی جنس نہیں ملی۔"
+  ,"Page": "صفحہ"
+  ,"of": "از"
+  ,"Previous": "پچھلا"
+  ,"Next": "اگلا"
+  ,"Edit Product Default Presets": "جنس کی بنیادی ترتیبات میں ترمیم"
+  ,"Default Trading Unit": "تجارت کی بنیادی اکائی"
+  ,"Select Unit": "اکائی منتخب کریں"
+  ,"Bag": "بوری"
+  ,"Commission Type": "کمیشن کی قسم"
+  ,"Percentage (%)": "فیصد (%)"
+  ,"Fixed Amount (Rs.)": "مقررہ رقم (روپے)"
+  ,"Default Rate": "بنیادی نرخ"
+  ,"e.g. 5": "مثلاً 5"
+  ,"Average Weight per Unit (kg)": "فی اکائی اوسط وزن (کلوگرام)"
+  ,"e.g. 25": "مثلاً 25"
+  ,"Min Price Limit": "کم از کم قیمت"
+  ,"Min Rs.": "کم از کم روپے"
+  ,"Max Price Limit": "زیادہ سے زیادہ قیمت"
+  ,"Max Rs.": "زیادہ سے زیادہ روپے"
+  ,"CANCEL": "منسوخ کریں"
+  ,"SAVING...": "محفوظ ہو رہا ہے..."
+  ,"SAVE CHANGES": "تبدیلیاں محفوظ کریں"
+  ,"Failed to load auxiliary charges": "اضافی چارجز لوڈ نہیں ہو سکے"
+  ,"Delete Charge Rule?": "چارج کا اصول حذف کریں؟"
+  ,"Are you sure you want to delete charge rule \"{{name}}\"?": "کیا آپ واقعی چارج کا اصول \"{{name}}\" حذف کرنا چاہتے ہیں؟"
+  ,"Delete Rule": "اصول حذف کریں"
+  ,"Charge definition deleted successfully": "چارج کی تفصیل حذف ہو گئی"
+  ,"Failed to delete charge definition": "چارج کی تفصیل حذف نہیں ہو سکی"
+  ,"Name and Value are required": "نام اور رقم درج کرنا ضروری ہے"
+  ,"Charge definition created successfully": "چارج کامیابی سے شامل ہو گیا"
+  ,"Charge definition updated successfully": "چارج کامیابی سے اپ ڈیٹ ہو گیا"
+  ,"Failed to save charges configuration": "چارجز کی ترتیبات محفوظ نہیں ہو سکیں"
+  ,"Service Charges & Taxes": "سروس چارجز اور ٹیکس"
+  ,"Establish standard charges like Palledari (labor), charity (chungi), market fee, or transport overrides.": "پَلّیداری، چنگی، منڈی فیس یا ٹرانسپورٹ جیسے معیاری چارجز مقرر کریں۔"
+  ,"ADD SERVICE CHARGE": "سروس چارج شامل کریں"
+  ,"Search charges by name or billing recipient...": "نام یا ادائیگی کرنے والے کے ذریعے چارج تلاش کریں..."
+  ,"Charge Name": "چارج کا نام"
+  ,"Charge Type": "چارج کی قسم"
+  ,"Applies To": "کس پر لاگو"
+  ,"No auxiliary service charges defined.": "کوئی اضافی سروس چارج مقرر نہیں۔"
+  ,"Establish automatic transaction taxations or service additions.": "لین دین کے خودکار ٹیکس یا اضافی سروس چارجز مقرر کریں۔"
+  ,"Charge / Fee Name": "چارج / فیس کا نام"
+  ,"e.g. Palledari (Labor Fee)": "مثلاً پَلّیداری (مزدوری)"
+  ,"Charge Value": "چارج کی رقم"
+  ,"e.g. 15": "مثلاً 15"
+  ,"Billing Recipient": "چارج کس سے لیا جائے"
+  ,"Both Beopari/Grower & Buyer": "بیوپاری / کاشتکار اور خریدار دونوں"
+  ,"Beopari/Grower Only (Deduct)": "صرف بیوپاری / کاشتکار (منہا کریں)"
+  ,"Buyer Only (Add-on)": "صرف خریدار (اضافہ کریں)"
+  ,"Deduction Basis": "حساب کی بنیاد"
+  ,"Per Crate": "فی کریٹ"
+  ,"Per Box": "فی ڈبہ"
+  ,"Per Basket": "فی ٹوکری"
+  ,"Per Kilogram": "فی کلوگرام"
+  ,"Per Maund (40 kg)": "فی من (40 کلوگرام)"
+  ,"Per Invoice (Flat)": "فی انوائس (مقررہ)"
+  ,"Total Sale Amount": "کل فروخت کی رقم"
+  ,"Value": "مالیت"
+  ,"Customer Financial & Purchase Analytics": "گاہک کے مالیات اور خریداری کا تجزیہ"
+  ,"Visualizing real-time purchase trends, product allocations, and payment balances": "خریداری کے رجحانات، جنسوں کی مقدار اور ادائیگیوں کے بیلنس کا تازہ جائزہ"
+  ,"1. Purchase Value Trend": "۱۔ خریداری کی مالیت کا رجحان"
+  ,"Total purchase value over time": "وقت کے ساتھ کل خریداری کی مالیت"
+  ,"No purchase data available for the selected period.": "منتخبہ مدت کے لیے خریداری کا ڈیٹا موجود نہیں۔"
+  ,"Purchase Amount": "خریداری کی رقم"
+  ,"Purchase Value": "خریداری کی مالیت"
+  ,"3. Purchase vs Payment": "۳۔ خریداری بمقابلہ ادائیگی"
+  ,"Financial position & ledger comparison": "مالی صورتِ حال اور کھاتے کا موازنہ"
+  ,"Outstanding Debt": "بقایا قرض"
+  ,"2. Product Purchase Breakdown": "۲۔ جنس کے لحاظ سے خریداری"
+  ,"Most purchased produce items by": "سب سے زیادہ خریدی گئی اجناس، ترتیب"
+  ,"value": "مالیت"
+  ,"quantity": "مقدار"
+  ,"By Value": "مالیت کے لحاظ سے"
+  ,"By Quantity": "مقدار کے لحاظ سے"
+  ,"No product data available for the selected period.": "منتخبہ مدت کے لیے جنسوں کا ڈیٹا موجود نہیں۔"
+  ,"Quantity": "مقدار"
+  ,"Total Value": "کل مالیت"
+  ,"Total Quantity": "کل مقدار"
+  ,"Show Top 10 Only": "صرف 10 بڑی اجناس دکھائیں"
+  ,"View All": "سب دیکھیں"
+  ,"Products": "اجناس"
+  ,"4. Payment Trend": "۴۔ ادائیگی کا رجحان"
+  ,"Verified payment receipts over time": "وقت کے ساتھ تصدیق شدہ ادائیگیاں"
+  ,"No payment records found for the selected period.": "منتخبہ مدت کے لیے ادائیگی کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Payment Amount": "ادائیگی کی رقم"
+  ,"Beopari/Grower Supply & Settlement Analytics": "بیوپاری / کاشتکار کی سپلائی اور حساب کا تجزیہ"
+  ,"Exact visualization of crop supply value, commission deductions, net payables, and account settlements": "فصل کی سپلائی کی مالیت، کمیشن کی کٹوتی، خالص واجبات اور کھاتے کی ادائیگیوں کا جائزہ"
+  ,"Gross Supply Value": "سپلائی کی مجموعی مالیت"
+  ,"Commission Deducted": "منہا کیا گیا کمیشن"
+  ,"Exact Mandi commission logic": "منڈی کے کمیشن کا درست حساب"
+  ,"Other Lot Expenses": "لاٹ کے دیگر اخراجات"
+  ,"Freight & Mandi charges": "کرایہ اور منڈی کے چارجز"
+  ,"Net Earned / Payable": "خالص آمدن / واجب الادا"
+  ,"Net payable for period": "مدت کی خالص واجب الادا رقم"
+  ,"Paid / Received Amount": "ادا / وصول شدہ رقم"
+  ,"Current Ledger Balance": "کھاتے کا موجودہ بیلنس"
+  ,"Receivable from broker": "آڑھتی سے وصول طلب"
+  ,"Advance balance": "پیشگی بیلنس"
+  ,"1. Supply Value Trend": "۱۔ سپلائی کی مالیت کا رجحان"
+  ,"No supply history available for the selected period.": "منتخبہ مدت کے لیے سپلائی کی سابقہ تفصیل موجود نہیں۔"
+  ,"3. Financial Deduction Waterfall": "۳۔ مالی کٹوتیوں کی تفصیل"
+  ,"Gross supply → Commission & Expenses → Net Payable": "مجموعی سپلائی → کمیشن اور اخراجات → خالص واجب الادا"
+  ,"Gross Value": "مجموعی مالیت"
+  ,"Total Deductions": "کل کٹوتیاں"
+  ,"Net Payable": "خالص واجب الادا"
+  ,"2. Produce Supply Breakdown": "۲۔ جنس کے لحاظ سے سپلائی"
+  ,"No produce data available for the selected period.": "منتخبہ مدت کے لیے جنسوں کا ڈیٹا موجود نہیں۔"
+  ,"4. Settlement Payment Activity": "۴۔ کھاتے کی ادائیگیوں کی سرگرمی"
+  ,"No settlement payment records found for the selected period.": "منتخبہ مدت کے لیے کھاتے کی ادائیگی کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Time / Date": "وقت / تاریخ"
+  ,"Party / Entity": "پارٹی / فریق"
+  ,"Transaction Type": "لین دین کی قسم"
+  ,"Item / Particulars": "مد / تفصیل"
+  ,"Mode": "طریقہ"
+  ,"Debit / Banam (Rs)": "بنام (روپے)"
+  ,"Credit / Jama (Rs)": "جمع (روپے)"
+  ,"Cash Balance (Rs)": "نقد بیلنس (روپے)"
+  ,"Date Range": "تاریخ کی حد"
+  ,"Transaction Nature": "لین دین کی نوعیت"
+  ,"Debit (Rs)": "بنام (روپے)"
+  ,"Credit (Rs)": "جمع (روپے)"
+  ,"Balance (Rs)": "بیلنس (روپے)"
+  ,"Select Party": "پارٹی منتخب کریں"
+  ,"Lot No": "لاٹ نمبر"
+  ,"Item / Product": "مد / جنس"
+  ,"Qty (Crates)": "مقدار (کریٹ)"
+  ,"Rate (Rs)": "نرخ (روپے)"
+  ,"Amount (Rs)": "رقم (روپے)"
+  ,"Item": "مد"
+  ,"Commodity": "جنس"
+  ,"Lot #": "لاٹ نمبر"
+  ,"Sale Value (Rs)": "فروخت کی مالیت (روپے)"
+  ,"Commission Rate / Mode": "کمیشن کی شرح / طریقہ"
+  ,"Commission (Rs)": "کمیشن (روپے)"
+  ,"Party Filter": "پارٹی کا فلٹر"
+  ,"Total Outstanding (Rs)": "کل بقایا (روپے)"
+  ,"0–7 Days": "0 تا 7 دن"
+  ,"8–15 Days": "8 تا 15 دن"
+  ,"16–30 Days": "16 تا 30 دن"
+  ,"30+ Days (Overdue)": "30 دن سے زائد (تاخیر شدہ)"
+  ,"As of Date": "اس تاریخ تک"
+  ,"Particulars / Description": "تفصیل"
+  ,"Mode (Cash/Bank)": "طریقہ (نقد / بینک)"
+  ,"In / Receipt (Rs)": "آمد / وصولی (روپے)"
+  ,"Out / Payment (Rs)": "اخراج / ادائیگی (روپے)"
+  ,"Movement Ledger": "آمد و خرچ کا کھاتہ"
+  ,"Inward / Issued Crates": "آئے / جاری کیے گئے کریٹ"
+  ,"Returned / Dispatched": "واپس / روانہ کیے گئے"
+  ,"Net Crate Balance": "کریٹ کا خالص بیلنس"
+  ,"Last Activity": "آخری سرگرمی"
+  ,"Ledger Category": "کھاتے کی قسم"
+  ,"Settlement Filter": "ادائیگی کا فلٹر"
+  ,"Beopari/Grower Name": "بیوپاری / کاشتکار کا نام"
+  ,"Mobile / Phone": "موبائل / فون"
+  ,"Primary Commodity": "بنیادی جنس"
+  ,"Last Arrival Date": "آخری آمد کی تاریخ"
+  ,"Days Inactive": "غیر فعال دن"
+  ,"Arrival Date": "آمد کی تاریخ"
+  ,"Arrived Qty/Crates": "موصولہ مقدار / کریٹ"
+  ,"Sold Crates": "فروخت شدہ کریٹ"
+  ,"Gross Value (Rs)": "مجموعی مالیت (روپے)"
+  ,"Commission Deducted (Rs)": "منہا کمیشن (روپے)"
+  ,"Lot Expenses Deducted (Rs)": "لاٹ کے منہا اخراجات (روپے)"
+  ,"Total Deductions (Rs)": "کل کٹوتیاں (روپے)"
+  ,"Net Payable (Rs)": "خالص واجب الادا (روپے)"
+  ,"Settlement Status": "ادائیگی کی حالت"
+  ,"Total Net Payable (Rs)": "کل خالص واجب الادا (روپے)"
+  ,"30+ Days": "30 دن سے زائد"
+  ,"Beopari/Grower / Consignor (زمیندار)": "بیوپاری / کاشتکار / بھیجنے والا"
+  ,"Commodity (جنس)": "جنس"
+  ,"Sold Volume": "فروخت شدہ مقدار"
+  ,"Gross Turnover (Rs)": "مجموعی کاروبار (روپے)"
+  ,"Levy Rate (%)": "لیوی کی شرح (%)"
+  ,"Market Fee (Rs)": "منڈی فیس (روپے)"
+  ,"Status Filter": "حالت کا فلٹر"
+  ,"Payee / Reference": "ادائیگی وصول کنندہ / حوالہ"
+  ,"Expense Category": "اخراجات کی قسم"
+  ,"Min Rate (Rs)": "کم از کم نرخ (روپے)"
+  ,"Max Rate (Rs)": "زیادہ سے زیادہ نرخ (روپے)"
+  ,"Avg Selling Rate (Rs)": "اوسط فروخت نرخ (روپے)"
+  ,"Qty Sold (Crates)": "فروخت مقدار (کریٹ)"
+  ,"Rank": "درجہ"
+  ,"Total Volume (Crates)": "کل مقدار (کریٹ)"
+  ,"Trade Value (Rs)": "تجارت کی مالیت (روپے)"
+  ,"Commission Generated (Rs)": "حاصل کمیشن (روپے)"
+  ,"Entity Type": "فریق کی قسم"
+  ,"Month / Year": "مہینہ / سال"
+  ,"Customer Comm (Rs)": "گاہک کا کمیشن (روپے)"
+  ,"Beopari/Grower Comm (Rs)": "بیوپاری / کاشتکار کا کمیشن (روپے)"
+  ,"Total Comm (Rs)": "کل کمیشن (روپے)"
+  ,"Misc Income (Rs)": "متفرق آمدن (روپے)"
+  ,"Total Expenses (Rs)": "کل اخراجات (روپے)"
+  ,"Net Profit (Rs)": "خالص منافع (روپے)"
+  ,"Profit Margin %": "منافع کا تناسب (%)"
+  ,"Date / Year Range": "تاریخ / سال کی حد"
+  ,"Days in Shop": "دکان میں موجود دن"
+  ,"Unsold Qty": "غیر فروخت شدہ مقدار"
+  ,"Perishability Risk": "خراب ہونے کا خطرہ"
+  ,"Risk Threshold": "خطرے کی حد"
+  ,"Cash Flow Only / Rokar (نقد بہاؤ)": "صرف نقد بہاؤ / روکڑ"
+  ,"Customer Receipts (وصولیاں)": "گاہک سے وصولیاں"
+  ,"Beopari/Grower Payments (ادائیگیاں)": "بیوپاری / کاشتکار کو ادائیگیاں"
+  ,"Walk-in Cash Sales (نقد فروخت)": "نقد فروخت"
+  ,"Credit Invoices (ادھار بل)": "ادھار کے بل"
+  ,"Shop Expenses (اخراجات)": "دکان کے اخراجات"
+  ,"Consignment Arrivals (آمد مال)": "مال کی آمد"
+  ,"Cash Till (نقد روکڑ)": "نقد روکڑ"
+  ,"Bank Account": "بینک اکاؤنٹ"
+  ,"Online / Wallet": "آن لائن / والٹ"
+  ,"Cheque": "چیک"
+  ,"Credit / Udhar": "ادھار"
+  ,"Expense": "خرچ"
+  ,"Walk-In": "براہِ راست خریدار"
+  ,"StockEntries": "اسٹاک اندراجات"
+  ,"Ledger": "کھاتہ"
+  ,"Transactions": "لین دین"
+  ,"All Parties": "تمام پارٹیاں"
+  ,"All Beopari/Growers": "تمام بیوپاری / کاشتکار"
+  ,"CommissionRules": "کمیشن کے اصول"
+  ,"Inflows (Receipts & Walk-In)": "آمد (وصولیاں اور نقد فروخت)"
+  ,"Outflows (Payouts & Expenses)": "اخراج (ادائیگیاں اور اخراجات)"
+  ,"All Entities (2-Way View)": "تمام فریق (دو طرفہ منظر)"
+  ,"Beopari/Grower Inward Ledger": "بیوپاری / کاشتکار کا مال آمد کھاتہ"
+  ,"Customer Outward Ledger": "گاہک کو جاری مال کا کھاتہ"
+  ,"All Transactions": "تمام لین دین"
+  ,"Pending Return Only": "صرف زیرِ التوا واپسی"
+  ,"Settled Only": "صرف طے شدہ"
+  ,"Users": "صارفین"
+  ,"All Lots": "تمام لاٹس"
+  ,"Settled Lots Only": "صرف طے شدہ لاٹس"
+  ,"Active / Unsettled Lots": "فعال / غیر طے شدہ لاٹس"
+  ,"TaxSettings": "ٹیکس کی ترتیبات"
+  ,"Hamali / Coolie": "حمالی / مزدوری"
+  ,"Tulai / Weighing": "تولائی / وزن"
+  ,"Transport / Freight": "ٹرانسپورٹ / کرایہ"
+  ,"Shop Rent & Utilities": "دکان کا کرایہ اور یوٹیلیٹی اخراجات"
+  ,"Miscellaneous": "متفرق"
+  ,"Top Buyers": "نمایاں خریدار"
+  ,"Top Beopari/Growers": "نمایاں بیوپاری / کاشتکار"
+  ,"2+ Days (Caution)": "2 یا زیادہ دن (احتیاط)"
+  ,"4+ Days (High Risk)": "4 یا زیادہ دن (زیادہ خطرہ)"
+  ,"Provides a complete chronological record of all cash receipts, payouts, shop expenses, credit auctions, and consignment arrivals across the entire Mandi shop.": "منتخبہ مدت میں دکان کی تمام نقد وصولیوں، ادائیگیوں، اخراجات، ادھار نیلامیوں اور مال کی آمد کا مکمل تاریخ وار ریکارڈ۔"
+  ,"Tier 1 — MVP": "درجہ ۱ — بنیادی"
+  ,"Tracks historical opening till cash before start date, processes daily cash receipts/sales as Jama (Inflows), beopari/grower payouts/expenses as Banam (Outflows), and maintains true double-entry closing till balances.": "مدت سے پہلے کا ابتدائی نقد بیلنس نکالتا، روزانہ وصولیوں اور فروخت کو جمع، جبکہ بیوپاری / کاشتکار کی ادائیگیوں اور اخراجات کو بنام شمار کرکے اختتامی بیلنس رکھتا ہے۔"
+  ,"Displays complete debit, credit, and running balance history for a chosen party, with a summary card showing current outstanding balance.": "منتخبہ فریق کے تمام بنام، جمع اور چلتے بیلنس کی تفصیل دکھاتا ہے، ساتھ موجودہ بقایا کا خلاصہ بھی۔"
+  ,"Filters all ledger entries and transactions by party ID. Debits represent purchases or funds owed; Credits represent payments or settlements received. Running balance is updated sequentially: Balance = Previous Balance + Debit - Credit.": "پارٹی کی شناخت کے مطابق کھاتے اور لین دین فلٹر کرتا ہے۔ بنام خریداری یا واجب رقم، جبکہ جمع وصول شدہ ادائیگی ہے۔ چلتا بیلنس ہر اندراج کے بعد یوں نکلتا ہے: سابقہ بیلنس + بنام - جمع۔"
+  ,"Tracks auction liquidation per consignment lot, showing exact buyer names, crate quantities, rates, and total sales value.": "ہر مال کے لاٹ کی نیلامی دکھاتا ہے، جس میں خریدار، کریٹ کی تعداد، نرخ اور کل فروخت شامل ہیں۔"
+  ,"Joins sales transactions with stock consignment lots. Amount = Quantity * Sale Rate. The totals row sums total crate quantity and total gross sales value.": "فروخت کے لین دین کو مال کے لاٹ سے جوڑتا ہے۔ رقم = مقدار × فروخت نرخ؛ کل قطار میں کریٹ اور مجموعی فروخت جمع ہوتی ہے۔"
+  ,"Provides an executive view of agency revenue generated from trade commission rates applied on sales transactions and beopari/grower lot settlements.": "فروخت اور بیوپاری / کاشتکار کے لاٹ کے حساب سے ایجنسی کی کمیشن آمدن کا خلاصہ۔"
+  ,"Calculates brokerage commission earned across transactions with options for All Parties, All Beopari/Growers, and All Customers. Shows customer sales commission and beopari/grower lot commission deductions with corresponding commission rates (percentage, per-unit, or fixed fee).": "تمام پارٹیوں یا منتخب بیوپاریوں / گاہکوں کے لین دین پر کمیشن کا حساب دکھاتا ہے۔ گاہک کی فروخت اور بیوپاری کے لاٹ سے کمیشن کی کٹوتی بھی شرح سمیت دکھائی جاتی ہے۔"
+  ,"Categorizes buyer credit into aging time buckets (0-7, 8-15, 16-30, 30+ days) to highlight overdue balances.": "گاہک کے ادھار کو 0–7، 8–15، 16–30 اور 30 سے زائد دن کے زمروں میں بانٹ کر تاخیر شدہ بقایا نمایاں کرتا ہے۔"
+  ,"Computes unpaid invoice balances for each customer. Each unpaid transaction amount is assigned to an aging bucket based on days elapsed between invoice date and As-Of date. Highlighted in red if 30+ days overdue.": "ہر گاہک کے غیر ادا شدہ بلوں کی رقم کو بل کی تاریخ سے منتخبہ تاریخ تک گزرے دنوں کے مطابق تقسیم کرتا ہے؛ 30 دن سے زیادہ پرخطر بقایا نمایاں ہوتا ہے۔"
+  ,"Monitors daily liquidity movement across cash drawers and bank accounts including walk-in cash customer sales, customer recoveries, beopari/grower payouts, and shop expenses.": "نقد اور بینک کھاتوں میں روزانہ کی آمد و خرچ دکھاتا ہے، جیسے نقد فروخت، گاہکوں سے وصولی، بیوپاریوں کو ادائیگی اور دکان کے اخراجات۔"
+  ,"Inflows (Customer Receipts & Walk-in Cash Sales) add to cash/bank balance (+); Outflows (Beopari/Grower Payouts & Expenses) subtract from balance (-). Opening Balance is computed prior to selected date range; Closing Balance = Opening + Total In - Total Out.": "وصولیاں اور نقد فروخت بیلنس میں جمع، جبکہ بیوپاریوں کی ادائیگیاں اور اخراجات منہا ہوتے ہیں۔ اختتامی بیلنس = ابتدائی بیلنس + کل آمد - کل اخراج۔"
+  ,"Tracks beopari/grower inward crates received vs dispatched and customer outward crates issued vs returned.": "بیوپاری سے موصولہ اور واپس بھیجے گئے کریٹ، نیز گاہک کو جاری اور واپس موصول کریٹ کا حساب رکھتا ہے۔"
+  ,"Tier 2 — Phase 2": "درجہ ۲ — اگلا مرحلہ"
+  ,"Beopari/Grower Inward Ledger: Net Owed = Inward Received - Dispatched to Beopari/Grower. Customer Outward Ledger: Net Pending = Crates Issued - Empty Crates Received from Buyer.": "بیوپاری کا اندرونی کھاتہ: خالص واجب = موصولہ کریٹ - بیوپاری کو واپس بھیجے گئے۔ گاہک کا بیرونی کھاتہ: باقی کریٹ = جاری کریٹ - گاہک سے خالی کریٹ کی واپسی۔"
+  ,"Helps shop clerks identify active growers with zero stock arrivals on a chosen date to trigger procurement outreach.": "منتخبہ تاریخ پر مال نہ بھیجنے والے فعال کاشتکاروں کی شناخت میں مدد دیتا ہے۔"
+  ,"Scans registered active beopari/growers whose latest StockEntry arrival date is strictly before the chosen As-Of date. Days Inactive = As-Of Date - Last Arrival Date.": "ایسے فعال بیوپاریوں کی شناخت کرتا ہے جن کی آخری مال آمد منتخبہ تاریخ سے پہلے ہوئی؛ غیر فعال دن = منتخبہ تاریخ - آخری آمد کی تاریخ۔"
+  ,"Provides a complete audit of all expense deductions withheld from beopari/grower consignment settlements per lot, distinguishing freight, labor/unloading, crate expenses, advance deductions, and beopari/grower commissions without mixing Mandi operating expenses.": "ہر لاٹ کے حساب میں بیوپاری سے منہا کیے گئے کرایے، مزدوری، کریٹ، پیشگی رقم اور کمیشن کی الگ تفصیل دیتا ہے؛ دکان کے عمومی اخراجات اس میں شامل نہیں۔"
+  ,"For each consignment lot: Gross Amount = Sold Crate Revenue (or Arrival Lot Value). Commission Deducted = Percentage or Fixed rate per lot. Lot Expenses Deducted = Sum of specific lot expense items (Freight, Unloading, Crates, Municipal/Advance). Total Deductions = Commission + Lot Expenses. Net Payable = Gross Amount - Total Deductions.": "ہر لاٹ میں مجموعی رقم فروخت یا آمد کی مالیت ہے۔ کل کٹوتی = کمیشن + لاٹ کے اخراجات؛ خالص واجب الادا = مجموعی رقم - کل کٹوتی۔"
+  ,"Tracks pending financial settlements owed to growers after deducting commission, freight, labor, and prior advances.": "کمیشن، کرایہ، مزدوری اور سابقہ پیشگی منہا کرنے کے بعد کاشتکار کو واجب بقایا دکھاتا ہے۔"
+  ,"Net Payable = (Gross Crate Sales - Commission Deductions - Lot Expenses) - Payments Disbursed. Unpaid balances are categorized into aging intervals based on lot sale date.": "خالص واجب الادا = (کریٹ کی مجموعی فروخت - کمیشن - لاٹ کے اخراجات) - کی گئی ادائیگیاں۔ بقایا کو لاٹ کی فروخت کی تاریخ کے مطابق مدت میں بانٹا جاتا ہے۔"
+  ,"Official register of fixed Market / Sarkari fees deducted per consignment lot.": "ہر لاٹ سے منہا کی گئی مقررہ مارکیٹ / سرکاری فیس کا سرکاری رجسٹر۔"
+  ,"Official register of fixed Market Committee fees per consignment lot, tracking assessed amounts and settlement status.": "ہر لاٹ کی مقررہ مارکیٹ کمیٹی فیس، مقررہ رقم اور تصفیے کی حالت کا سرکاری رجسٹر۔"
+  ,"Market / Sarkari Fee is a fixed amount per consignment lot. Summary tracks assessed turnover and total fixed fees accrued.": "مارکیٹ / سرکاری فیس ہر لاٹ کے لیے ایک مقررہ رقم ہے۔ خلاصہ کاروبار اور کل فیس دکھاتا ہے۔"
+  ,"Detailed audit of per-consignment labor/freight deductions and shop overhead expenses grouped by expense categories.": "ہر لاٹ کی مزدوری اور کرایے کی کٹوتیوں اور دکان کے عمومی اخراجات کا قسم وار آڈٹ۔"
+  ,"Aggregates recorded shop expenses and lot-specific deductions. Bar chart displays expense breakdown by category.": "دکان کے اخراجات اور لاٹ کی کٹوتیوں کو جمع کرکے ہر قسم کا چارٹ دکھاتا ہے۔"
+  ,"Helps commission agents and traders analyze price trends, peak market rate periods, price corridor fluctuations, and commodity price seasonality.": "آڑھتیوں اور تاجروں کو نرخوں کے رجحان، بلند نرخ کے اوقات اور جنسوں کی موسمی قیمتیں جانچنے میں مدد دیتا ہے۔"
+  ,"Tier 3 — Analytics": "درجہ ۳ — تجزیات"
+  ,"Filters trade transactions by date range and selected commodity. Computes daily minimum rate, maximum rate, and quantity-weighted average selling rate (Total Value / Total Quantity). Line chart displays average trend line alongside high/low rate corridors.": "تاریخ اور جنس کے مطابق لین دین فلٹر کرکے روزانہ کم، زیادہ اور مقدار کے لحاظ سے اوسط نرخ نکالتا ہے۔ چارٹ اوسط کے ساتھ نرخوں کی حد بھی دکھاتا ہے۔"
+  ,"Identifies key commercial partners, highest volume growers, and most valuable buyers in the Mandi.": "اہم کاروباری فریقوں، زیادہ مال لانے والے بیوپاریوں اور نمایاں خریداروں کی شناخت کرتا ہے۔"
+  ,"Sums quantity, trade value, and commission per party across sales and stock entries. Ranks parties in descending order for leaderboard visualization.": "فروخت اور اسٹاک اندراجات سے ہر فریق کی مقدار، کاروباری مالیت اور کمیشن جمع کرکے درجہ وار دکھاتا ہے۔"
+  ,"Evaluates shop profitability month-by-month by comparing dual-sided brokerage commissions (Customer & Beopari/Grower) and miscellaneous income against total operational expenses.": "گاہک اور بیوپاری دونوں طرف کے کمیشن اور دیگر آمدن کا ماہانہ کاروباری اخراجات سے موازنہ کرکے منافع دکھاتا ہے۔"
+  ,"Aggregated by Calendar Month. Total Commission = Customer Commission + Beopari/Grower Commission. Total Revenue = Total Commission + Misc Income. Net Profit = Total Revenue - Total Expenses. Margin % = (Net Profit / Total Revenue) * 100.": "کیلنڈر مہینے کے مطابق: کل کمیشن = گاہک کا کمیشن + بیوپاری کا کمیشن۔ خالص منافع = کل آمدن - کل اخراجات؛ منافع کا تناسب = خالص منافع ÷ کل آمدن × 100۔"
+  ,"Highlights unsold stock in shop storage with perishability risk flags (Green/Yellow/Red) based on arrival age to prevent crop spoilage.": "دکان میں پڑے غیر فروخت شدہ مال کی عمر کے مطابق خراب ہونے کا خطرہ (سبز / پیلا / سرخ) نمایاں کرتا ہے۔"
+  ,"Filters StockEntries with remainingQuantity > 0. Days in Shop = Current Date - Arrival Date. Risk Level: High Risk (> 4 days, Red), Caution (2–4 days, Yellow), Normal (< 2 days, Green).": "باقی مقدار والے اسٹاک اندراجات دکھاتا ہے۔ دکان میں دن = آج کی تاریخ - آمد کی تاریخ؛ 4 دن سے زیادہ زیادہ خطرہ، 2–4 دن احتیاط، اور 2 دن سے کم معمول ہے۔"
+  ,"Customer": "گاہک"
+  ,"Buyer": "خریدار"
+  ,"Walk-in Cash Sales": "نقد فروخت"
+  ,"Customer Receipts": "گاہک سے وصولیاں"
+  ,"Beopari/Grower Payments": "بیوپاری / کاشتکار کو ادائیگیاں"
+  ,"Shop Expenses": "دکان کے اخراجات"
+  ,"Failed to load report data.": "رپورٹ کا ڈیٹا لوڈ نہیں ہو سکا۔"
+  ,"Report Specifications & Audit Metadata": "رپورٹ کی تفصیل اور آڈٹ معلومات"
+  ,"Data Source Collections": "ڈیٹا کے ماخذ"
+  ,"Authorized Roles": "مجاز کردار"
+  ,"Included Column Fields": "شامل کالم"
+  ,"Calculation Logic & Formulas": "حساب کا طریقہ اور فارمولے"
+  ,"Walk-In Customer (Fast Retail)": "نقد خریدار (فوری فروخت)"
+  ,"Failed to load lots/customers.": "لاٹ اور گاہک لوڈ نہیں ہو سکے۔"
+  ,"Please select a lot first.": "پہلے لاٹ منتخب کریں۔"
+  ,"Boli session started successfully.": "بولی کا سیشن شروع ہو گیا۔"
+  ,"Failed to start Boli session.": "بولی کا سیشن شروع نہیں ہو سکا۔"
+  ,"Boli session closed.": "بولی کا سیشن بند ہو گیا۔"
+  ,"Failed to close session.": "سیشن بند نہیں ہو سکا۔"
+  ,"Boli session reopened.": "بولی کا سیشن دوبارہ کھل گیا۔"
+  ,"Failed to reopen session.": "سیشن دوبارہ نہیں کھل سکا۔"
+  ,"Please start a Boli session before adding a sale.": "فروخت درج کرنے سے پہلے بولی کا سیشن شروع کریں۔"
+  ,"Customer, quantity, and rate are required.": "گاہک، مقدار اور نرخ درج کرنا ضروری ہے۔"
+  ,"Sale saved to the existing sales ledger.": "فروخت موجودہ فروخت کے کھاتے میں محفوظ ہو گئی۔"
+  ,"Failed to record sale.": "فروخت درج نہیں ہو سکی۔"
+  ,"Sale deleted and ledger updated.": "فروخت حذف کرکے کھاتہ اپ ڈیٹ کر دیا گیا۔"
+  ,"Failed to delete sale.": "فروخت حذف نہیں ہو سکی۔"
+  ,"Fast lot sales workflow": "لاٹ کی تیز فروخت کا طریقۂ کار"
+  ,"Back to normal sales": "عام فروخت پر واپس جائیں"
+  ,"Select Lot": "لاٹ منتخب کریں"
+  ,"Choose a lot": "لاٹ منتخب کریں"
+  ,"Lot": "لاٹ"
+  ,"Original Qty": "اصل مقدار"
+  ,"Sold": "فروخت شدہ"
+  ,"Percentage": "فیصد"
+  ,"Fixed Amount": "مقررہ رقم"
+  ,"Per Unit": "فی اکائی"
+  ,"Commission Value": "کمیشن کی شرح"
+  ,"Working...": "کام ہو رہا ہے..."
+  ,"Start Boli Session": "بولی کا سیشن شروع کریں"
+  ,"Session": "سیشن"
+  ,"Reopen": "دوبارہ کھولیں"
+  ,"Search and select customer": "گاہک تلاش کرکے منتخب کریں"
+  ,"Search name, phone, or Khata ID": "نام، فون یا کھاتہ شناخت تلاش کریں"
+  ,"No customers found": "کوئی گاہک نہیں ملا"
+  ,"Remaining after this entry": "اس اندراج کے بعد باقی"
+  ,"Time": "وقت"
+  ,"Action": "عمل"
+  ,"No sales recorded in this session yet.": "اس سیشن میں ابھی کوئی فروخت درج نہیں ہوئی۔"
+  ,"Waiting for session": "سیشن شروع ہونے کا انتظار ہے"
+  ,"Select a lot and start a Boli session": "لاٹ منتخب کرکے بولی کا سیشن شروع کریں"
+  ,"Vehicle status updated to {{status}}": "گاڑی کی حالت اب {{status}} ہے"
+  ,"Failed to update vehicle status": "گاڑی کی حالت اپ ڈیٹ نہیں ہو سکی"
+  ,"Gate vehicle arrival logged successfully!": "گاڑی کی آمد کامیابی سے درج ہو گئی!"
+  ,"Vehicle log updated successfully!": "گاڑی کا اندراج اپ ڈیٹ ہو گیا!"
+  ,"Failed to save vehicle entry": "گاڑی کا اندراج محفوظ نہیں ہو سکا"
+  ,"Delete Vehicle Log?": "گاڑی کا اندراج حذف کریں؟"
+  ,"Are you sure you want to delete vehicle entry \"{{truckNumber}}\"? This action cannot be undone.": "کیا آپ گاڑی کا اندراج \"{{truckNumber}}\" حذف کرنا چاہتے ہیں؟ یہ عمل واپس نہیں ہو سکتا۔"
+  ,"Delete Entry": "اندراج حذف کریں"
+  ,"Vehicle log deleted successfully.": "گاڑی کا اندراج حذف ہو گیا۔"
+  ,"Failed to delete vehicle record": "گاڑی کا ریکارڈ حذف نہیں ہو سکا"
+  ,"Arrived Today": "آج آنے والی گاڑیاں"
+  ,"Arrived at Mandi gates": "منڈی کے گیٹ پر پہنچیں"
+  ,"Awaiting Unloading": "اتارنے کی منتظر"
+  ,"Waiting inside Mandi": "منڈی کے اندر منتظر"
+  ,"Completed Unloads": "مال اتارنے کا عمل مکمل"
+  ,"All crates recorded": "تمام کریٹ درج ہو گئے"
+  ,"Dispatched Empty": "خالی روانہ"
+  ,"Exited Mandi gates": "منڈی کے گیٹ سے باہر نکلیں"
+  ,"Gate Logistics - Active Truck Logs": "گیٹ لاجسٹکس - گاڑیوں کا اندراج"
+  ,"Track and log vehicle arrivals, waiting times, and cargo details": "گاڑیوں کی آمد، انتظار کے وقت اور مال کی تفصیل درج اور ملاحظہ کریں"
+  ,"Search truck, driver...": "گاڑی یا ڈرائیور تلاش کریں..."
+  ,"LOG NEW VEHICLE ARRIVAL": "نئی گاڑی کی آمد درج کریں"
+  ,"Truck Number": "گاڑی نمبر"
+  ,"Driver Name": "ڈرائیور کا نام"
+  ,"Crate Load Count": "کریٹوں کی تعداد"
+  ,"Cargo Description": "مال کی تفصیل"
+  ,"Current Status": "موجودہ حالت"
+  ,"Update Status": "حالت اپ ڈیٹ کریں"
+  ,"Crates": "کریٹ"
+  ,"Arrived": "پہنچ گئی"
+  ,"Waiting": "منتظر"
+  ,"Completed": "مکمل"
+  ,"Dispatched": "روانہ"
+  ,"Edit Vehicle Log": "گاڑی کا اندراج ترمیم کریں"
+  ,"Delete Vehicle Log": "گاڑی کا اندراج حذف کریں"
+  ,"Loading vehicle logs...": "گاڑیوں کے اندراجات لوڈ ہو رہے ہیں..."
+  ,"No vehicle logs matching chosen filter.": "منتخب فلٹر کے مطابق کوئی گاڑی درج نہیں۔"
+  ,"Log Gate Vehicle Entry": "گیٹ پر گاڑی کا اندراج"
+  ,"Update Gate Vehicle Record": "گیٹ پر گاڑی کا ریکارڈ اپ ڈیٹ کریں"
+  ,"Track incoming trucks, grower assignments, and crate loads": "آنے والی گاڑیوں، بیوپاری کی نسبت اور کریٹوں کی تعداد درج کریں"
+  ,"Truck / Vehicle Number": "ٹرک / گاڑی نمبر"
+  ,"e.g. MH-12-PQ-9999": "مثلاً MH-12-PQ-9999"
+  ,"Driver Name & Phone": "ڈرائیور کا نام اور فون"
+  ,"e.g. Driver Ramesh": "مثلاً ڈرائیور کا نام"
+  ,"Assign Orchard Beopari/Grower": "باغ کے بیوپاری / کاشتکار کا انتخاب"
+  ,"-- Choose Grower --": "-- بیوپاری منتخب کریں --"
+  ,"Total Loaded Crate Count": "لادے گئے کریٹوں کی کل تعداد"
+  ,"e.g. 350": "مثلاً 350"
+  ,"Gate Status": "گیٹ پر حالت"
+  ,"Waiting inside": "اندر منتظر"
+  ,"Completed Unloading": "مال اتار دیا گیا"
+  ,"Cargo Fruit / Notes": "پھل / مال کی تفصیل"
+  ,"e.g. Kashmiri Apples Red Quality": "مثلاً کشمیری سرخ سیب"
+  ,"Saving...": "محفوظ ہو رہا ہے..."
+  ,"Save Gate Entry": "گیٹ کا اندراج محفوظ کریں"
+  ,"Clear search": "تلاش صاف کریں"
+  ,"Vehicle Type": "گاڑی کی قسم"
+  ,"Vehicle": "گاڑی"
+  ,"Truck": "ٹرک"
+  ,"Shehzore": "شہزور"
+  ,"Mazda": "مزدا"
+  ,"Tractor Trolley": "ٹریکٹر ٹرالی"
+  ,"Other": "دیگر"
+  ,"Driver Phone": "ڈرائیور کا فون"
+  ,"Beopari and Products": "بیوپاری اور مصنوعات"
+  ,"Beopari": "بیوپاری"
+  ,"beopari": "بیوپاری"
+  ,"product rows": "مصنوعات کی قطاریں"
+  ,"Product Rows": "مصنوعات کی قطاریں"
+  ,"rows": "قطاریں"
+  ,"Add Beopari": "بیوپاری شامل کریں"
+  ,"Remove Beopari": "بیوپاری ہٹائیں"
+  ,"Add Product": "مصنوعات شامل کریں"
+  ,"Remove Product": "مصنوعات ہٹائیں"
+  ,"-- Choose Beopari --": "-- بیوپاری منتخب کریں --"
+  ,"Product": "مصنوعات"
+  ,"Custom product": "دیگر مصنوعات"
+  ,"Product name": "مصنوعات کا نام"
+  ,"Quantity": "مقدار"
+  ,"Unit": "اکائی"
+  ,"Notes": "نوٹس"
+  ,"Download Truck Parchi": "ٹرک کی پرچی ڈاؤن لوڈ کریں"
+  ,"Add at least one beopari.": "کم از کم ایک بیوپاری شامل کریں۔"
+  ,"Select a beopari for every section.": "ہر حصے کے لیے بیوپاری منتخب کریں۔"
+  ,"Each beopari should appear once; add products to that section.": "ہر بیوپاری ایک بار شامل کریں؛ اسی حصے میں مزید مصنوعات شامل کریں۔"
+  ,"Each product needs a name, quantity of zero or more, and unit.": "ہر مصنوعات کے لیے نام، صفر یا اس سے زیادہ مقدار اور اکائی درکار ہے۔"
+  ,"Registered Businesses (Tenants)": "رجسٹرڈ کاروبار (ٹیننٹس)"
+  ,"Manage multi-tenant isolation, subscriptions, accounts and statuses": "متعدد کاروباروں کے الگ اکاؤنٹس، سبسکرپشن اور حالتیں سنبھالیں"
+  ,"Refresh list": "فہرست تازہ کریں"
+  ,"Register Business": "کاروبار رجسٹر کریں"
+  ,"Search by business name, reg #, owner, email, phone, city...": "کاروبار، رجسٹریشن نمبر، مالک، ای میل، فون یا شہر سے تلاش کریں..."
+  ,"Active Only": "صرف فعال"
+  ,"Trial Only": "صرف آزمائشی"
+  ,"All Subscription Plans": "تمام سبسکرپشن منصوبے"
+  ,"Business & Reg #": "کاروبار اور رجسٹریشن نمبر"
+  ,"Owner & Contact": "مالک اور رابطہ"
+  ,"Location": "مقام"
+  ,"Reg. Date": "رجسٹریشن کی تاریخ"
+  ,"Plan & Expiry": "منصوبہ اور میعاد"
+  ,"Arthi": "آڑھتی"
+  ,"Exp": "میعاد"
+  ,"View Business Details": "کاروبار کی تفصیل دیکھیں"
+  ,"Edit Business Information": "کاروبار کی معلومات میں ترمیم"
+  ,"Change Plan / Extend Subscription": "منصوبہ بدلیں / سبسکرپشن بڑھائیں"
+  ,"Reset Owner Password": "مالک کا پاس ورڈ دوبارہ ترتیب دیں"
+  ,"Support Impersonation Login": "معاونتی طور پر اکاؤنٹ میں داخل ہوں"
+  ,"Suspend Business": "کاروبار معطل کریں"
+  ,"Activate Business": "کاروبار فعال کریں"
+  ,"No businesses match the current search or filters.": "موجودہ تلاش یا فلٹر کے مطابق کوئی کاروبار نہیں ملا۔"
+  ,"Showing {{from}} to {{to}} of {{count}} businesses": "{{count}} کاروباروں میں سے {{from}} تا {{to}} دکھائے جا رہے ہیں"
+  ,"Page {{current}} of {{total}}": "{{total}} میں سے صفحہ {{current}}"
+  ,"Subscription & Plan Management": "سبسکرپشن اور منصوبوں کا انتظام"
+  ,"Define pricing tiers, features, and track client subscription lifecycles": "قیمتوں کے درجے اور سہولتیں مقرر کریں اور صارفین کی سبسکرپشن کا دورانیہ دیکھیں"
+  ,"Subscription Plans Catalog": "سبسکرپشن منصوبوں کی فہرست"
+  ,"Tenant Subscriptions Tracker ({{count}})": "کاروباری سبسکرپشن کی نگرانی ({{count}})"
+  ,"Create Plan": "منصوبہ بنائیں"
+  ,"Most Popular": "سب سے مقبول"
+  ,"Standard MandiOS ERP plan": "معیاری منڈی او ایس ای آر پی منصوبہ"
+  ,"/ month": "/ ماہ"
+  ,"Rs. {{price}} billed annually (save ~15%)": "سالانہ ادائیگی {{price}} روپے (تقریباً ۱۵٪ بچت)"
+  ,"Max Users:": "زیادہ سے زیادہ صارفین:"
+  ,"Max Products:": "زیادہ سے زیادہ اشیا:"
+  ,"Duration Preset:": "مدت:"
+  ,"Truck & Logistics Management": "ٹرک اور رسد کا انتظام"
+  ,"Returns & Crates Lifecycle": "واپسی اور کریٹوں کا مکمل حساب"
+  ,"PDF & Excel Financial Ledgers": "پی ڈی ایف اور ایکسل مالی کھاتے"
+  ,"Priority 24/7 Phone Support": "ترجیحی چوبیس گھنٹے فون معاونت"
+  ,"Edit Plan": "منصوبے میں ترمیم"
+  ,"Delete Plan": "منصوبہ حذف کریں"
+  ,"Expiring Soon (≤30d)": "جلد ختم ہونے والے (۳۰ دن کے اندر)"
+  ,"Search business or reg #...": "کاروبار یا رجسٹریشن نمبر تلاش کریں..."
+  ,"Current Plan": "موجودہ منصوبہ"
+  ,"Start Date": "شروع ہونے کی تاریخ"
+  ,"Expiry Date": "میعاد ختم ہونے کی تاریخ"
+  ,"Days Remaining": "باقی دن"
+  ,"Extend / Change Plan": "مدت بڑھائیں / منصوبہ بدلیں"
+  ,"No subscriptions found matching the selected filter.": "منتخب فلٹر کے مطابق کوئی سبسکرپشن نہیں ملی۔"
+  ,"Expired {{days}}d ago": "{{days}} دن پہلے ختم"
+  ,"Expires Today": "آج ختم ہو رہی ہے"
+  ,"{{days}} days left": "{{days}} دن باقی"
+  ,"Super Admin Activity & Audit Logs": "سپر ایڈمن سرگرمی اور آڈٹ لاگ"
+  ,"Immutable platform action records and administrative events trail": "پلیٹ فارم کے انتظامی اقدامات کا ناقابلِ ترمیم ریکارڈ"
+  ,"Refresh logs": "لاگ تازہ کریں"
+  ,"Search by action, performed by, tenant, or details...": "عمل، کرنے والے، کاروبار یا تفصیل سے تلاش کریں..."
+  ,"All Actions": "تمام اقدامات"
+  ,"Performed By": "کارروائی کرنے والا"
+  ,"Target Business / Tenant": "متعلقہ کاروبار / ٹیننٹ"
+  ,"Timestamp": "وقت"
+  ,"No audit records match the current filters.": "موجودہ فلٹر کے مطابق کوئی آڈٹ ریکارڈ نہیں ملا۔"
+  ,"Showing {{from}} to {{to}} of {{count}} logs": "{{count}} لاگ میں سے {{from}} تا {{to}} دکھائے جا رہے ہیں"
+  ,"Platform Users Overview": "پلیٹ فارم صارفین کا جائزہ"
+  ,"Cross-tenant user directory, account statuses and login activity": "تمام کاروباروں کے صارفین، اکاؤنٹ کی حالت اور لاگ اِن سرگرمی"
+  ,"Total Users: {{count}}": "کل صارفین: {{count}}"
+  ,"Active: {{count}}": "فعال: {{count}}"
+  ,"Search by name, email, phone, or business...": "نام، ای میل، فون یا کاروبار سے تلاش کریں..."
+  ,"All Roles": "تمام کردار"
+  ,"Inactive Only": "صرف غیر فعال"
+  ,"User Name": "صارف کا نام"
+  ,"Contact Details": "رابطے کی تفصیل"
+  ,"Associated Business / Tenant": "متعلقہ کاروبار / ٹیننٹ"
+  ,"Last Login / Activity": "آخری لاگ اِن / سرگرمی"
+  ,"Mandi Business": "منڈی کا کاروبار"
+  ,"Tenant": "ٹیننٹ"
+  ,"View User Details": "صارف کی تفصیل دیکھیں"
+  ,"Deactivate User": "صارف غیر فعال کریں"
+  ,"No users match the search criteria.": "تلاش کے مطابق کوئی صارف نہیں ملا۔"
+  ,"Showing {{from}} to {{to}} of {{count}} users": "{{count}} صارفین میں سے {{from}} تا {{to}} دکھائے جا رہے ہیں"
+  ,"No activity yet": "ابھی کوئی سرگرمی نہیں"
+  ,"Tenant Admin": "کاروباری ایڈمن"
+  ,"All Statuses": "تمام حالتیں"
+  ,"BUSINESS_REGISTERED": "کاروبار رجسٹر ہوا"
+  ,"BUSINESS_EDITED": "کاروبار کی معلومات تبدیل ہوئیں"
+  ,"BUSINESS_ACTIVATED": "کاروبار فعال ہوا"
+  ,"BUSINESS_SUSPENDED": "کاروبار معطل ہوا"
+  ,"SUBSCRIPTION_EXTENDED": "سبسکرپشن کی مدت بڑھائی گئی"
+  ,"SUBSCRIPTION_CHANGED": "سبسکرپشن تبدیل ہوئی"
+  ,"USER_ACTIVATED": "صارف فعال ہوا"
+  ,"USER_DEACTIVATED": "صارف غیر فعال ہوا"
+  ,"PASSWORD_RESET": "پاس ورڈ دوبارہ ترتیب دیا گیا"
+  ,"SETTINGS_UPDATED": "ترتیبات اپ ڈیٹ ہوئیں"
+  ,"Expired": "میعاد ختم"
+  ,"Trial": "آزمائشی"
+  ,"Enterprise": "ادارہ جاتی"
+  ,"Pro": "پرو"
+  ,"Basic": "بنیادی"
+  ,"Pakistan": "پاکستان"
+  ,"Suspended": "معطل"
+  ,"Details": "تفصیل"
+  ,"Global settings updated successfully!": "عالمی ترتیبات کامیابی سے اپ ڈیٹ ہو گئیں!"
+  ,"Failed to update settings.": "ترتیبات اپ ڈیٹ نہیں ہو سکیں۔"
+  ,"Full database backup downloaded successfully.": "مکمل ڈیٹا بیس بیک اپ ڈاؤن لوڈ ہو گیا۔"
+  ,"Announcement published on the login page.": "اعلان لاگ اِن صفحے پر شائع ہو گیا۔"
+  ,"Failed to publish announcement.": "اعلان شائع نہیں ہو سکا۔"
+  ,"Remove this announcement from the login page?": "کیا یہ اعلان لاگ اِن صفحے سے ہٹا دیں؟"
+  ,"Announcement removed from the login page.": "اعلان لاگ اِن صفحے سے ہٹا دیا گیا۔"
+  ,"Failed to remove announcement.": "اعلان نہیں ہٹایا جا سکا۔"
+  ,"Platform Configuration & System Health": "پلیٹ فارم کی ترتیبات اور نظام کی صحت"
+  ,"Control global application parameters, system telemetry, and database snapshots": "ایپ کی عمومی ترتیبات، نظام کی نگرانی اور ڈیٹا بیس بیک اپ سنبھالیں"
+  ,"Global Settings": "عمومی ترتیبات"
+  ,"System Telemetry": "نظام کی نگرانی"
+  ,"Database Backup": "ڈیٹا بیس بیک اپ"
+  ,"Announcements": "اعلانات"
+  ,"Platform Name": "پلیٹ فارم کا نام"
+  ,"Support Email Address": "معاونت کا ای میل"
+  ,"Support Phone / WhatsApp": "معاونت کا فون / واٹس ایپ"
+  ,"Default Trial Period (Days)": "آزمائشی مدت (دن)"
+  ,"Maintenance Mode": "مرمت کا موڈ"
+  ,"Only Super Admins can access the platform when enabled": "فعال ہونے پر صرف سپر ایڈمن پلیٹ فارم تک رسائی حاصل کر سکتے ہیں"
+  ,"Saving Changes...": "تبدیلیاں محفوظ ہو رہی ہیں..."
+  ,"Save Configuration": "ترتیبات محفوظ کریں"
+  ,"System Status": "نظام کی حالت"
+  ,"Uptime": "چلنے کا دورانیہ"
+  ,"Node": "نوڈ"
+  ,"Operational": "فعال"
+  ,"Total Database Storage Records": "ڈیٹا بیس کے کل ریکارڈ"
+  ,"Full Database Snapshot Export": "مکمل ڈیٹا بیس بیک اپ برآمد کریں"
+  ,"Download a full JSON archive of all tenant collections and platform records.": "تمام کاروباری مجموعوں اور پلیٹ فارم ریکارڈز کا مکمل JSON بیک اپ ڈاؤن لوڈ کریں۔"
+  ,"Full Multi-Tenant Complete Backup": "تمام کاروباروں کا مکمل بیک اپ"
+  ,"Includes businesses, users, stock entries, sales, invoices, ledgers, payments, expenses, trucks, and audit trails.": "اس میں کاروبار، صارفین، اسٹاک اندراجات، فروخت، رسیدیں، کھاتے، ادائیگیاں، اخراجات، گاڑیاں اور آڈٹ لاگ شامل ہیں۔"
+  ,"Preparing Backup...": "بیک اپ تیار ہو رہا ہے..."
+  ,"Download Full JSON Backup": "مکمل JSON بیک اپ ڈاؤن لوڈ کریں"
+  ,"Publish Login Announcement": "لاگ اِن اعلان شائع کریں"
+  ,"This announcement will appear to users on the login page until the end of this month.": "یہ اعلان اس مہینے کے اختتام تک لاگ اِن صفحے پر صارفین کو دکھائی دے گا۔"
+  ,"Announcement title": "اعلان کا عنوان"
+  ,"Write your offer here...": "اپنی پیشکش یہاں لکھیں..."
+  ,"Publishing...": "شائع ہو رہا ہے..."
+  ,"Publish Offer": "پیشکش شائع کریں"
+  ,"Published Announcements": "شائع شدہ اعلانات"
+  ,"No announcements published.": "ابھی کوئی اعلان شائع نہیں ہوا۔"
+  ,"Remove announcement": "اعلان ہٹائیں"
+  ,"Removing...": "ہٹایا جا رہا ہے..."
+  ,"Remove": "ہٹائیں"
+  ,"Loading users...": "صارفین لوڈ ہو رہے ہیں..."
+  ,"Action Type": "کارروائی کی قسم"
+  ,"Event Details": "واقعے کی تفصیل"
+  ,"IP Address": "آئی پی ایڈریس"
+  ,"System": "سسٹم"
+  ,"Dedicated Report Page": "مخصوص رپورٹ صفحہ"
+  ,"System Compliance & Security": "سسٹم کی تعمیل اور سیکیورٹی"
+  ,"System Activity & Financial Audit Statement": "سسٹم سرگرمی اور مالی آڈٹ اسٹیٹمنٹ"
+  ,"Refresh Audit Logs": "آڈٹ لاگ تازہ کریں"
+  ,"Print Audit Log": "آڈٹ لاگ پرنٹ کریں"
+  ,"SYSTEM ACTIVITY & SECURITY AUDIT TRAIL STATEMENT": "سسٹم سرگرمی اور سیکیورٹی آڈٹ ٹریل اسٹیٹمنٹ"
+  ,"User Role": "صارف کا کردار"
+  ,"Event Action": "واقعے کی کارروائی"
+  ,"Audit Records": "آڈٹ ریکارڈ"
+  ,"Events": "واقعات"
+  ,"Security Level": "سیکیورٹی کی سطح"
+  ,"Tenant Isolated": "کاروباری ڈیٹا الگ محفوظ"
+  ,"Audit Protocol": "آڈٹ کا طریقہ"
+  ,"Immutable System Log": "ناقابلِ ترمیم سسٹم لاگ"
+  ,"Audit Trail Filters": "آڈٹ ٹریل کے فلٹر"
+  ,"All User Roles": "تمام صارف کردار"
+  ,"Administrator": "منتظم"
+  ,"Mandi Clerk": "منڈی کلرک"
+  ,"Search Keywords": "الفاظ تلاش کریں"
+  ,"Search user, event description...": "صارف یا واقعے کی تفصیل تلاش کریں..."
+  ,"System Event Log Statements (": "سسٹم واقعات کے لاگ ("
+  ,"Clear Filters": "فلٹر صاف کریں"
+  ,"Operator / User": "آپریٹر / صارف"
+  ,"Fetching System Audit Log Entries...": "سسٹم آڈٹ لاگ لوڈ ہو رہا ہے..."
+  ,"No system audit logs found.": "سسٹم آڈٹ لاگ نہیں ملا۔"
+  ,"Inventory & Stock Supplies": "انوینٹری اور اسٹاک"
+  ,"Mandi Stock Supplies & Consignment Inventory Report": "منڈی اسٹاک اور کنسائنمنٹ انوینٹری رپورٹ"
+  ,"Refresh Stock Data": "اسٹاک ڈیٹا تازہ کریں"
+  ,"Print Stock Report": "اسٹاک رپورٹ پرنٹ کریں"
+  ,"INVENTORY STOCK ARRIVAL & WAREHOUSE BALANCE REPORT": "انوینٹری آمد اور گودام کے بقایا اسٹاک کی رپورٹ"
+  ,"Produce Item": "پیداوار کی جنس"
+  ,"Stock Status": "اسٹاک کی حالت"
+  ,"Consignment Lots": "مال کے لاٹ"
+  ,"Lots": "لاٹ"
+  ,"Total Received Qty": "موصولہ کل مقدار"
+  ,"Units": "یونٹ"
+  ,"Total Sold Qty": "فروخت شدہ کل مقدار"
+  ,"Remaining Warehouse Stock": "گودام میں باقی اسٹاک"
+  ,"Total Arrival Lots": "آمد کے کل لاٹ"
+  ,"Consignments": "کنسائنمنٹس"
+  ,"Total lots in current report view": "موجودہ رپورٹ میں لاٹوں کی کل تعداد"
+  ,"Total Stock Received": "موصولہ کل اسٹاک"
+  ,"Total arrival weight/quantity": "آمد کا کل وزن / مقدار"
+  ,"Total Quantity Sold": "فروخت شدہ کل مقدار"
+  ,"Billed in batch sales": "بیچ فروخت میں بل شدہ"
+  ,"Remaining Warehouse Inventory": "گودام کی باقی انوینٹری"
+  ,"Available for future sales": "آئندہ فروخت کے لیے دستیاب"
+  ,"Stock Report Filters": "اسٹاک رپورٹ کے فلٹر"
+  ,"In-Stock (Available Inventory)": "اسٹاک میں (دستیاب مال)"
+  ,"Fully Sold / Depleted": "مکمل فروخت / ختم شدہ"
+  ,"Search Keyword": "تلاش کا لفظ"
+  ,"Search Lot#, truck...": "لاٹ نمبر یا ٹرک تلاش کریں..."
+  ,"Warehouse Inventory Lot Ledger (": "گودام انوینٹری لاٹ لیجر ("
+  ,"Product Commodity": "جنس"
+  ,"Vehicle No": "گاڑی نمبر"
+  ,"Sold Qty": "فروخت شدہ مقدار"
+  ,"Remaining Inventory": "باقی انوینٹری"
+  ,"Fetching Inventory Stock Records...": "اسٹاک انوینٹری ریکارڈ لوڈ ہو رہے ہیں..."
+  ,"No stock inventory entries found matching filters.": "منتخب فلٹرز کے مطابق اسٹاک انوینٹری کا کوئی ریکارڈ نہیں ملا۔"
+  ,"TOTALS (": "کل ("
+  ,"Logistics & Truck Freight Statement": "لاجسٹکس اور ٹرک کرایہ اسٹیٹمنٹ"
+  ,"Truck Logs & Freight Logistics Report": "ٹرک لاگ اور کرایہ لاجسٹکس رپورٹ"
+  ,"Refresh Logistics Data": "لاجسٹکس ڈیٹا تازہ کریں"
+  ,"Print Logistics Report": "لاجسٹکس رپورٹ پرنٹ کریں"
+  ,"TRUCK FREIGHT LOGISTICS & UNLOADING AUDIT STATEMENT": "ٹرک کرایہ، لاجسٹکس اور مال اتارنے کا آڈٹ اسٹیٹمنٹ"
+  ,"Total Arrived Trucks": "آنے والے کل ٹرک"
+  ,"Vehicles": "گاڑیاں"
+  ,"Total Freight Disbursed": "ادا کردہ کل کرایہ"
+  ,"Total Labor / Unloading Charges": "مزدوری / مال اتارنے کے کل اخراجات"
+  ,"Truck arrivals in report view": "رپورٹ میں ٹرکوں کی آمد"
+  ,"Sum of truck freight charges": "ٹرک کرایوں کا مجموعہ"
+  ,"Sum of unloading charges": "مال اتارنے کے اخراجات کا مجموعہ"
+  ,"Logistics Filters": "لاجسٹکس فلٹر"
+  ,"Logistics Status": "لاجسٹکس کی حالت"
+  ,"Unloading": "مال اتارا جا رہا ہے"
+  ,"Cleared": "فارغ"
+  ,"Truck #, Driver, Transporter...": "ٹرک نمبر، ڈرائیور، ٹرانسپورٹر..."
+  ,"Logistics Truck Movement Entries (": "لاجسٹکس میں ٹرک کی نقل و حرکت ("
+  ,"Transporter Company": "ٹرانسپورٹر کمپنی"
+  ,"Freight Charges": "کرایہ"
+  ,"Labor Charges": "مزدوری کے اخراجات"
+  ,"Fetching Logistics Truck Records...": "لاجسٹکس ٹرک ریکارڈ لوڈ ہو رہے ہیں..."
+  ,"No truck logistics records found.": "ٹرک لاجسٹکس کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Trucks": "ٹرک"
+  ,"Received": "موصول"
+  ,"End Date": "اختتامی تاریخ"
+  ,"All Actions": "تمام کارروائیاں"
+  ,"Total Qty": "کل مقدار"
+  ,"Transporter": "ٹرانسپورٹر"
+  ,"Freight Charges (Rs)": "کرایہ (روپے)"
+  ,"Labor Charges (Rs)": "مزدوری کے اخراجات (روپے)"
+  ,"In-Stock": "اسٹاک میں"
+  ,"Depleted": "ختم شدہ"
+  ,"Failed to load products from server.": "سرور سے مصنوعات لوڈ نہیں ہو سکیں۔"
+  ,"Please enter a product name.": "براہِ کرم جنس کا نام درج کریں۔"
+  ,"Product \"{{name}}\" added successfully!": "جنس \"{{name}}\" کامیابی سے شامل ہو گئی!"
+  ,"Product \"{{name}}\" updated successfully!": "جنس \"{{name}}\" کی معلومات اپ ڈیٹ ہو گئیں!"
+  ,"Failed to save product details.": "جنس کی تفصیلات محفوظ نہیں ہو سکیں۔"
+  ,"this product": "یہ جنس"
+  ,"Delete {{name}}?": "{{name}} حذف کریں؟"
+  ,"Are you sure you want to permanently remove \"{{name}}\" from the product catalog? Existing historical sales and invoices will maintain their records.": "کیا آپ واقعی \"{{name}}\" کو مصنوعات کی فہرست سے مستقل طور پر ہٹانا چاہتے ہیں؟ سابقہ فروخت اور رسیدوں کا ریکارڈ برقرار رہے گا۔"
+  ,"Are you sure you want to delete {{name}}?": "کیا آپ واقعی {{name}} حذف کرنا چاہتے ہیں؟"
+  ,"Product \"{{name}}\" removed from catalog.": "جنس \"{{name}}\" فہرست سے ہٹا دی گئی۔"
+  ,"Failed to delete product.": "جنس حذف نہیں ہو سکی۔"
+  ,"Define fruits & vegetables, standard units (crates, bags, boxes) and live stock availability": "پھل اور سبزیاں، پیکنگ کے معیاری یونٹ (کریٹ، بوری، ڈبہ) اور دستیاب اسٹاک درج کریں"
+  ,"Refresh Catalog": "فہرست تازہ کریں"
+  ,"ADD NEW PRODUCT": "نئی جنس شامل کریں"
+  ,"Total Produce": "کل اجناس"
+  ,"Active Items": "فعال اجناس"
+  ,"Low Stock (≤20)": "کم اسٹاک (≤20)"
+  ,"Out of Stock (0)": "اسٹاک ختم (0)"
+  ,"Search produce catalog by name, category, unit...": "نام، قسم یا یونٹ سے جنس تلاش کریں..."
+  ,"Grid Cards View": "کارڈز کی صورت میں دکھائیں"
+  ,"Table View": "جدول کی صورت میں دکھائیں"
+  ,"Name (A → Z)": "نام (الف سے ی)"
+  ,"Name (Z → A)": "نام (ی سے الف)"
+  ,"Stock (Highest → Lowest)": "اسٹاک (زیادہ سے کم)"
+  ,"Stock (Lowest → Highest)": "اسٹاک (کم سے زیادہ)"
+  ,"Group by Category": "قسم کے لحاظ سے گروپ کریں"
+  ,"Category:": "قسم:"
+  ,"Stock Level:": "اسٹاک کی سطح:"
+  ,"In Stock (>20)": "اسٹاک موجود (>20)"
+  ,"Low (≤20)": "کم (≤20)"
+  ,"Loading produce catalog...": "اجناس کی فہرست لوڈ ہو رہی ہے..."
+  ,"No Produce Found": "کوئی جنس نہیں ملی"
+  ,"No products match your current search and filter criteria. Try resetting filters.": "موجودہ تلاش اور فلٹرز کے مطابق کوئی جنس نہیں ملی۔ فلٹر صاف کرکے دیکھیں۔"
+  ,"Your product catalog is currently empty. Get started by adding your first fruit or vegetable item.": "اجناس کی فہرست خالی ہے۔ پہلی جنس شامل کرکے آغاز کریں۔"
+  ,"Add First Product": "پہلی جنس شامل کریں"
+  ,"Available Stock": "دستیاب اسٹاک"
+  ,"Near Depletion": "اسٹاک ختم ہونے کے قریب"
+  ,"Out of Stock": "اسٹاک ختم"
+  ,"Edit Product": "جنس میں ترمیم کریں"
+  ,"Produce Name": "جنس کا نام"
+  ,"Showing": "دکھائے جا رہے ہیں"
+  ,"produce items": "اجناس"
+  ,"Add New Produce Item": "نئی جنس شامل کریں"
+  ,"Edit Product Details": "جنس کی تفصیلات میں ترمیم"
+  ,"Specify produce name, commodity category and packaging unit": "جنس کا نام، قسم اور پیکنگ یونٹ درج کریں"
+  ,"Product / Produce Name": "مصنوعات / جنس کا نام"
+  ,"e.g. Apple Kala Kulu (سیب کالا کولو) or Potato Lady Rosetta": "مثلاً کالا کولو سیب یا لیڈی روزیٹا آلو"
+  ,"Fruits (پھل)": "پھل"
+  ,"Vegetables (سبزیاں)": "سبزیاں"
+  ,"Standard Packaging Unit": "پیکنگ کا معیاری یونٹ"
+  ,"Select Unit": "یونٹ منتخب کریں"
+  ,"Crate (کریٹ)": "کریٹ"
+  ,"Box (پیٹی / ڈبہ)": "پیٹی / ڈبہ"
+  ,"Bag (بوری / تھیلا)": "بوری / تھیلا"
+  ,"Kg (کلو گرام)": "کلو گرام"
+  ,"Maund (من)": "من"
+  ,"Bunch (لُونگر)": "لُونگر"
+  ,"Carton (کارٹن)": "کارٹن"
+  ,"Catalog Status": "فہرست میں حالت"
+  ,"Active (فعال - دستیاب)": "فعال - دستیاب"
+  ,"Inactive (غیر فعال)": "غیر فعال"
+  ,"Saving...": "محفوظ ہو رہا ہے..."
+  ,"Delete Product": "جنس حذف کریں"
+  ,"Fruits": "پھل"
+  ,"Vegetables": "سبزیاں"
+  ,"Standard Unit": "معیاری یونٹ"
+  ,"Low Stock": "اسٹاک کم"
+  ,"Save Product": "جنس محفوظ کریں"
+  ,"Update Product": "جنس اپ ڈیٹ کریں"
+  ,"Global Dashboard Analytical Filters": "ڈیش بورڈ کے عمومی تجزیاتی فلٹر"
+  ,"All dashboard filters cleared!": "ڈیش بورڈ کے تمام فلٹر صاف کر دیے گئے!"
+  ,"Clear All Filters": "تمام فلٹر صاف کریں"
+  ,"Date Filter Period": "تاریخ کی مدت"
+  ,"Yesterday": "گزشتہ روز"
+  ,"This Week": "اس ہفتے"
+  ,"This Month": "اس ماہ"
+  ,"Custom Date Range": "حسبِ منشا تاریخ کی مدت"
+  ,"Mandi Fruit Item": "منڈی کی جنس"
+  ,"-- All Fruits / Products --": "-- تمام پھل / اجناس --"
+  ,"Selected": "منتخب"
+  ,"Search beopari/grower...": "بیوپاری تلاش کریں..."
+  ,"-- All Beopari/Growers (": "-- تمام بیوپاری ("
+  ,"Show data for all registered growers": "تمام رجسٹرڈ بیوپاریوں کا ڈیٹا دکھائیں"
+  ,"No beopari/grower matching \"{{query}}\"": "\"{{query}}\" سے ملتا بیوپاری نہیں ملا"
+  ,"Search buyer / customer...": "خریدار / گاہک تلاش کریں..."
+  ,"-- All Customers (": "-- تمام گاہک ("
+  ,"Show data for all registered buyers": "تمام رجسٹرڈ خریداروں کا ڈیٹا دکھائیں"
+  ,"No buyer matching \"{{query}}\"": "\"{{query}}\" سے ملتا خریدار نہیں ملا"
+  ,"Fruit Category": "پھل کی قسم"
+  ,"-- All Categories --": "-- تمام اقسام --"
+  ,"Logistics / Truck Log": "لاجسٹکس / ٹرک لاگ"
+  ,"e.g. MH-12-PQ-9999": "مثلاً MH-12-PQ-9999"
+  ,"Mandi Operator Clerk": "منڈی آپریٹر کلرک"
+  ,"-- All Clerks --": "-- تمام کلرک --"
+  ,"Custom Date Range Selection": "حسبِ منشا تاریخ کی مدت منتخب کریں"
+  ,"Analytical filters applied successfully!": "تجزیاتی فلٹر کامیابی سے لاگو ہو گئے!"
+  ,"APPLY FILTERS": "فلٹر لاگو کریں"
+  ,"Low Stock Warning Alerts!": "کم اسٹاک کی تنبیہ!"
+  ,"The following items are low in stock:": "درج ذیل اجناس کا اسٹاک کم ہے:"
+  ,"Please coordinate with Suppliers!": "براہِ کرم بیوپاریوں سے رابطہ کریں!"
+  ,"Financial Summary": "مالی خلاصہ"
+  ,"Stock & Lot Ledger": "اسٹاک اور لاٹ لیجر"
+  ,"Customers & Suppliers": "گاہک اور بیوپاری"
+  ,"Operating Expenses": "کاروباری اخراجات"
+  ,"Staff & Payroll": "عملہ اور تنخواہیں"
+  ,"Recent Activities Feed": "حالیہ سرگرمیاں"
+  ,"Gross Sales Revenue": "فروخت کی مجموعی آمدن"
+  ,"Total sold stock value": "فروخت شدہ اسٹاک کی کل مالیت"
+  ,"Walk-In Customer Revenue": "واک اِن گاہکوں سے آمدن"
+  ,"Total sold to walk-in buyers": "واک اِن خریداروں کو کی گئی فروخت"
+  ,"Total Cost of Stock": "اسٹاک کی کل لاگت"
+  ,"Total supplied stock value": "فراہم کردہ اسٹاک کی کل مالیت"
+  ,"Customer Commission": "گاہک کا کمیشن"
+  ,"Cash In / Collected": "وصول شدہ نقد رقم"
+  ,"Customer receipts collected": "گاہکوں سے وصولیاں"
+  ,"Cash Out / Disbursed": "ادا شدہ نقد رقم"
+  ,"Beopari / Supplier payments disbursed": "بیوپاریوں کو کی گئی ادائیگیاں"
+  ,"Brokerage Net Profit": "آڑھت کا خالص منافع"
+  ,"Mandi Expenses": "منڈی کے اخراجات"
+  ,"Labor, Transport, Loading costs": "مزدوری، ٹرانسپورٹ اور لوڈنگ کے اخراجات"
+  ,"Outstanding Receivables": "گاہکوں سے قابلِ وصول بقایا"
+  ,"Due from Buyers / Customers": "خریداروں / گاہکوں سے وصول طلب"
+  ,"Outstanding Payables": "بیوپاریوں کو واجب الادا بقایا"
+  ,"Owed to Beopari / Suppliers": "بیوپاریوں / سپلائرز کو واجب الادا"
+  ,"Click to view Supplier Expense Deduction Report": "بیوپاری کے اخراجات اور کٹوتیوں کی رپورٹ دیکھنے کے لیے کلک کریں"
+  ,"Expense Deductions": "اخراجات کی کٹوتیاں"
+  ,"View Report ↗": "رپورٹ دیکھیں ↗"
+  ,"Freight, Crates, Market/Sarkari Fee & Lot Deductions": "کرایہ، کریٹ، مارکیٹ / سرکاری فیس اور لاٹ کی کٹوتیاں"
+  ,"Sales vs Commission Growth Ledger": "فروخت اور کمیشن میں اضافے کا لیجر"
+  ,"Total Trucks Received": "موصولہ کل ٹرک"
+  ,"Arrived in chosen period": "منتخب مدت میں آنے والے"
+  ,"Suppliers Delivering": "مال بھیجنے والے بیوپاری"
+  ,"Active suppliers delivering": "فعال بیوپاری جنہوں نے مال بھیجا"
+  ,"Fruit Categories": "پھلوں کی اقسام"
+  ,"Distinct category types": "مختلف اقسام کی تعداد"
+  ,"Crates Received": "موصولہ کریٹ"
+  ,"Total volume received": "موصولہ کل مقدار"
+  ,"Crates Sold": "فروخت شدہ کریٹ"
+  ,"Total volume sold": "فروخت شدہ کل مقدار"
+  ,"Remaining Stock": "باقی اسٹاک"
+  ,"Current available inventory": "اس وقت دستیاب انوینٹری"
+  ,"Unsold Consignment Lots": "غیر فروخت شدہ مال کے لاٹ"
+  ,"Lots with pending balance": "بقایا مال والے لاٹ"
+  ,"Total Active Customers": "فعال گاہکوں کی کل تعداد"
+  ,"Registered buyers in Mandi": "منڈی میں رجسٹرڈ خریدار"
+  ,"Customers Purchased Today": "آج خریداری کرنے والے گاہک"
+  ,"Active deal makers today": "آج لین دین کرنے والے"
+  ,"New Customer Registrations": "نئے گاہکوں کی رجسٹریشن"
+  ,"Registered in chosen period": "منتخب مدت میں رجسٹرڈ"
+  ,"Buyers with Pending Due": "بقایا رکھنے والے خریدار"
+  ,"Have positive due balances": "جن کے ذمے بقایا رقم ہے"
+  ,"Total Active Suppliers": "فعال بیوپاریوں کی کل تعداد"
+  ,"Registered orchard growers": "رجسٹرڈ باغبان اور بیوپاری"
+  ,"Suppliers Delivering Today": "آج مال بھیجنے والے بیوپاری"
+  ,"Supplied stock logs today": "آج کی مال آمد کے اندراجات"
+  ,"Suppliers with Pending Due": "بقایا واجب الادا والے بیوپاری"
+  ,"Growers we owe money to": "وہ بیوپاری جنہیں ادائیگی باقی ہے"
+  ,"Top 10 Customers / Buyers Performance": "نمایاں 10 گاہک / خریدار"
+  ,"Crates Purchased": "خریدے گئے کریٹ"
+  ,"Total Billing Value": "کل بل کی مالیت"
+  ,"Current Balance": "موجودہ بیلنس"
+  ,"Top 10 Growers / Suppliers Performance": "نمایاں 10 بیوپاری / سپلائر"
+  ,"Beopari Name": "بیوپاری کا نام"
+  ,"Crates Supplied": "فراہم کردہ کریٹ"
+  ,"Gross dealing value": "کاروبار کی مجموعی مالیت"
+  ,"Our Pending Payable": "ہماری واجب الادا رقم"
+  ,"Total Mandi Operating Expenses": "منڈی کے کل کاروباری اخراجات"
+  ,"Calculated dynamically matching global filters and time-period": "عمومی فلٹرز اور منتخب مدت کے مطابق خودکار حساب"
+  ,"Expenses Category Breakdown": "اخراجات کی مد وار تفصیل"
+  ,"of total": "کل میں سے"
+  ,"No expenses recorded.": "اخراجات کا کوئی اندراج نہیں۔"
+  ,"Mandi Ledger - Expense Statement": "منڈی لیجر - اخراجات کا اسٹیٹمنٹ"
+  ,"Log loading/unloading, transport, labor, and utilities costs": "لوڈنگ، اَن لوڈنگ، ٹرانسپورٹ، مزدوری اور یوٹیلٹی اخراجات درج کریں"
+  ,"RECORD NEW OPERATING EXPENSE": "نیا کاروباری خرچ درج کریں"
+  ,"Expense Date": "خرچ کی تاریخ"
+  ,"Description / Remarks": "تفصیل / ریمارکس"
+  ,"Expense Amount": "خرچ کی رقم"
+  ,"No operational expenses recorded.": "کاروباری اخراجات کا کوئی اندراج نہیں۔"
+  ,"Total Staff Registered": "رجسٹرڈ عملے کی کل تعداد"
+  ,"Employees": "ملازمین"
+  ,"Active On-Duty": "ڈیوٹی پر موجود فعال"
+  ,"Please select a customer first.": "براہِ کرم پہلے گاہک منتخب کریں۔"
+  ,"Please select the original sale.": "براہِ کرم اصل فروخت منتخب کریں۔"
+  ,"Quantity now returned must be greater than zero.": "واپس کی جانے والی مقدار صفر سے زیادہ ہونی چاہیے۔"
+  ,"Quantity cannot be greater than the quantity sold. (Max: {{max}})": "واپسی کی مقدار فروخت شدہ مقدار سے زیادہ نہیں ہو سکتی۔ (زیادہ سے زیادہ: {{max}})"
+  ,"Return saved as Draft.": "واپسی کا اندراج مسودے کے طور پر محفوظ ہو گیا۔"
+  ,"Return sent for approval.": "واپسی منظوری کے لیے بھیج دی گئی۔"
+  ,"Failed to record return. Please try again.": "واپسی درج نہیں ہو سکی۔ دوبارہ کوشش کریں۔"
+  ,"Return has already been approved.": "اس واپسی کی پہلے ہی منظوری ہو چکی ہے۔"
+  ,"Approve Return?": "واپسی منظور کریں؟"
+  ,"This will automatically restock {{quantity}} {{unit}} into inventory and credit Rs. {{amount}} to {{customer}} balance for Return #{{number}}. Do you want to proceed?": "اس سے {{quantity}} {{unit}} دوبارہ اسٹاک میں شامل ہوں گے اور واپسی نمبر {{number}} کے لیے {{customer}} کے کھاتے میں {{amount}} روپے جمع ہوں گے۔ کیا آپ جاری رکھنا چاہتے ہیں؟"
+  ,"Yes, Approve Return": "جی ہاں، واپسی منظور کریں"
+  ,"Return approved successfully. Produce restocked & balance credited.": "واپسی منظور ہو گئی۔ مال اسٹاک میں شامل اور رقم کھاتے میں جمع کر دی گئی۔"
+  ,"Failed to approve return.": "واپسی منظور نہیں ہو سکی۔"
+  ,"Cannot reject an already approved return.": "منظور شدہ واپسی مسترد نہیں کی جا سکتی۔"
+  ,"Please provide a short rejection reason.": "براہِ کرم مسترد کرنے کی مختصر وجہ درج کریں۔"
+  ,"Return rejected.": "واپسی مسترد کر دی گئی۔"
+  ,"Failed to reject return.": "واپسی مسترد نہیں ہو سکی۔"
+  ,"Delete Return?": "واپسی حذف کریں؟"
+  ,"Are you sure you want to delete Return #{{number}}?": "کیا آپ واقعی واپسی نمبر {{number}} حذف کرنا چاہتے ہیں؟"
+  ,"Return deleted successfully.": "واپسی کامیابی سے حذف ہو گئی۔"
+  ,"Failed to delete return.": "واپسی حذف نہیں ہو سکی۔"
+  ,"Produce Returns Ledger": "مال واپسی کھاتہ"
+  ,"Step 1: Select Customer": "مرحلہ 1: گاہک منتخب کریں"
+  ,"Type customer name or mobile number...": "گاہک کا نام یا موبائل نمبر لکھیں..."
+  ,"No phone": "فون نمبر موجود نہیں"
+  ,"Return Date": "واپسی کی تاریخ"
+  ,"Step 2: Select Original Sale": "مرحلہ 2: اصل فروخت منتخب کریں"
+  ,"{{count}} recent sales found": "حالیہ فروخت کے اندراجات: {{count}}"
+  ,"Select a customer above to see their recent purchase history.": "حالیہ خریداری دیکھنے کے لیے اوپر گاہک منتخب کریں۔"
+  ,"No recent sales records found for this customer.": "اس گاہک کی حالیہ فروخت کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Cannot return produce from Lot #{{lot}}. It is already recorded to Payables & Supply Value.": "لاٹ نمبر {{lot}} کا مال واپس نہیں ہو سکتا کیونکہ اس کا حساب بیوپاری کے واجبات میں درج ہو چکا ہے۔"
+  ,"Settled": "حساب طے شدہ"
+  ,"Sale": "فروخت"
+  ,"Settled Lot": "حساب شدہ لاٹ"
+  ,"Returned": "واپس شدہ"
+  ,"Can Return": "قابلِ واپسی"
+  ,"Already Returned": "پہلے ہی واپس"
+  ,"STEP 3": "مرحلہ 3"
+  ,"Produce Return Details": "مال واپسی کی تفصیل"
+  ,"Quantity Now Returned": "اب واپس کی جانے والی مقدار"
+  ,"Max": "زیادہ سے زیادہ"
+  ,"Entered quantity ({{quantity}}) exceeds bought/available quantity ({{available}}).": "درج کردہ مقدار ({{quantity}}) خریدی گئی / دستیاب مقدار ({{available}}) سے زیادہ ہے۔"
+  ,"Total Credit Amount": "واپسی کی کل رقم"
+  ,"Comm. Reversed": "واپس کیا گیا کمیشن"
+  ,"Gross": "مجموعی رقم"
+  ,"Reason for Return": "واپسی کی وجہ"
+  ,"e.g. Quality issue, customer surplus, size mismatch...": "مثلاً معیار کا مسئلہ، گاہک کے پاس زائد مال، سائز کا فرق..."
+  ,"Notes / Remarks": "نوٹس / ریمارکس"
+  ,"Optional remarks...": "اضافی تفصیل (اختیاری)..."
+  ,"Return Quantity Exceeds Bought / Sold Crates": "واپسی کی مقدار خریدے / فروخت شدہ کریٹ سے زیادہ ہے"
+  ,"You entered {{quantity}} {{unit}}, but the customer only has {{available}} {{unit}} available from this invoice. Please decrease the return quantity to proceed.": "آپ نے {{quantity}} {{unit}} درج کیے، مگر اس رسید سے گاہک کے پاس صرف {{available}} {{unit}} واپس کرنے کے لیے دستیاب ہیں۔ آگے بڑھنے کے لیے مقدار کم کریں۔"
+  ,"Cancel / Reset": "منسوخ / دوبارہ ترتیب دیں"
+  ,"Save Draft": "مسودہ محفوظ کریں"
+  ,"Submit for Approval": "منظوری کے لیے بھیجیں"
+  ,"Search return no, customer, product...": "واپسی نمبر، گاہک یا جنس تلاش کریں..."
+  ,"All Dates": "تمام تاریخیں"
+  ,"Waiting Approval": "منظوری کے منتظر"
+  ,"Return No.": "واپسی نمبر"
+  ,"Product / Details": "جنس / تفصیل"
+  ,"Qty Returned": "واپس کی مقدار"
+  ,"Credit Amount": "جمع شدہ رقم"
+  ,"Produce Lot": "مال کا لاٹ"
+  ,"Approve Return": "واپسی منظور کریں"
+  ,"Approve": "منظور کریں"
+  ,"Reject Return": "واپسی مسترد کریں"
+  ,"Reject": "مسترد کریں"
+  ,"Delete Record": "ریکارڈ حذف کریں"
+  ,"No return records found matching the chosen filters.": "منتخب فلٹرز کے مطابق واپسی کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Return Receipt": "واپسی کی رسید"
+  ,"Produce Return Voucher": "مال واپسی پرچی"
+  ,"Return Number": "واپسی نمبر"
+  ,"Produce Return Item": "واپس کیا گیا مال"
+  ,"Produce Credit Amount": "مال واپسی کی جمع شدہ رقم"
+  ,"Reason": "وجہ"
+  ,"Received By": "وصول کنندہ"
+  ,"Approved By": "منظور کنندہ"
+  ,"Thank you for your business.": "آپ کے کاروبار کا شکریہ۔"
+  ,"Please enter the reason for rejecting this return voucher:": "اس واپسی پرچی کو مسترد کرنے کی وجہ درج کریں:"
+  ,"e.g. Sale mismatch, unauthorized return, or duplicate...": "مثلاً فروخت کا فرق، غیر مجاز واپسی یا دہرایا گیا اندراج..."
+  ,"Confirm Rejection": "مسترد کرنے کی تصدیق کریں"
+  ,"Approved": "منظور شدہ"
+  ,"Rejected": "مسترد شدہ"
+  ,"Draft": "مسودہ"
+  ,"Print Receipt": "رسید پرنٹ کریں"
+  ,"Outstanding Balances Ledger": "بقایا بیلنس لیجر"
+  ,"Customer Outstanding Balances (Top 10)": "گاہکوں کے بقایا بیلنس (نمایاں 10)"
+  ,"Receivables": "قابلِ وصول رقوم"
+  ,"Customer Name": "گاہک کا نام"
+  ,"Outstanding Amount": "بقایا رقم"
+  ,"No outstanding receivables logs found.": "قابلِ وصول بقایا جات کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Beopari/Grower Outstanding Payables (Top 10)": "بیوپاریوں کے واجبات (نمایاں 10)"
+  ,"Payables": "واجب الادا رقوم"
+  ,"Owed Amount": "واجب الادا رقم"
+  ,"No outstanding payables logs found.": "واجب الادا بقایا جات کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Lots Received": "موصولہ لاٹ"
+  ,"Lots Completed / Sold Out": "مکمل / فروخت شدہ لاٹ"
+  ,"Lots Pending Balance": "بقایا والے لاٹ"
+  ,"Avg. Selling Price": "اوسط فروخت ریٹ"
+  ,"Highest Selling Deal / Lot": "سب سے زیادہ ریٹ پر فروخت شدہ لاٹ"
+  ,"Lowest Selling Deal / Lot": "سب سے کم ریٹ پر فروخت شدہ لاٹ"
+  ,"Fruit Consignment Sales & Stock Performance Summary": "پھلوں کی کنسائنمنٹ فروخت اور اسٹاک کی کارکردگی"
+  ,"Fruit / Product Name": "پھل / جنس کا نام"
+  ,"Total Received": "کل موصولہ مقدار"
+  ,"Total Sold": "کل فروخت شدہ مقدار"
+  ,"Avg Purchase Rate": "اوسط خرید ریٹ"
+  ,"Avg Selling Rate": "اوسط فروخت ریٹ"
+  ,"Gross Dealing Margin": "کاروبار کا مجموعی مارجن"
+  ,"No stock dealing logs found.": "اسٹاک کے کاروبار کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Active Monthly Payroll Contract": "فعال ماہانہ تنخواہی معاہدہ"
+  ,"Total monthly liability": "ماہانہ کل واجب الادا رقم"
+  ,"Accumulated Staff Expenditure": "عملے کے مجموعی اخراجات"
+  ,"Includes Rs. {{amount}} Disbursed Loans": "اس میں {{amount}} روپے کے ادا شدہ پیشگی قرض شامل ہیں"
+  ,"Real-time Monthly Audit: {{month}} {{year}}": "ماہانہ تازہ آڈٹ: {{month}} {{year}}"
+  ,"Auto calculated": "خودکار حساب"
+  ,"Payroll Disbursed This Month": "اس ماہ ادا کی گئی تنخواہیں"
+  ,"Paid out to active staff": "فعال عملے کو ادا شدہ رقم"
+  ,"Pending Salaries Due": "باقی واجب الادا تنخواہیں"
+  ,"Liability to be cleared": "ادا کیا جانے والا بقایا"
+  ,"Advances Disbursed This Month": "اس ماہ دی گئی پیشگیاں"
+  ,"Emergency salary advances": "ہنگامی تنخواہی پیشگیاں"
+  ,"Sum": "مجموعہ"
+  ,"Supplies Inventory Log (Purchase)": "مال کی آمد کا ریکارڈ (خریداری)"
+  ,"Record and track consignment lots, produce arrivals, sales dispatches, and restocked customer returns": "بیوپاری کے لاٹ، موصولہ مال، فروخت اور واپس اسٹاک کیے گئے مال کا ریکارڈ رکھیں"
+  ,"RECORD NEW STOCK ARRIVAL": "مال کی نئی آمد درج کریں"
+  ,"Total Lots": "کل لاٹس"
+  ,"Arrived Stock": "موصول شدہ مال"
+  ,"Total received": "کل موصول"
+  ,"Gross Sold": "مجموعی فروخت"
+  ,"Sales tickets": "فروخت کی رسیدیں"
+  ,"Returned Qty": "واپس شدہ مقدار"
+  ,"Restocked": "دوبارہ اسٹاک میں شامل"
+  ,"In warehouse": "گودام میں"
+  ,"Net turnover": "خالص کاروبار"
+  ,"Search by Lot #, beopari/grower, produce...": "لاٹ نمبر، بیوپاری یا جنس تلاش کریں..."
+  ,"In-Stock (Available)": "اسٹاک میں (دستیاب)"
+  ,"Partially Sold": "جزوی فروخت"
+  ,"Depleted (Zero Balance)": "ختم (صفر بیلنس)"
+  ,"Lot # & Date": "لاٹ نمبر اور تاریخ"
+  ,"Avg Realized Rate": "اوسط حاصل شدہ ریٹ"
+  ,"No stock arrival supplies found matching current filters.": "منتخب فلٹرز کے مطابق مال کی آمد کا کوئی ریکارڈ نہیں ملا۔"
+  ,"Edit Lot Arrival": "مال کی آمد میں ترمیم"
+  ,"Delete Lot Arrival": "مال کی آمد حذف کریں"
+  ,"Showing Page": "صفحہ دکھایا جا رہا ہے"
+  ,"total supply lots)": "کل مال کے لاٹس)"
+  ,"Commission Brokerage Sales Tickets": "کمیشن آڑھت کی فروخت کی رسیدیں"
+  ,"Record fruit and vegetable sales to wholesale and retail buyers": "تھوک اور پرچون خریداروں کو پھل اور سبزی کی فروخت درج کریں"
+  ,"RECORD NEW SALE": "نئی فروخت درج کریں"
+  ,"Search sales tickets...": "فروخت کی رسیدیں تلاش کریں..."
+  ,"Billing Sum": "بل کی کل رقم"
+  ,"BEOPARI/GROWER STOCK ARRIVAL": "بیوپاری کے مال کی آمد"
+  ,"Select Beopari/Grower": "بیوپاری منتخب کریں"
+  ,"Arrival Quantity": "موصولہ مقدار"
+  ,"Enter physical units received": "موصول ہونے والے یونٹس درج کریں"
+  ,"Voucher Date": "واؤچر کی تاریخ"
+  ,"Vehicle / Truck No. (Optional)": "گاڑی / ٹرک نمبر (اختیاری)"
+  ,"e.g. LES-4921": "مثلاً LES-4921"
+  ,"Lot Reference # (Optional)": "لاٹ حوالہ نمبر (اختیاری)"
+  ,"Auto-assigned if empty": "خالی چھوڑنے پر خودکار طور پر مقرر ہوگا"
+  ,"Note:": "نوٹ:"
+  ,"Rate will be left pending at arrival, and will be updated automatically as you make sales tickets from this lot.": "آمد کے وقت ریٹ زیرِ التوا رہے گا اور اس لاٹ کی فروخت درج کرنے پر خودکار طور پر اپ ڈیٹ ہوگا۔"
+  ,"Save Arrival": "آمد محفوظ کریں"
+  ,"RECORD BATCH CONSIGNMENT SALE": "لاٹ کی اجتماعی فروخت درج کریں"
+  ,"Select Available Farmer Consignment": "دستیاب بیوپاری کا لاٹ منتخب کریں"
+  ,"Select active consignment": "فعال لاٹ منتخب کریں"
+  ,"left) - Supplier:": "باقی) - بیوپاری:"
+  ,"(Arrived:": "(موصول:"
+  ,"Set Sale Rate (Rs.)": "فروخت کا ریٹ مقرر کریں (روپے)"
+  ,"Set flat rate for selected buyers": "منتخب خریداروں کے لیے یکساں ریٹ مقرر کریں"
+  ,"Booking Date": "بکنگ کی تاریخ"
+  ,"Select Buyers & Enter Quantities": "خریدار منتخب کرکے مقدار درج کریں"
+  ,"Quantity to Buy": "خریداری کی مقدار"
+  ,"Discount (Rs.)": "رعایت (روپے)"
+  ,"Batch Sale Summary": "اجتماعی فروخت کا خلاصہ"
+  ,"Total Buyers Selected:": "منتخب خریداروں کی تعداد:"
+  ,"Total Units Sold:": "فروخت شدہ کل یونٹس:"
+  ,"units": "یونٹس"
+  ,"Total Billing Amount:": "بل کی کل رقم:"
+  ,"Record Batch Sales": "اجتماعی فروخت درج کریں"
+  ,"SALES BILL INVOICE": "فروخت کا انوائس"
+  ,"Format:": "فارمیٹ:"
+  ,"PRINT": "پرنٹ"
+  ,"Logo": "لوگو"
+  ,"Mandi OS Logo": "منڈی او ایس لوگو"
+  ,"Shop 12, Fruit Market, Lahore, Pakistan": "دکان 12، فروٹ مارکیٹ، لاہور، پاکستان"
+  ,"Invoice:": "انوائس:"
+  ,"Billed To:": "بل وصول کنندہ:"
+  ,"Account Category:": "اکاؤنٹ کی قسم:"
+  ,"Mandi Trade Account Buyer": "منڈی کا خریدار"
+  ,"Gross Subtotal:": "مجموعی ذیلی رقم:"
+  ,"Buyer Commission:": "خریدار کا کمیشن:"
+  ,"+ Rs.": "+ روپے"
+  ,"Discount:": "رعایت:"
+  ,"- Rs.": "- روپے"
+  ,"Total Invoice:": "انوائس کی کل رقم:"
+  ,"Terms & Conditions:": "شرائط و ضوابط:"
+  ,"Close Invoice": "انوائس بند کریں"
+  ,"Opening Customer Desk...": "گاہک کا ڈیسک کھل رہا ہے..."
+  ,"Account Link Error": "اکاؤنٹ لنک کی خرابی"
+  ,"We could not locate an active Customer Profile linked to your username. Contact Lahore Mandi Admin to link your login account!": "آپ کے صارف نام سے منسلک فعال گاہک کا پروفائل نہیں ملا۔ اکاؤنٹ منسلک کرنے کے لیے منڈی منتظم سے رابطہ کریں۔"
+  ,"My Purchase History Ledger": "میری خریداری کا کھاتہ"
+  ,"Review all fruits & vegetables purchased from Mandi Commission Broker": "منڈی کمیشن ایجنٹ سے خریدے گئے تمام پھل اور سبزیوں کی تفصیل دیکھیں"
+  ,"Unit Sale Price": "فی یونٹ فروخت ریٹ"
+  ,"Total Invoice Sum": "انوائس کی کل رقم"
+  ,"INVOICE": "انوائس"
+  ,"Download PDF Report": "PDF رپورٹ ڈاؤن لوڈ کریں"
+  ,"Search date or product...": "تاریخ یا جنس تلاش کریں..."
+  ,"Filter Date Range:": "تاریخ کی مدت فلٹر کریں:"
+  ,"From Date:": "ابتدائی تاریخ:"
+  ,"To Date:": "آخری تاریخ:"
+  ,"Reset Dates": "تاریخیں دوبارہ ترتیب دیں"
+  ,"Total Purchase Days": "خریداری کے کل دن"
+  ,"Days": "دن"
+  ,"Total Quantity Purchased": "خریدی گئی کل مقدار"
+  ,"Total Day Invoice": "دن کے انوائس کی کل رقم"
+  ,"No date records found": "اس تاریخ کا کوئی ریکارڈ نہیں ملا"
+  ,"Try adjusting your search filter or view overall purchase history.": "تلاش کا فلٹر تبدیل کریں یا خریداری کی مکمل تاریخ دیکھیں۔"
+  ,"View Products": "اشیا دیکھیں"
+  ,"Download PDF for this day": "اس دن کی PDF ڈاؤن لوڈ کریں"
+  ,"PDF": "PDF"
+  ,"My Comprehensive General Ledger": "میرا مکمل جنرل لیجر"
+  ,"Posting transaction histories, payments, outstanding debts, and opening balances": "لین دین، ادائیگیوں، بقایا ادھار اور ابتدائی بیلنس کی تفصیل"
+  ,"DOWNLOAD PDF": "PDF ڈاؤن لوڈ کریں"
+  ,"Lahore Sabzi & Fruit Mandi Commission Agent": "لاہور سبزی و فروٹ منڈی کمیشن ایجنٹ"
+  ,"Personal Customer Account Statement Ledger": "گاہک کے ذاتی اکاؤنٹ کا اسٹیٹمنٹ"
+  ,"Account Owner:": "اکاؤنٹ مالک:"
+  ,"| Phone:": "| فون:"
+  ,"Reference Posting / Memo Description": "حوالہ / لین دین کی تفصیل"
+  ,"Debit Cash (Purchases)": "ڈیبٹ رقم (خریداری)"
+  ,"Credit Cash (Payments Paid)": "کریڈٹ رقم (ادا شدہ ادائیگیاں)"
+  ,"Balance Post-Posting": "اندراج کے بعد بیلنس"
+  ,"OFFICIAL TRADE TICKET": "سرکاری کاروباری رسید"
+  ,"PRINT TICKET": "رسید پرنٹ کریں"
+  ,"No:": "نمبر:"
+  ,"Billed Customer:": "بل والا گاہک:"
+  ,"Total Bill:": "کل بل:"
+  ,"Day Wise Purchases —": "روزانہ خریداری —"
+  ,"Visual product breakdown and invoice records for": "اشیا کی تفصیل اور انوائس ریکارڈ:"
+  ,"Download Day PDF": "دن کی PDF ڈاؤن لوڈ کریں"
+  ,"Produces Bought": "خریدی گئی اجناس"
+  ,"Lines": "اندراجات"
+  ,"Day Total Sum": "دن کی کل رقم"
+  ,"Purchased Products Visual Breakdown": "خریدی گئی اشیا کی تفصیل"
+  ,"Product / Produce": "شے / جنس"
+  ,"Unit Sale Rate": "فی یونٹ فروخت ریٹ"
+  ,"purchase records on": "کی خریداری کا ریکارڈ"
+  ,"Close Window": "ونڈو بند کریں"
+  ,"Opening Beopari/Grower Desk...": "بیوپاری کا ڈیسک کھل رہا ہے..."
+  ,"We could not locate an active Beopari/Grower Profile linked to your username. Contact Lahore Mandi Admin to link your login account!": "آپ کے صارف نام سے منسلک فعال بیوپاری کا پروفائل نہیں ملا۔ اکاؤنٹ منسلک کرنے کے لیے منڈی منتظم سے رابطہ کریں۔"
+  ,"My Agricultural Supply History": "میری زرعی مال کی فراہمی کا ریکارڈ"
+  ,"Review all crop and vegetable shipments supplied to Lahore Mandi broker with commission settlement": "لاہور منڈی کے کمیشن ایجنٹ کو بھیجی گئی فصلوں اور سبزیوں، کمیشن اور تصفیے کی تفصیل دیکھیں"
+  ,"EXPORT CSV": "CSV برآمد کریں"
+  ,"PRINT REPORT": "رپورٹ پرنٹ کریں"
+  ,"Commission Rate & Amt": "کمیشن ریٹ اور رقم"
+  ,"Net Payable Amount": "خالص واجب الادا رقم"
+  ,"✓ Recorded": "✓ درج شدہ"
+  ,"Pending Settlement": "تصفیہ زیرِ التوا"
+  ,"Unrecorded": "درج نہیں"
+  ,"Rs. 0": "روپے 0"
+  ,"Pending": "زیرِ التوا"
+  ,"RECEIPT": "رسید"
+  ,"Posting transaction histories, payments received, shipments, and opening balances": "لین دین، وصول شدہ ادائیگیوں، بھیجے گئے مال اور ابتدائی بیلنس کی تفصیل"
+  ,"Personal Beopari/Grower Account Statement Ledger": "بیوپاری کے ذاتی اکاؤنٹ کا اسٹیٹمنٹ"
+  ,"Debit Cash (Shipments Supplied)": "ڈیبٹ رقم (فراہم کردہ مال)"
+  ,"Credit Cash (Payments Received)": "کریڈٹ رقم (وصول شدہ ادائیگیاں)"
+  ,"OFFICIAL SHIPMENT RECEIPT": "مال کی سرکاری رسید"
+  ,"No: RECV-": "نمبر: RECV-"
+  ,"Received From Farmer:": "بیوپاری سے وصول کیا:"
+  ,"Mandi Trade Account Seller": "منڈی کا فروخت کنندہ"
+  ,"Gross Total": "مجموعی رقم"
+  ,"Gross Supply Value:": "مال کی مجموعی مالیت:"
+  ,"Beopari/Grower Commission (": "بیوپاری کا کمیشن ("
+  ,"Other Lot Expenses:": "لاٹ کے دیگر اخراجات:"
+  ,"Net Payable to Beopari/Grower:": "بیوپاری کو خالص واجب الادا:"
+  ,"Close Receipt": "رسید بند کریں"
+  ,"Required fields: Name, Phone, Designation, Joining Date, Salary, Type.": "ضروری خانے پُر کریں: نام، فون، عہدہ، ملازمت کی تاریخ، تنخواہ اور قسم۔"
+  ,"Employee successfully registered": "ملازم کامیابی سے رجسٹر ہوگیا"
+  ,"Employee details updated successfully": "ملازم کی تفصیلات کامیابی سے اپ ڈیٹ ہوگئیں"
+  ,"Failed to save employee records": "ملازم کا ریکارڈ محفوظ نہیں ہوسکا"
+  ,"Remove {{name}}?": "{{name}} کو حذف کریں؟"
+  ,"Are you absolutely sure you want to remove employee \"{{name}}\"? This will soft-delete their records and move them to Trash.": "کیا آپ واقعی ملازم \"{{name}}\" کو حذف کرنا چاہتے ہیں؟ ریکارڈ مستقل حذف نہیں ہوگا بلکہ کوڑے دان میں منتقل ہوگا۔"
+  ,"Employee \"{{name}}\" has been successfully removed.": "ملازم \"{{name}}\" کامیابی سے حذف ہوگیا۔"
+  ,"Failed to delete employee record": "ملازم کا ریکارڈ حذف نہیں ہوسکا"
+  ,"Please enter Month, Year and Basic Salary": "براہ کرم مہینہ، سال اور بنیادی تنخواہ درج کریں"
+  ,"Salary payment successfully processed": "تنخواہ کی ادائیگی کامیابی سے درج ہوگئی"
+  ,"Failed to process salary payment": "تنخواہ کی ادائیگی درج نہیں ہوسکی"
+  ,"Amount and Date are required.": "رقم اور تاریخ درج کرنا ضروری ہے۔"
+  ,"Salary advance recorded successfully": "تنخواہ کی پیشگی کامیابی سے درج ہوگئی"
+  ,"Failed to record salary advance": "تنخواہ کی پیشگی درج نہیں ہوسکی"
+  ,"Delete Salary Record?": "تنخواہ کا ریکارڈ حذف کریں؟"
+  ,"Are you sure you want to delete this salary record? Connected expense will be cleaned up.": "کیا آپ واقعی تنخواہ کا یہ ریکارڈ حذف کرنا چاہتے ہیں؟ اس سے منسلک خرچ بھی حذف ہوجائے گا۔"
+  ,"Delete Record": "ریکارڈ حذف کریں"
+  ,"Salary record deleted successfully": "تنخواہ کا ریکارڈ کامیابی سے حذف ہوگیا"
+  ,"Failed to delete salary record": "تنخواہ کا ریکارڈ حذف نہیں ہوسکا"
+  ,"Delete Salary Advance?": "تنخواہ کی پیشگی حذف کریں؟"
+  ,"Are you sure you want to delete this salary advance?": "کیا آپ واقعی تنخواہ کی یہ پیشگی حذف کرنا چاہتے ہیں؟"
+  ,"Delete Advance": "پیشگی حذف کریں"
+  ,"Salary advance deleted successfully": "تنخواہ کی پیشگی کامیابی سے حذف ہوگئی"
+  ,"Failed to delete advance record": "پیشگی کا ریکارڈ حذف نہیں ہوسکا"
+  ,"No data available to export": "برآمد کرنے کے لیے کوئی ڈیٹا دستیاب نہیں"
+  ,"Report exported successfully to Excel CSV format!": "رپورٹ کامیابی سے Excel CSV فائل میں برآمد ہوگئی!"
+  ,"Printing error: Area not found": "پرنٹ کی خرابی: مطلوبہ حصہ نہیں ملا"
+  ,"Failed to load employee list": "ملازمین کی فہرست لوڈ نہیں ہوسکی"
+  ,"Failed to load payroll reports history": "تنخواہوں کی رپورٹ کی تاریخ لوڈ نہیں ہوسکی"
+  ,"Failed to load employee profile": "ملازم کا پروفائل لوڈ نہیں ہوسکا"
+  ,"Salary": "تنخواہ"
+  ,"Phone:": "فون:"
+  ,"No matching": "کوئی مطابقت رکھنے والا"
+  ,"s found": "نہیں ملا"
+  ,"Select Category": "قسم منتخب کریں"
+  ,"Beopari/Grower (Paying Farmer)": "بیوپاری (ادائیگی وصول کرنے والا)"
+  ,"Customer (Receiving Cash)": "گاہک (رقم وصول کرنے والا)"
+  ,"• Phone:": "• فون:"
+  ,"Current Debt:": "موجودہ قرض:"
+  ,"New Debt:": "نیا قرض:"
+  ,"Current Receivable:": "موجودہ وصول طلب:"
+  ,"New Receivable:": "نئی وصول طلب:"
+  ,"Amount Cash (Rs.)": "رقم (روپے)"
+  ,"Enter value in Rs.": "رقم درج کریں"
+  ,"Description / Memo": "تفصیل / یادداشت"
+  ,"e.g. Bank Transfer Ref, Counter Cash": "مثلاً بینک ٹرانسفر حوالہ، کاؤنٹر کیش"
+  ,"Disburse / Receive": "ادائیگی / وصولی"
+  ,": Rs.": ": روپے"
+  ,"(Rs.": "(روپے"
+  ,"@ Rs.": "@ روپے"
+  ,"Active Staff Member Directory Quicklist (": "فعال عملے کی فوری فہرست ("
+  ,"ID": "شناختی نمبر"
+  ,"Contract Salary": "معاہدے کی تنخواہ"
+  ,"No active staff registered.": "کوئی فعال ملازم درج نہیں۔"
+  ,"Live Mandi Brokerage Audit Activities Timeline": "منڈی آڑھت کی سرگرمیوں کا براہ راست آڈٹ ریکارڈ"
+  ,"Chronological list of all operational, financial, and administrative activities": "تمام کاروباری، مالی اور انتظامی سرگرمیوں کی تاریخ وار فہرست"
+  ,"No recent auditing events log found.": "آڈٹ سرگرمیوں کا کوئی حالیہ ریکارڈ نہیں ملا۔"
+  ,"Munshi & Operators Portfolio": "منشی اور آپریٹرز کا پورٹ فولیو"
+  ,"Manage login credentials and authorization roles for Mandi operators": "منڈی آپریٹرز کے لاگ اِن اور اجازتوں کے کردار سنبھالیں"
+  ,"ADD NEW CLERK": "نیا کلرک شامل کریں"
+  ,"Search operators by name, email or phone...": "آپریٹر کا نام، ای میل یا فون تلاش کریں..."
+  ,"Phone No.": "فون نمبر"
+  ,"Mandi Desk Location": "منڈی ڈیسک کا مقام"
+  ,"Showing page": "صفحہ دکھایا جا رہا ہے"
+  ,"Prev": "پچھلا"
+  ,"Beopari Management Center": "بیوپاری مینجمنٹ مرکز"
+  ,"Add agriculture suppliers, view history, ledgers and track payments": "زرعی مال فراہم کرنے والے شامل کریں، ان کا ریکارڈ، کھاتہ اور ادائیگیاں دیکھیں"
+  ,"Search agricultural suppliers by name, address or CNIC...": "زرعی مال فراہم کرنے والے کو نام، پتے یا شناختی کارڈ سے تلاش کریں..."
+  ,"Total Supplied Value": "فراہم کردہ مال کی کل مالیت"
+  ,"Total Disbursed Paid": "کل ادا شدہ رقم"
+  ,"Outstanding Balance": "بقایا بیلنس"
+  ,"LEDGER": "کھاتہ"
+  ,"Linked to mandi data - Deletion protected": "منڈی کے ڈیٹا سے منسلک ہے، حذف نہیں کیا جا سکتا"
+  ,"total suppliers)": "کل بیوپاری)"
+  ,"Customers Management Center": "گاہکوں کا مینجمنٹ مرکز"
+  ,"Track mandi wholesale purchasers, outstanding balances, sales histories and payments": "منڈی کے تھوک خریدار، بقایا بیلنس، فروخت اور ادائیگیوں کا ریکارڈ رکھیں"
+  ,"ADD NEW CUSTOMER": "نیا گاہک شامل کریں"
+  ,"Search mandi retail/wholesale customers by name, phone, shop address...": "منڈی کے پرچون یا تھوک گاہک کو نام، فون یا دکان کے پتے سے تلاش کریں..."
+  ,"Customer Name / Shop Address": "گاہک کا نام / دکان کا پتہ"
+  ,"Total Purchases Value": "کل خریداری کی مالیت"
+  ,"Total Paid Back": "کل واپس ادا شدہ"
+  ,"Outstanding Receivable": "بقایا وصول طلب"
+  ,"total customers)": "کل گاہک)"
+  ,"Record and track consignment lots, produce arrivals, sales dispatches, and customer returns restocked into inventory": "بیوپاری کے لاٹ، موصولہ مال، فروخت اور واپس اسٹاک کیے گئے مال کا ریکارڈ رکھیں"
+  ,"Search by Lot #, supplier, produce...": "لاٹ نمبر، بیوپاری یا جنس تلاش کریں..."
+  ,"Beopari / Grower": "بیوپاری"
+  ,"Mandi Commission Brokerage Sales Ledger": "منڈی کمیشن آڑھت فروخت کا لیجر"
+  ,"Manage and record sales made to market retail and wholesale buyers": "منڈی کے تھوک اور پرچون خریداروں کو فروخت کا ریکارڈ رکھیں"
+  ,"RECORD NEW SALES VOUCHER": "فروخت کا نیا واؤچر درج کریں"
+  ,"Search sales ledger...": "فروخت کا کھاتہ تلاش کریں..."
+  ,"Buyer Customer": "خریدار گاہک"
+  ,"Quantity Sold": "فروخت شدہ مقدار"
+  ,"Discounts": "رعایت"
+  ,"Total Invoice Value": "انوائس کی کل مالیت"
+  ,"Print Invoice": "انوائس پرنٹ کریں"
+  ,"Pay or Receive Money": "رقم ادا یا وصول کریں"
+  ,"Directly disburse cash or bank payments to suppliers, or collect payments from customers with instant automatic ledger balance updates.": "بیوپاری کو نقد یا بینک سے ادائیگی کریں یا گاہک سے رقم وصول کریں؛ کھاتے کا بیلنس فوراً اپ ڈیٹ ہوگا۔"
+  ,"Reset Form": "فارم صاف کریں"
+  ,"Total Supplier Payables": "بیوپاریوں کو کل واجب الادا"
+  ,"View ↗": "دیکھیں ↗"
+  ,"Total Customer Receivables": "گاہکوں سے کل وصول طلب"
+  ,"Active Payment Methods": "فعال ادائیگی کے طریقے"
+  ,"Available": "دستیاب"
+  ,"Direct Payment / Receipt Entry": "براہ راست ادائیگی / وصولی درج کریں"
+  ,"Fill in details below to disburse cash or collect payments": "نقد ادائیگی یا رقم وصول کرنے کے لیے نیچے تفصیل درج کریں"
+  ,"Direct Form": "براہ راست فارم"
+  ,"Recent Payment Activity": "حالیہ ادائیگیاں"
+  ,"Latest posted receipts & disbursements": "حالیہ درج شدہ وصولیاں اور ادائیگیاں"
+  ,"No payment transactions recorded yet.": "ابھی تک ادائیگی کا کوئی لین دین درج نہیں۔"
+  ,"Mandi General Accounts: Cash Disbursements & Receipts": "منڈی کے عمومی کھاتے: نقد ادائیگیاں اور وصولیاں"
+  ,"Record payments given to suppliers or cash collected from customers": "بیوپاریوں کو کی گئی ادائیگی یا گاہکوں سے وصول نقد درج کریں"
+  ,"RECORD NEW PAYMENT": "نئی ادائیگی درج کریں"
+  ,"Search cashier ledger by party, type, date...": "فریق، قسم یا تاریخ سے کیشیئر کا کھاتہ تلاش کریں..."
+  ,"Role Type": "فریق کا کردار"
+  ,"Description / Ref": "تفصیل / حوالہ"
+  ,"Amount Cash": "نقد رقم"
+  ,"total payments and receipts)": "کل ادائیگیاں اور وصولیاں)"
+  ,"Mandi Financial Ledger & Audit Statement Reports": "منڈی مالی لیجر اور آڈٹ اسٹیٹمنٹ رپورٹس"
+  ,"Analyze purchase logs, profits, and export accounting ledgers to Excel/Spreadsheet": "خریداری اور منافع کا جائزہ لیں، حسابی کھاتے Excel/Spreadsheet میں برآمد کریں"
+  ,"EXPORT SALES EXCEL": "فروخت Excel میں برآمد کریں"
+  ,"EXPORT PURCHASES EXCEL": "خریداری Excel میں برآمد کریں"
+  ,"Total Purchases Cost": "خریداری کی کل لاگت"
+  ,"Value of supplied stock received": "موصولہ مال کی مالیت"
+  ,"Total Sales Revenue": "فروخت کی کل آمدن"
+  ,"Gross billing value": "بلوں کی مجموعی مالیت"
+  ,"Net Commission from Customer": "گاہک سے خالص کمیشن"
+  ,"Commission fee charged to buyer": "خریدار سے وصول کمیشن"
+  ,"Net Commission Fee Deducted from Supplier": "بیوپاری سے منہا خالص کمیشن"
+  ,"Commission deducted on supplier lots": "بیوپاری کے لاٹس سے منہا کمیشن"
+  ,"Purchase History Statement": "خریداری کی تفصیل"
+  ,"Farmer / Supplier": "کاشتکار / بیوپاری"
+  ,"Sales Ledger Statement": "فروخت کے کھاتے کی تفصیل"
+  ,"Buyer / Shop": "خریدار / دکان"
+  ,"Disc": "رعایت"
+  ,"Billing": "بل"
+  ,"Audit logs & System Activity Log": "آڈٹ اور سسٹم سرگرمیوں کا ریکارڈ"
+  ,"Review critical bookkeeping modifications and login telemetry for transparency": "حسابی ریکارڈ میں اہم تبدیلیاں اور لاگ اِن سرگرمیاں دیکھیں"
+  ,"Telemetry History (Top 100 Logs)": "سرگرمیوں کی تاریخ (حالیہ 100 ریکارڈ)"
+  ,"User": "صارف"
+  ,"Action Identifier": "کارروائی کی شناخت"
+  ,"Bookkeeping Modifications Details": "کھاتوں میں تبدیلیوں کی تفصیل"
+  ,"Deleted Users & Trash Bin": "حذف شدہ صارفین اور کوڑے دان"
+  ,"View soft-deleted user accounts (Customers, Suppliers, Clerks, Employees) and restore them anytime.": "عارضی طور پر حذف شدہ گاہکوں، بیوپاریوں، کلرکوں اور ملازمین کے اکاؤنٹ دیکھیں اور بحال کریں۔"
+  ,"REFRESH TRASH": "کوڑے دان تازہ کریں"
+  ,"Search deleted accounts by name, user type, phone, email, or deleted by...": "حذف شدہ اکاؤنٹ نام، قسم، فون، ای میل یا حذف کرنے والے سے تلاش کریں..."
+  ,"User Type": "صارف کی قسم"
+  ,"Contact Info": "رابطے کی معلومات"
+  ,"Deleted Date": "حذف کرنے کی تاریخ"
+  ,"Deleted By": "حذف کرنے والا"
+  ,"No soft-deleted users found in the trash bin.": "کوڑے دان میں کوئی حذف شدہ صارف نہیں ملا۔"
+  ,"Restore": "بحال کریں"
+  ,"Khata ID (Unique / Auto-Generated)": "کھاتہ شناخت (منفرد / خودکار)"
+  ,"Used for login & ledgers": "لاگ اِن اور کھاتوں کے لیے"
+  ,"CNIC (Optional)": "شناختی کارڈ (اختیاری)"
+  ,"e.g. 35201-XXXXXXX-X": "مثلاً 35201-XXXXXXX-X"
+  ,"Opening Balance": "ابتدائی بیلنس"
+  ,"Use negative for our payable debt": "ہماری واجب الادا رقم کے لیے منفی رقم درج کریں"
+  ,"Reference By (Optional)": "حوالہ دینے والا (اختیاری)"
+  ,"e.g. Referred by Malik Shabir": "مثلاً ملک شبیر کا حوالہ"
+  ,"Opening Outstanding Debt Receivable": "ابتدائی بقایا وصول طلب"
+  ,"Positive Rs. they owe us": "مثبت رقم جو وہ ہمیں ادا کریں گے"
+  ,"Crate": "کریٹ"
+  ,"Box": "باکس"
+  ,"Kg": "کلوگرام"
+  ,"Operating Desk Status": "آپریٹنگ ڈیسک کی حالت"
+  ,"Submit Details": "تفصیلات جمع کریں"
+  ,"BEOPARI STOCK ARRIVAL": "بیوپاری کے مال کی آمد"
+  ,"RECORD DIRECT TRANSACTION PAYMENT": "براہ راست ادائیگی کا لین دین درج کریں"
+  ,"Log expenditures for brokerage activities and general operations": "آڑھت اور عمومی کاروباری اخراجات درج کریں"
+  ,"-- Choose Category --": "-- قسم منتخب کریں --"
+  ,"Expense Cost (Rs.)": "اخراجات کی رقم (روپے)"
+  ,"Date of Expense": "خرچ کی تاریخ"
+  ,"Provide specific billing context (e.g. Labor payment for lot #34)": "خرچ کی تفصیل درج کریں (مثلاً لاٹ نمبر 34 کی مزدوری)"
+  ,"Record Expense": "خرچ درج کریں"
+  ,"General Account Statement Ledger": "عمومی کھاتے کی تفصیل"
+  ,"Ledger details for": "کھاتے کی تفصیل:"
+  ,"Mandi Stock Brokerage Account Statement": "منڈی اسٹاک آڑھت اکاؤنٹ اسٹیٹمنٹ"
+  ,"Statement Ledger for Party:": "فریق کے کھاتے کی تفصیل:"
+  ,"Generated:": "تیار کیا گیا:"
+  ,"Transaction Entry / Reference Description": "لین دین / حوالہ کی تفصیل"
+  ,"Posting Type": "اندراج کی قسم"
+  ,"Debit Cash (Dr)": "ڈیبٹ نقد (Dr)"
+  ,"Credit Cash (Cr)": "کریڈٹ نقد (Cr)"
+  ,"No ledger transaction postings located.": "کھاتے میں کوئی لین دین درج نہیں ملا۔"
+  ,"Close Ledger": "کھاتہ بند کریں"
+  ,"BILLING TAX INVOICE": "ٹیکس انوائس"
+  ,"Phone: 03001234567 | NTN: 489210-9": "فون: 03001234567 | NTN: 489210-9"
+  ,"Mandi Trade Account Client": "منڈی کاروباری اکاؤنٹ کا فریق"
+  ,"Status:": "حالت:"
+  ,"PAID & POSTED": "ادا شدہ اور درج"
+  ,"Item Description": "شے کی تفصیل"
+  ,"Discount Coupon:": "رعایتی کوپن:"
+  ,"Grand Billing Total:": "بل کی مجموعی رقم:"
+  ,"No data available to export": "برآمد کرنے کے لیے کوئی ڈیٹا دستیاب نہیں"
+  ,"The account is linked to existing transactions.": "یہ اکاؤنٹ پہلے سے موجود لین دین سے منسلک ہے۔"
+  ,"Active": "فعال"
+  ,"Inactive": "غیر فعال"
+  ,"Approved": "منظور شدہ"
+  ,"Rejected": "مسترد"
+  ,"Restored": "بحال"
+  ,"Debit": "ڈیبٹ"
+  ,"Credit": "کریڈٹ"
+  ,"Depleted": "ختم"
+  ,"In-Stock": "اسٹاک میں"
+  ,"New Purchase": "نئی خریداری"
+  ,"New Sale": "نئی فروخت"
+  ,"New Payment": "نئی ادائیگی"
+  ,"Unknown": "نامعلوم"
+  ,"Phone/WhatsApp:": "فون/واٹس ایپ:"
+  ,"OFFICIAL EMPLOYEE & PAYROLL AUDIT": "ملازمین اور تنخواہوں کا سرکاری آڈٹ"
+  ,"Business Code:": "کاروباری کوڈ:"
+  ,"Tenant ID:": "ٹیننٹ شناخت:"
+  ,"Report Category": "رپورٹ کی قسم"
+  ,"Filter Period": "فلٹر کی مدت"
+  ,"Generated By": "تیار کرنے والا"
+  ,"Authorized Admin": "مجاز منتظم"
+  ,"Prepared By (HR & Payroll)": "تیار کنندہ (HR اور تنخواہ)"
+  ,"Audited By (Finance)": "آڈٹ کنندہ (مالیات)"
+  ,"Authorized Signatory": "مجاز دستخط کنندہ"
+  ,"Computer Generated Official Report • {{business}} • Valid Without Physical Stamp": "کمپیوٹر سے تیار شدہ سرکاری رپورٹ • {{business}} • مہر کے بغیر بھی قابلِ قبول"
+  ,"Error loading server data": "سرور کا ڈیٹا لوڈ نہیں ہوسکا"
+  ,"{{type}} entry successfully recorded!": "{{type}} کا اندراج کامیابی سے محفوظ ہوگیا!"
+  ,"{{type}} entry successfully updated!": "{{type}} کا اندراج کامیابی سے اپ ڈیٹ ہوگیا!"
+  ,"Operation failed": "کارروائی ناکام ہوگئی"
+  ,"Are you sure you want to delete {{name}}? This action cannot be undone.": "کیا آپ واقعی {{name}} حذف کرنا چاہتے ہیں؟ یہ عمل واپس نہیں ہوسکے گا۔"
+  ,"{{type}} deleted successfully.": "{{type}} کامیابی سے حذف ہوگیا۔"
+  ,"Delete failed": "حذف نہیں ہوسکا"
+  ,"Mandi OS - Sabzi & Fruit Broker": "منڈی او ایس - سبزی اور فروٹ آڑھتی"
+  ,"Thank you for trading at Lahore Sabzi & Fruit Mandi!": "لاہور سبزی و فروٹ منڈی میں کاروبار کرنے کا شکریہ!"
+  ,"No customer profile linked to this login.": "اس لاگ اِن سے کوئی گاہک پروفائل منسلک نہیں۔"
+  ,"Failed to load transaction history.": "لین دین کی تاریخ لوڈ نہیں ہوسکی۔"
+  ,"No beopari/grower profile linked to this login.": "اس لاگ اِن سے کوئی بیوپاری پروفائل منسلک نہیں۔"
+  ,"Rs/Unit": "روپے فی یونٹ"
+  ,"Rs Fixed": "مقررہ روپے"
+  ,"Recorded": "درج شدہ"
+  ,"Supply History & Commission Report": "مال کی فراہمی اور کمیشن کی رپورٹ"
+  ,"Official Agricultural Supply History & Commission Settlement Report": "زرعی مال کی فراہمی اور کمیشن تصفیے کی سرکاری رپورٹ"
+  ,"Beopari/Grower:": "بیوپاری:"
+  ,"Gross Supply Amount": "مال کی مجموعی رقم"
+  ,"Other Expenses": "دیگر اخراجات"
+  ,"Recorded Shipments:": "درج شدہ مال کی ترسیل:"
+  ,"lots": "لاٹس"
+  ,"Total Gross Supply Value:": "مال کی کل مجموعی مالیت:"
+  ,"Less Total Beopari/Grower Commission:": "بیوپاری کا کل کمیشن منہا:"
+  ,"Less Other Lot Expenses:": "لاٹ کے دیگر اخراجات منہا:"
+  ,"Report Generated on:": "رپورٹ تیار ہونے کی تاریخ:"
+  ,"Quantity Supplied": "فراہم کردہ مقدار"
+  ,"Farmer Purchase Rate (Rs)": "کاشتکار سے خریداری کا ریٹ (روپے)"
+  ,"Gross Supply Amount (Rs)": "مال کی مجموعی رقم (روپے)"
+  ,"Commission Rate/Type": "کمیشن ریٹ/قسم"
+  ,"Commission Amount (Rs)": "کمیشن کی رقم (روپے)"
+  ,"Other Expenses (Rs)": "دیگر اخراجات (روپے)"
+  ,"Net Payable Amount (Rs)": "خالص واجب الادا رقم (روپے)"
+  ,"Please select party and enter amount and date.": "براہ کرم فریق منتخب کرکے رقم اور تاریخ درج کریں۔"
+  ,"Payment / Receipt recorded successfully!": "ادائیگی / وصولی کامیابی سے درج ہوگئی!"
+  ,"Failed to record payment": "ادائیگی درج نہیں ہوسکی"
+  ,"{{type}} created successfully!": "{{type}} کامیابی سے بن گیا!"
+  ,"{{type}} updated successfully!": "{{type}} کامیابی سے اپ ڈیٹ ہوگیا!"
+  ,"Failed to submit form": "فارم جمع نہیں ہوسکا"
+  ,"Cannot delete beopari/grower \"{{name}}\": This beopari/grower has linked transactions/records (stock arrivals, payments, or ledger entries) in the application.": "بیوپاری \"{{name}}\" حذف نہیں ہوسکتا کیونکہ اس کے مال کی آمد، ادائیگی یا کھاتے کے لین دین موجود ہیں۔"
+  ,"Cannot delete customer \"{{name}}\": This customer has linked transactions/records (sales invoices, payments, or ledger entries) in the application.": "گاہک \"{{name}}\" حذف نہیں ہوسکتا کیونکہ اس کی فروخت، ادائیگی یا کھاتے کے لین دین موجود ہیں۔"
+  ,"Are you sure you want to delete {{name}}? This user will be soft-deleted and moved to the Deleted Users / Trash section, where they can be restored anytime.": "کیا آپ واقعی {{name}} حذف کرنا چاہتے ہیں؟ اکاؤنٹ عارضی طور پر کوڑے دان میں منتقل ہوگا اور بعد میں بحال کیا جاسکے گا۔"
+  ,"Are you absolutely sure you want to delete {{name}}? This action is irreversible.": "کیا آپ واقعی {{name}} حذف کرنا چاہتے ہیں؟ یہ عمل واپس نہیں ہوسکے گا۔"
+  ,"Delete & Move to Trash": "حذف کرکے کوڑے دان میں بھیجیں"
+  ,"{{name}} soft-deleted and moved to Trash.": "{{name}} عارضی طور پر حذف کرکے کوڑے دان میں منتقل ہوگیا۔"
+  ,"Failed to delete record.": "ریکارڈ حذف نہیں ہوسکا۔"
+  ,"Restore {{name}}?": "{{name}} بحال کریں؟"
+  ,"Are you sure you want to restore {{name}}? This will reactivate their account and restore their profile.": "کیا آپ واقعی {{name}} بحال کرنا چاہتے ہیں؟ اس سے اکاؤنٹ دوبارہ فعال اور پروفائل بحال ہوگا۔"
+  ,"Restore Account": "اکاؤنٹ بحال کریں"
+  ,"{{name}} ({{role}}) restored successfully.": "{{name}} ({{role}}) کامیابی سے بحال ہوگیا۔"
+  ,"Failed to restore user.": "صارف بحال نہیں ہوسکا۔"
+  ,"Report exported to Excel (.csv) format!": "رپورٹ Excel (.csv) فارمیٹ میں برآمد ہوگئی!"
+  ,"January": "جنوری"
+  ,"February": "فروری"
+  ,"March": "مارچ"
+  ,"April": "اپریل"
+  ,"May": "مئی"
+  ,"June": "جون"
+  ,"July": "جولائی"
+  ,"August": "اگست"
+  ,"September": "ستمبر"
+  ,"October": "اکتوبر"
+  ,"November": "نومبر"
+  ,"December": "دسمبر"
+  ,"Monthly Payroll Sheet": "ماہانہ تنخواہوں کی فہرست"
+  ,"Calculate monthly take-home payouts": "ماہانہ خالص تنخواہ کا حساب"
+  ,"Active Staff Directory": "فعال ملازمین کی فہرست"
+  ,"Overview of joined contract employees": "معاہدے پر کام کرنے والے ملازمین کا خلاصہ"
+  ,"Filter cash payouts by Paid/Unpaid": "ادا شدہ اور غیر ادا شدہ نقد ادائیگیوں کا فلٹر"
+  ,"Track staff pending salaries": "ملازمین کی بقایا تنخواہوں کا ریکارڈ"
+  ,"Advances & Loans Ledger": "پیشگی اور قرض کا کھاتہ"
+  ,"Advances disbursed to employees": "ملازمین کو دی گئی پیشگی رقم"
+  ,"Staff Expenditure Audit": "عملے کے اخراجات کا آڈٹ"
+  ,"Accumulated staff expenses ledger": "عملے کے مجموعی اخراجات کا کھاتہ"
+  ,"Basic Monthly Salary": "ماہانہ بنیادی تنخواہ"
+  ,"Bonus & Incentives": "بونس اور مراعات"
+  ,"Allowances (Food / Travel / Housing)": "الاؤنس (کھانا / سفر / رہائش)"
+  ,"Overtime Earnings": "اوور ٹائم کی آمدن"
+  ,"Salary Advance Adjustment": "تنخواہ کی پیشگی کی کٹوتی"
+  ,"Net Disbursed Salary Payout": "ادا کی گئی خالص تنخواہ"
+  ,"Remarks / Notes:": "تفصیل / نوٹس:"
+  ,"Employee Signature": "ملازم کے دستخط"
+  ,"Authorized Stamp & Signature ({{business}})": "مجاز مہر اور دستخط ({{business}})"
+  ,"Cannot delete \"{{name}}\": Supplier is linked to active or historical records (stock arrivals, payments, or ledger transactions).": "\"{{name}}\" حذف نہیں ہوسکتا کیونکہ اس بیوپاری کے فعال یا سابقہ مال، ادائیگی یا کھاتے کے ریکارڈ موجود ہیں۔"
+  ,"Cannot delete \"{{name}}\": Customer is linked to active or historical records (sales invoices, payments, or ledger transactions).": "\"{{name}}\" حذف نہیں ہوسکتا کیونکہ اس گاہک کی فروخت، ادائیگی یا کھاتے کے ریکارڈ موجود ہیں۔"
+  ,"Directory": "ملازمین کی فہرست"
+  ,"Payroll Reports": "تنخواہوں کی رپورٹس"
+  ,"ID, Name, CNIC, Phone...": "شناختی نمبر، نام، شناختی کارڈ، فون..."
+  ,"Ref:": "حوالہ:"
+  ,"Rs.": "روپے"
+  ,"View Profile": "پروفائل دیکھیں"
+  ,"Edit Details": "تفصیلات میں ترمیم"
+  ,"Remove Employee": "ملازم حذف کریں"
+  ,"registered employees": "رجسٹرڈ ملازمین"
+  ,", Pakistan": "، پاکستان"
+  ,"Edit Info": "معلومات میں ترمیم"
+  ,"Basic Salary": "بنیادی تنخواہ"
+  ,"Advance Spent": "استعمال شدہ پیشگی"
+  ,"Deducted Adv.": "منہا شدہ پیشگی"
+  ,"Pending Adv.": "باقی پیشگی"
+  ,"Process Salary Payment": "تنخواہ کی ادائیگی درج کریں"
+  ,"Bonus/Allow.": "بونس/الاؤنس"
+  ,"Overtime": "اوور ٹائم"
+  ,"Advance Ded.": "پیشگی کٹوتی"
+  ,"Net Salary": "خالص تنخواہ"
+  ,"Payment Date": "ادائیگی کی تاریخ"
+  ,"Method": "طریقۂ ادائیگی"
+  ,"No salary payments processed yet.": "ابھی تک تنخواہ کی کوئی ادائیگی درج نہیں ہوئی۔"
+  ,"+Rs.": "+روپے"
+  ,"-Rs.": "-روپے"
+  ,"Print Official Salary Pay Slip": "سرکاری تنخواہ سلپ پرنٹ کریں"
+  ,"Delete salary record": "تنخواہ کا ریکارڈ حذف کریں"
+  ,"Disburse Salary Advance": "تنخواہ کی پیشگی ادا کریں"
+  ,"Advance Amount": "پیشگی رقم"
+  ,"Disbursed / Reason": "ادا شدہ رقم / وجہ"
+  ,"Audit / Remarks": "آڈٹ / تفصیل"
+  ,"Opening Contract Advance Balance": "معاہدے کے آغاز کا پیشگی بیلنس"
+  ,"Added automatically at employee setup": "ملازم کا اندراج کرتے وقت خودکار طور پر شامل"
+  ,"Static": "مقررہ"
+  ,"No salary advances recorded.": "تنخواہ کی کوئی پیشگی رقم درج نہیں۔"
+  ,"Delete advance record": "پیشگی رقم کا ریکارڈ حذف کریں"
+  ,"The general ledger automatically maps salaries and other miscellaneous cash payouts matching the name/ID of": "جنرل لیجر میں اس نام یا شناختی نمبر کے مطابق تنخواہ اور دیگر نقد ادائیگیاں خودکار طور پر درج ہوتی ہیں:"
+  ,"in real-time.": "اور یہ تفصیل فوراً تازہ ہوتی ہے۔"
+  ,"Recorded Date": "اندراج کی تاریخ"
+  ,"Amount Outbound": "ادا شدہ رقم"
+  ,"Description Record": "تفصیل"
+  ,"Recorded By": "اندراج کنندہ"
+  ,"No expense entries found matching this employee.": "اس ملازم کے نام سے کوئی اخراجات درج نہیں ملے۔"
+  ,"Select Payroll Report": "تنخواہ کی رپورٹ منتخب کریں"
+  ,"Select Payroll Year": "تنخواہ کا سال منتخب کریں"
+  ,"Select Payroll Month": "تنخواہ کا مہینہ منتخب کریں"
+  ,"Disbursement Status": "ادائیگی کی حالت"
+  ,"Fully Paid": "مکمل ادا شدہ"
+  ,"Partial Payments": "جزوی ادائیگیاں"
+  ,"Unpaid / Deferred": "غیر ادا شدہ / مؤخر"
+  ,"Payment Method": "ادائیگی کا طریقہ"
+  ,"All Methods": "تمام طریقے"
+  ,"Cash Handout": "نقد ادائیگی"
+  ,"Bank Transfer": "بینک ٹرانسفر"
+  ,"EasyPaisa/JazzCash": "ایزی پیسہ/جاز کیش"
+  ,"Business Logo": "کاروبار کا لوگو"
+  ,"Proprietor:": "مالک:"
+  ,"Official Payroll Audit Report": "تنخواہوں کی سرکاری آڈٹ رپورٹ"
+  ,"Date:": "تاریخ:"
+  ,"Reg Code:": "رجسٹریشن کوڈ:"
+  ,"Period:": "مدت:"
+  ,"• Records:": "• ریکارڈ:"
+  ,"Accumulated Total Sum": "مجموعی کل رقم"
+  ,"Loading Report Ledgers...": "رپورٹ کے کھاتے لوڈ ہو رہے ہیں..."
+  ,"No payroll logs matching the search filters found.": "منتخب فلٹرز کے مطابق تنخواہ کا کوئی ریکارڈ نہیں ملا۔"
+  ,"👤 Personal Identification & Profile Info": "👤 ذاتی شناخت اور پروفائل کی معلومات"
+  ,"e.g. Raheel Muhammad": "مثلاً راحیل محمد"
+  ,"Father's full name": "والد کا پورا نام"
+  ,"37405-XXXXXXX-X": "37405-XXXXXXX-X"
+  ,"Secondary contact phone": "متبادل رابطہ فون"
+  ,"email@mandi.com": "email@mandi.com"
+  ,"Full resident address": "مکمل رہائشی پتہ"
+  ,"Rawalpindi / Sargodha": "راولپنڈی / سرگودھا"
+  ,"https://images.unsplash.com/... or upload link": "https://images.unsplash.com/... یا اپ لوڈ لنک"
+  ,"e.g. Malik Ahmad / Munshi": "مثلاً ملک احمد / منشی"
+  ,"Active / On duty": "فعال / ڈیوٹی پر"
+  ,"Inactive / Suspended": "غیر فعال / معطل"
+  ,"💼 Official Position & Salary Contract details": "💼 عہدہ اور تنخواہ کے معاہدے کی تفصیل"
+  ,"e.g. Weighbridge Clerk, Driver, Munshi": "مثلاً کانٹے کا کلرک، ڈرائیور، منشی"
+  ,"Weighing, Accounting, Loading": "وزن، حساب کتاب، لوڈنگ"
+  ,"Monthly Cycle": "ماہانہ"
+  ,"Pending loan/advance if any": "اگر کوئی قرض یا پیشگی باقی ہو"
+  ,"Provide details about emergency contact, medical info, previous employers, or references...": "ہنگامی رابطے، طبی معلومات، سابقہ ملازمت یا حوالہ کی تفصیل درج کریں..."
+  ,"Save employee file": "ملازم کا ریکارڈ محفوظ کریں"
+  ,"Disburse monthly salary to": "ماہانہ تنخواہ ادا کریں:"
+  ,"Salary Year": "تنخواہ کا سال"
+  ,"Salary Month": "تنخواہ کا مہینہ"
+  ,"Bonus / Reward": "بونس / انعام"
+  ,"Allowances": "الاؤنس"
+  ,"Overtime Pay": "اوور ٹائم کی ادائیگی"
+  ,"Advance Deduction": "پیشگی کی کٹوتی"
+  ,"Other Deductions": "دیگر کٹوتیاں"
+  ,"Net Take-Home Salary Calculation Formula": "خالص تنخواہ کا حساب"
+  ,"Basic + Bonus + Allowance + Overtime - Advance - Other Deductions": "بنیادی تنخواہ + بونس + الاؤنس + اوور ٹائم - پیشگی - دیگر کٹوتیاں"
+  ,"Calculated Salary": "حساب شدہ تنخواہ"
+  ,"Payment Status": "ادائیگی کی حالت"
+  ,"Mark as Fully Paid": "مکمل ادا شدہ نشان زد کریں"
+  ,"Mark as Partial Payment": "جزوی ادائیگی نشان زد کریں"
+  ,"Remarks & Audit Logs": "تفصیل اور آڈٹ ریکارڈ"
+  ,"e.g. Cleared pending advance and credited Eid Bonus": "مثلاً بقایا پیشگی منہا کی اور عید بونس شامل کیا"
+  ,"MANDATORY AUTOMATIC EXPENSE FLOW:": "لازمی خودکار اخراجات کا اندراج:"
+  ,"Marking this salary payment as": "اس تنخواہ کی ادائیگی کو"
+  ,"Paid": "ادا شدہ"
+  ,"or": "یا"
+  ,"Partial": "جزوی"
+  ,"will immediately register a general expense with category": "نشان زد کرنے پر اسی وقت عمومی اخراجات میں یہ مد درج ہوگی:"
+  ,"(including net salary payout + advance deducted) to update": "(خالص تنخواہ اور منہا شدہ پیشگی سمیت) تاکہ اپ ڈیٹ ہوں"
+  ,"in Dashboard stats and Profit & Loss calculations.": "ڈیش بورڈ کے اعداد و شمار اور نفع و نقصان کا حساب۔"
+  ,"Processing...": "کارروائی جاری ہے..."
+  ,"Confirm & Process Payment": "تصدیق کرکے ادائیگی درج کریں"
+  ,"Record Salary Advance": "تنخواہ کی پیشگی درج کریں"
+  ,"Disburse emergency advance to": "ہنگامی پیشگی ادا کریں:"
+  ,"Disbursement Date": "ادائیگی کی تاریخ"
+  ,"Reason for Loan / Advance": "قرض / پیشگی کی وجہ"
+  ,"e.g. Domestic medical expense, family travel": "مثلاً گھریلو علاج کا خرچ، خاندانی سفر"
+  ,"Office Remarks": "دفتر کی تفصیل"
+  ,"Add details about repayment or installments...": "واپسی یا قسطوں کی تفصیل درج کریں..."
+  ,"Recording...": "ریکارڈ کیا جا رہا ہے..."
+  ,"Confirm Advance": "پیشگی کی تصدیق کریں"
+  ,"Walk-In Buyer": "بغیر کھاتے کا گاہک"
+  ,"Customer Return": "گاہک کی واپسی"
+  ,"Consignment Lot Report": "سپرد کردہ مال کی لاٹ رپورٹ"
+  ,"Consignment Lot Sheet Report": "سپرد کردہ مال کی لاٹ شیٹ رپورٹ"
+  ,"Total Arrived Crates": "موصولہ کریٹوں کی کل تعداد"
+  ,"Crates Sold / Remaining": "فروخت شدہ / باقی کریٹ"
+  ,"Settlement Recorded": "حساب کا تصفیہ درج ہے"
+  ,"Crate Sales Breakdown ({{count}} Transactions)": "کریٹوں کی فروخت کی تفصیل ({{count}} لین دین)"
+  ,"Customer / Buyer": "گاہک / خریدار"
+  ,"Qty Sold": "فروخت شدہ مقدار"
+  ,"Gross Sale (Rs)": "کل فروخت (روپے)"
+  ,"No sales recorded for this lot yet.": "اس لاٹ کی فروخت ابھی درج نہیں ہوئی۔"
+  ,"Total Gross Crate Sales": "کریٹوں کی مجموعی فروخت"
+  ,"Raw Sales": "اصل فروخت"
+  ,"Less Beopari/Grower Commission ({{rate}})": "بیوپاری کا کمیشن منہا ({{rate}})"
+  ,"Less Other Lot Expenses": "لاٹ کے دیگر اخراجات منہا"
+  ,"Net Payable to Beopari/Grower": "بیوپاری کو خالص واجب الادا رقم"
+  ,"Report Generated on": "رپورٹ تیار ہونے کی تاریخ"
+  ,"Invoice No": "انوائس نمبر"
+  ,"Sale Rate (Rs)": "فروخت کا نرخ (روپے)"
+  ,"RETURN": "واپسی"
+  ,"SUMMARY & DEDUCTIONS FOR LOT": "لاٹ کا خلاصہ اور کٹوتیاں"
+  ,"Total Gross Crate Sales (Rs)": "کریٹوں کی مجموعی فروخت (روپے)"
+  ,"Beopari/Grower Commission (Rs)": "بیوپاری کا کمیشن (روپے)"
+  ,"Total Other Lot Expenses (Rs)": "لاٹ کے دیگر اخراجات (روپے)"
+  ,"Net Payable to Beopari/Grower (Rs)": "بیوپاری کو خالص واجب الادا رقم (روپے)"
+  ,"Recorded Settlement": "حساب کا تصفیہ درج ہے"
+  ,"Fully Sold (Pending Settlement)": "مکمل فروخت (تصفیہ زیرِ التوا)"
+  ,"In Stock / Active": "اسٹاک میں / فعال"
+  ,"Back to All Lots": "تمام لاٹس پر واپس جائیں"
+  ,"PRINT LOT SHEET": "لاٹ شیٹ پرنٹ کریں"
+  ,"Gross Crate Sales": "کریٹوں کی مجموعی فروخت"
+  ,"Not Available / Pending": "دستیاب نہیں / زیرِ التوا"
+  ,"Sales entries recorded": "{{count}} فروخت کے اندراجات محفوظ ہیں"
+  ,"Rs / unit": "روپے / فی یونٹ"
+  ,"Itemized expenses": "{{count}} مدّات کے اخراجات"
+  ,"No extra charges": "کوئی اضافی چارجز نہیں"
+  ,"Consignment Settlement Deductions & Other Lot Expenses": "سپرد کردہ مال کے تصفیے کی کٹوتیاں اور لاٹ کے دیگر اخراجات"
+  ,"Broker commission and operational freight/labor expenses charged to this consignment lot": "اس لاٹ پر کمیشن ایجنٹ کا کمیشن، مال برداری اور مزدوری کے اخراجات"
+  ,"Beopari/Grower Commission": "بیوپاری کا کمیشن"
+  ,"Rs/unit": "روپے فی یونٹ"
+  ,"Total Other Lot Expenses": "لاٹ کے دیگر کل اخراجات"
+  ,"No Additional Expenses": "کوئی اضافی اخراجات نہیں"
+  ,"Itemized Lot Charges Breakdown": "لاٹ کے اخراجات کی مد وار تفصیل"
+  ,"Net Calculated Payable to Beopari/Grower for this Lot": "اس لاٹ کے لیے بیوپاری کو حساب شدہ خالص واجب الادا رقم"
+  ,"Ded": "کٹوتی"
+  ,"Returned Stock Value Deductions": "واپس شدہ مال کی مالیت کی کٹوتیاں ({{count}} واپسی)"
+  ,"Crates Returned": "واپس کیے گئے کریٹ"
+  ,"Return #": "واپسی نمبر"
+  ,"Gross Return Minus": "مجموعی واپسی کی کٹوتی"
+  ,"Condition": "حالت"
+  ,"Gross Sale Value": "مجموعی فروخت کی رقم"
+  ,"No Crate Sales Recorded Yet": "کریٹوں کی فروخت ابھی درج نہیں ہوئی"
+  ,"This lot is currently in stock. Available Information:": "یہ لاٹ فی الحال اسٹاک میں ہے۔ دستیاب معلومات:"
+  ,"Arrived Quantity": "موصولہ مقدار"
+  ,"Crate sales transactions & settlement data will automatically populate as sales occur.": "فروخت ہونے پر کریٹوں کے لین دین اور تصفیے کی تفصیل خود بخود ظاہر ہوگی۔"
+  ,"Lot Wise Consignment Reports": "لاٹ کے حساب سے سپرد کردہ مال کی رپورٹس"
+  ,"Read-only lot tracking, crate sales breakdown, and arrival logs for all lots sent by your account": "آپ کے اکاؤنٹ سے بھیجی گئی تمام لاٹس کی صرف مطالعے کے لیے نگرانی، کریٹوں کی فروخت اور آمد کا ریکارڈ"
+  ,"REFRESH LOTS": "لاٹس تازہ کریں"
+  ,"Search lots by Lot #, Product name, or Date...": "لاٹ نمبر، جنس کے نام یا تاریخ سے لاٹس تلاش کریں..."
+  ,"Active / In Stock": "فعال / اسٹاک میں"
+  ,"Fully Sold": "مکمل فروخت"
+  ,"Newest First": "تازہ ترین پہلے"
+  ,"Oldest First": "قدیم ترین پہلے"
+  ,"Total Crates": "کل کریٹ"
+  ,"Other Exp": "دیگر اخراجات"
+  ,"Net": "خالص"
+  ,"View Detailed Lot Sheet & Sales": "لاٹ شیٹ اور فروخت کی مکمل تفصیل دیکھیں"
+  ,"No Lot Reports Found": "لاٹ کی کوئی رپورٹ نہیں ملی"
+  ,"No consignment lots match your current search or filter criteria. Try clearing search keywords.": "آپ کی تلاش یا فلٹر کے مطابق کوئی لاٹ نہیں ملی۔ تلاش کے الفاظ ہٹا کر دیکھیں۔"
+  ,"You have not sent any crop or vegetable consignment lots to Lahore Mandi yet.": "آپ نے ابھی لاہور منڈی میں فصل یا سبزی کی کوئی لاٹ نہیں بھیجی۔"
+  ,"Good": "درست"
+  ,"Damaged": "خراب"
+  ,"Spoiled": "سڑا ہوا"
+  ,"Failed to load initial data from server.": "سرور سے ابتدائی معلومات حاصل نہیں ہو سکیں۔"
+  ,"Please select a farmer consignment batch Lot.": "براہ کرم بیوپاری کی بھیجی ہوئی لاٹ منتخب کریں۔"
+  ,"Please enter a valid selling rate.": "براہ کرم فروخت کا درست نرخ درج کریں۔"
+  ,"Please enter a valid rate.": "براہ کرم درست نرخ درج کریں۔"
+  ,"Please select at least one customer using the checkbox.": "چیک باکس کے ذریعے کم از کم ایک گاہک منتخب کریں۔"
+  ,"Quantity for {{name}} must be a valid positive number.": "{{name}} کے لیے مقدار مثبت اور درست عدد ہونی چاہیے۔"
+  ,"Rate for {{name}} must be a valid positive number.": "{{name}} کے لیے نرخ مثبت اور درست عدد ہونا چاہیے۔"
+  ,"Requested total quantity ({{requested}}) exceeds available consignment stock ({{available}}).": "درج کردہ کل مقدار ({{requested}}) دستیاب لاٹ کے مال ({{available}}) سے زیادہ ہے۔"
+  ,"Batch Consignment Sale recorded successfully!": "لاٹ کی مجموعی فروخت کامیابی سے درج ہوگئی!"
+  ,"Batch Sale with Custom Rates recorded successfully!": "مختلف نرخوں پر لاٹ کی فروخت کامیابی سے درج ہوگئی!"
+  ,"Failed to record batch sale.": "لاٹ کی فروخت درج نہیں ہوسکی۔"
+  ,"Rate applied to all checked customers.": "نرخ تمام منتخب گاہکوں پر لاگو کردیا گیا۔"
+  ,"Preview Batch Sale": "لاٹ کی فروخت کا جائزہ"
+  ,"Preview Batch Sale (Custom Rate)": "مختلف نرخوں پر فروخت کا جائزہ"
+  ,"Review allocation details before recording": "درج کرنے سے پہلے تقسیم کی تفصیل دیکھ لیں"
+  ,"Consignment Details": "لاٹ کی تفصیل"
+  ,"Sale Date": "فروخت کی تاریخ"
+  ,"Rate/Unit": "فی اکائی نرخ"
+  ,"Allocated Buyers": "مال وصول کرنے والے خریدار"
+  ,"Gross Amount": "مجموعی رقم"
+  ,"Batch Totals": "لاٹ کا مجموعی حساب"
+  ,"Total Qty Allocated": "تقسیم شدہ کل مقدار"
+  ,"Total Commission": "کل کمیشن"
+  ,"Total Receivable": "کل قابلِ وصول رقم"
+  ,"Remaining Stock After Sale": "فروخت کے بعد باقی اسٹاک"
+  ,"Loading batch sale form data...": "فروخت کا فارم لوڈ ہورہا ہے..."
+  ,"Back to Sales Ledger": "فروخت کے کھاتے پر واپس جائیں"
+  ,"Record Batch Consignment Sale": "لاٹ کی مجموعی فروخت درج کریں"
+  ,"Allocate and sell arrivals from a single farmer consignment batch to multiple buyers quickly": "ایک بیوپاری کی لاٹ کا موصولہ مال جلدی سے متعدد خریداروں میں تقسیم کرکے فروخت کریں"
+  ,"1. Select Consignment & Price": "1۔ لاٹ اور نرخ منتخب کریں"
+  ,"1. Select Consignment & Commission": "1۔ لاٹ اور کمیشن منتخب کریں"
+  ,"Farmer Consignment Batch (Lot)": "بیوپاری کی بھیجی ہوئی لاٹ"
+  ,"Choose Active Consignment": "فعال لاٹ منتخب کریں"
+  ,"units left": "اکائیاں باقی"
+  ,"LOT NUMBER": "لاٹ نمبر"
+  ,"BEOPARI/GROWER (FARMER)": "بیوپاری"
+  ,"PRODUCT": "جنس"
+  ,"ARRIVAL DATE": "آمد کی تاریخ"
+  ,"TOTAL QUANTITY": "کل مقدار"
+  ,"AVAILABLE QUANTITY": "دستیاب مقدار"
+  ,"Select a Farmer consignment batch above to populate batch details and active rates.": "لاٹ کی تفصیل اور موجودہ نرخ دیکھنے کے لیے اوپر بیوپاری کی لاٹ منتخب کریں۔"
+  ,"Select a Farmer consignment batch above to populate batch details.": "لاٹ کی تفصیل دیکھنے کے لیے اوپر بیوپاری کی لاٹ منتخب کریں۔"
+  ,"Selling Rate (Rs. / unit)": "فروخت کا نرخ (روپے / فی اکائی)"
+  ,"Enter sale rate": "فروخت کا نرخ درج کریں"
+  ,"of Sale": "فروخت پر"
+  ,"Requested Qty": "درکار مقدار"
+  ,"Gross Sale (Beopari/Grower Credit)": "مجموعی فروخت (بیوپاری کے کھاتے میں)"
+  ,"Buyer Comm. Recovered": "خریدار سے وصول شدہ کمیشن"
+  ,"Total Customer Purchase Value": "گاہک کی کل خریداری"
+  ,"Warning: Requested batch sale quantity exceeds active available stock by {{quantity}} units!": "انتباہ: مطلوبہ فروخت کی مقدار دستیاب اسٹاک سے {{quantity}} اکائیاں زیادہ ہے!"
+  ,"Discard Draft?": "نامکمل فارم ختم کریں؟"
+  ,"Discard all unsaved progress and go back?": "کیا محفوظ نہ کی گئی تمام تبدیلیاں ختم کرکے واپس جانا ہے؟"
+  ,"Recording Ledger Vouchers...": "کھاتے کی رسیدیں درج ہورہی ہیں..."
+  ,"Save Batch Sale Voucher": "لاٹ کی فروخت کی رسید محفوظ کریں"
+  ,"Search & select buyers to allocate quantity:": "مقدار تقسیم کرنے کے لیے خریدار تلاش کرکے منتخب کریں:"
+  ,"Search & select buyers to allocate quantity and rate:": "مقدار اور نرخ تقسیم کرنے کے لیے خریدار تلاش کرکے منتخب کریں:"
+  ,"Quantity to Allocate": "تقسیم کی جانے والی مقدار"
+  ,"Discount (Rs.)": "رعایت (روپے)"
+  ,"Total Bill (Rs.)": "کل بل (روپے)"
+  ,"Walk-In Customer": "بغیر کھاتے کا گاہک"
+  ,"Comm": "کمیشن"
+  ,"Batch Sale (Custom Rate)": "مختلف نرخوں پر لاٹ کی فروخت"
+  ,"Record batch sales with individual rates per customer": "ہر گاہک کے لیے الگ نرخ کے ساتھ لاٹ کی فروخت درج کریں"
+  ,"TOTAL QTY": "کل مقدار"
+  ,"AVAILABLE": "دستیاب"
+  ,"Commission Rate": "کمیشن کا نرخ"
+  ,"e.g. 5%": "مثلاً 5٪"
+  ,"e.g. 40 Rs./unit": "مثلاً 40 روپے فی اکائی"
+  ,"2. Allocate Quantities & Rates to Buyers": "2۔ خریداروں میں مقدار اور نرخ تقسیم کریں"
+  ,"Live Allocation Balance Sheet": "تقسیم کا موجودہ حساب"
+  ,"Total Comm": "کل کمیشن"
+  ,"Warning: Requested quantity exceeds available stock by {{quantity}} units!": "انتباہ: مطلوبہ مقدار دستیاب اسٹاک سے {{quantity}} اکائیاں زیادہ ہے!"
+  ,"Set Rate for All": "سب کے لیے نرخ مقرر کریں"
+  ,"Recording Vouchers...": "رسیدیں درج ہورہی ہیں..."
+  ,"Rate (Rs. / unit)": "نرخ (روپے / فی اکائی)"
+  ,"Set Rate for All Checked Customers": "تمام منتخب گاہکوں کے لیے نرخ مقرر کریں"
+  ,"Enter rate": "نرخ درج کریں"
+  ,"No data to export.": "برآمد کرنے کے لیے کوئی معلومات موجود نہیں۔"
+  ,"Walk-In Sold Qty": "براہِ راست فروخت شدہ مقدار"
+  ,"Registered Sold Qty": "رجسٹرڈ گاہکوں کو فروخت شدہ مقدار"
+  ,"Gross Sales Turnover (Rs.)": "مجموعی فروخت (روپے)"
+  ,"Commission (Rs.)": "کمیشن (روپے)"
+  ,"Lot Status": "لاٹ کی حالت"
+  ,"Mandi Trade Ledger - Sold Consignment Lots Report": "منڈی کا کاروباری کھاتہ - فروخت شدہ لاٹس کی رپورٹ"
+  ,"Consignment Lots Ledger Master Sheet": "لاٹس کے کھاتے کی مرکزی شیٹ"
+  ,"GRAND TOTALS": "مجموعی کل"
+  ,"Lahore Sabzi & Fruit Mandi Commission Brokerage Platform • Authorized Copy": "لاہور سبزی و فروٹ منڈی کمیشن بروکریج پلیٹ فارم • مجاز نقل"
+  ,"RET": "واپسی"
+  ,"Produce Return": "مال کی واپسی"
+  ,"Sabzi & Fruit Mandi Trade Brokerage": "سبزی و فروٹ منڈی تجارتی بروکریج"
+  ,"Mandi OS Platform, Pakistan": "منڈی او ایس پلیٹ فارم، پاکستان"
+  ,"Arthi Reg Code": "آڑھتی رجسٹریشن کوڈ"
+  ,"CONSIGNMENT LOT SETTLEMENT VOUCHER": "لاٹ کے تصفیے کی رسید"
+  ,"Issued": "اجرا کی تاریخ"
+  ,"Consignment & Beopari/Grower Profile": "لاٹ اور بیوپاری کی تفصیل"
+  ,"Contact Phone": "رابطہ نمبر"
+  ,"Commodity Produce": "جنس"
+  ,"Inventory Disposal Summary": "اسٹاک کی فروخت کا خلاصہ"
+  ,"Initial Received Qty": "ابتدائی موصولہ مقدار"
+  ,"Disposed / Sold Qty": "فروخت شدہ مقدار"
+  ,"Remaining Balance": "باقی بیلنس"
+  ,"Recorded to Payables": "واجب الادا کھاتے میں درج"
+  ,"Customer Trades & Invoices Log": "گاہکوں کے لین دین اور انوائس کا ریکارڈ"
+  ,"Buyer Name": "خریدار کا نام"
+  ,"Gross Value": "مجموعی مالیت"
+  ,"Net Value": "خالص مالیت"
+  ,"NET TOTALS FOR LOT #{{lot}} (Sales - Returns)": "لاٹ نمبر {{lot}} کا خالص حساب (فروخت - واپسی)"
+  ,"Beopari/Grower Settlement & Deductions Breakdown": "بیوپاری کے تصفیے اور کٹوتیوں کی تفصیل"
+  ,"Gross Consignment Sales Value (Credit)": "لاٹ کی مجموعی فروخت (کریڈٹ)"
+  ,"Beopari/Grower Brokerage Commission ({{rate}} {{type}})": "بیوپاری کا بروکریج کمیشن ({{rate}} {{type}})"
+  ,"per unit": "فی اکائی"
+  ,"fixed": "مقررہ"
+  ,"Market / Sarkari Fee ({{rate}}%)": "مارکیٹ / سرکاری فیس ({{rate}}٪)"
+  ,"Lot Expense Deductions": "لاٹ کے اخراجات کی کٹوتی"
+  ,"NET PAYABLE TO BEOPARI/GROWER": "بیوپاری کو خالص واجب الادا"
+  ,"Mandi Clerk Signature": "منڈی کلرک کے دستخط"
+  ,"Authorized Stamp & Signature": "مجاز مہر اور دستخط"
+  ,"Professional Lot Voucher": "لاٹ کی باقاعدہ رسید"
+  ,"Loading Sold Consignments Archives...": "فروخت شدہ لاٹس کا ریکارڈ لوڈ ہورہا ہے..."
+  ,"This consignment lot is already settled & recorded to payables. Settlement configuration is locked.": "اس لاٹ کا تصفیہ پہلے ہی مکمل کرکے واجبات میں درج کیا جاچکا ہے۔ تصفیے کی ترتیب مقفل ہے۔"
+  ,"Beopari/Grower Lot Settlement configuration saved successfully!": "بیوپاری کی لاٹ کے تصفیے کی ترتیب کامیابی سے محفوظ ہوگئی!"
+  ,"Failed to save lot financial settlement": "لاٹ کے مالی تصفیے کی ترتیب محفوظ نہیں ہوسکی"
+  ,"This consignment lot settlement has already been recorded to Outstanding Payables and Beopari/Grower Supply Value.": "اس لاٹ کا تصفیہ واجب الادا رقم اور بیوپاری کے فراہم کردہ مال کے کھاتے میں پہلے ہی درج ہے۔"
+  ,"Successfully recorded Rs. {{amount}} to Outstanding Payables and Beopari/Grower Supply Value!": "روپے {{amount}} واجبات اور بیوپاری کے فراہم کردہ مال کے کھاتے میں کامیابی سے درج ہوگئے!"
+  ,"Failed to record lot settlement": "لاٹ کا تصفیہ درج نہیں ہوسکا"
+  ,"Sold Consignments Ledger": "فروخت شدہ لاٹس کا کھاتہ"
+  ,"Audit, track, export, and print completed consignment sales across all stock lots and beopari/growers": "تمام اسٹاک لاٹس اور بیوپاریوں کی مکمل فروخت کا جائزہ لیں، ریکارڈ رکھیں، برآمد اور پرنٹ کریں"
+  ,"Export Ledger (CSV)": "کھاتہ برآمد کریں (CSV)"
+  ,"Quick search products, beopari/growers, customers, lots...": "جنس، بیوپاری، گاہک یا لاٹ تلاش کریں..."
+  ,"{{count}} lots selected for bulk actions": "اجتماعی کارروائی کے لیے {{count}} لاٹس منتخب ہیں"
+  ,"Print Selected Lots": "منتخب لاٹس پرنٹ کریں"
+  ,"Export Selected (CSV)": "منتخب لاٹس برآمد کریں (CSV)"
+  ,"Consignment Lot #": "سپرد کردہ مال کی لاٹ نمبر"
+  ,"Commodity Product": "جنس"
+  ,"Click row to inspect lot details": "لاٹ کی تفصیل دیکھنے کے لیے قطار منتخب کریں"
+  ,"{{count}} invoice(s) recorded": "{{count}} انوائس درج ہیں"
+  ,"Unknown Beopari/Grower": "نامعلوم بیوپاری"
+  ,"No Contact": "رابطہ نمبر موجود نہیں"
+  ,"See Date-Wise Consignment Sales Breakdown in New Window": "لاٹ کی تاریخ وار فروخت نئی ونڈو میں دیکھیں"
+  ,"See Date Wise": "تاریخ وار دیکھیں"
+  ,"Inspect In-Page": "اسی صفحے پر تفصیل دیکھیں"
+  ,"No consignment lots found matching the search criteria.": "تلاش کے مطابق کوئی لاٹ نہیں ملی۔"
+  ,"Back to Master Sold Consignments": "فروخت شدہ لاٹس کی فہرست پر واپس جائیں"
+  ,"Lot Sheet Inspection": "لاٹ شیٹ کا معائنہ"
+  ,"Consignment Batch Master Code": "لاٹ کا مرکزی کوڈ"
+  ,"Calculate net payable and post final settlement (Bikri Parchi) to Beopari/Grower Khata & Outstanding Payables": "خالص واجب الادا رقم کا حساب کرکے آخری تصفیہ (بکری پرچی) بیوپاری کے کھاتے اور واجبات میں درج کریں"
+  ,"Settling...": "تصفیہ درج ہورہا ہے..."
+  ,"Settled in Payables (Rs. {{amount}})": "روپے {{amount}} واجبات میں درج کرکے تصفیہ مکمل"
+  ,"Submit to Payables (Bikri Parchi)": "واجبات میں درج کریں (بکری پرچی)"
+  ,"Print Professional Lot Voucher": "لاٹ کی باقاعدہ رسید پرنٹ کریں"
+  ,"Download PDF Voucher": "PDF رسید ڈاؤن لوڈ کریں"
+  ,"Consignment Product": "لاٹ کی جنس"
+  ,"Produce": "زرعی مال"
+  ,"Original Quantity": "ابتدائی مقدار"
+  ,"Disposed": "فروخت شدہ"
+  ,"units": "اکائیاں"
+  ,"Broker Commissions": "بروکریج کمیشن"
+  ,"Supplier": "فراہم کنندہ"
+  ,"Closed": "بند"
+  ,"Beopari/Grower Portfolio": "بیوپاری کی تفصیل"
+  ,"Beopari/Grower Mobile": "بیوپاری کا موبائل نمبر"
+  ,"No Phone": "فون نمبر موجود نہیں"
+  ,"Total Mandi Supplies": "منڈی میں کل فراہم کردہ مال"
+  ,"Beopari/Grower Settlement & Expense Deductions Configuration": "بیوپاری کے تصفیے اور اخراجات کی کٹوتیوں کی ترتیب"
+  ,"Configure beopari/grower commission & additional lot expenses. Deductions here adjust beopari/grower payable balance.": "بیوپاری کا کمیشن اور لاٹ کے اضافی اخراجات مقرر کریں۔ یہاں کی کٹوتیاں بیوپاری کی واجب الادا رقم پر اثر انداز ہوں گی۔"
+  ,"Settlement configuration is locked (Lot already settled & recorded to payables)": "تصفیے کی ترتیب مقفل ہے (لاٹ کا تصفیہ ہوچکا اور واجبات میں درج ہے)"
+  ,"Save Settlement Configuration": "تصفیے کی ترتیب محفوظ کریں"
+  ,"Configuration Locked (Settled)": "ترتیب مقفل ہے (تصفیہ مکمل)"
+  ,"1. Beopari/Grower Commission Rule": "1۔ بیوپاری کے کمیشن کا اصول"
+  ,"Fixed Per Unit": "فی اکائی مقررہ"
+  ,"Commission Deduction": "کمیشن کی کٹوتی"
+  ,"2. Market / Sarkari Fee": "2۔ مارکیٹ / سرکاری فیس"
+  ,"Market / Sarkari Fee Amount (Rs.)": "مارکیٹ / سرکاری فیس کی رقم (روپے)"
+  ,"Fixed Amount (Rs.)": "مقررہ رقم (روپے)"
+  ,"Enter fixed Rs. amount": "مقررہ روپے کی رقم درج کریں"
+  ,"Applied once as a fixed amount per consignment lot.": "ہر مال کی لاٹ پر ایک مرتبہ مقررہ رقم لاگو ہوگی۔"
+  ,"Fixed Market / Sarkari Fee": "مقررہ مارکیٹ / سرکاری فیس"
+  ,"Average Fee per Lot": "فی لاٹ اوسط فیس"
+  ,"e.g. 1.5 or 2": "مثلاً 1.5 یا 2"
+  ,"Market Fee Deduction": "مارکیٹ فیس کی کٹوتی"
+  ,"3. Additional Expense Deductions": "3۔ اضافی اخراجات کی کٹوتیاں"
+  ,"Via Settings": "ترتیبات کے مطابق"
+  ,"No active expense categories loaded.": "اخراجات کی کوئی فعال قسم لوڈ نہیں ہوئی۔"
+  ,"Additional Expenses": "اضافی اخراجات"
+  ,"Gross Sales Value (خام بکری)": "مجموعی فروخت کی مالیت (خام بکری)"
+  ,"Raw": "اصل"
+  ,"Return": "واپسی"
+  ,"Comm. & Market Fee": "کمیشن اور مارکیٹ فیس"
+  ,"Fee ({{rate}}%)": "فیس ({{rate}}٪)"
+  ,"Total Beopari/Grower Deductions": "بیوپاری کی کل کٹوتیاں"
+  ,"Returned Stock Value Deductions ({{count}} Returns)": "واپس شدہ اسٹاک کی مالیت کی کٹوتیاں ({{count}} واپسی)"
+  ,"Total Returned Deducted": "واپسی کی کل کٹوتی"
+  ,"Produce Restocked": "مال دوبارہ اسٹاک میں شامل"
+  ,"Customer Sales Allocation History ({{count}} trades)": "گاہکوں میں فروخت کی تفصیل ({{count}} لین دین)"
+  ,"Invoice ID": "انوائس شناختی نمبر"
+  ,"Buyer": "خریدار"
+  ,"Buyer Type": "خریدار کی قسم"
+  ,"Net Receivable": "خالص قابلِ وصول رقم"
+  ,"Chronological Inventory Movement Flow": "اسٹاک کی تاریخ وار نقل و حرکت"
+  ,"Party": "فریق"
+  ,"Running Balance": "جاری بیلنس"
+  ,"System Audit Logs (Lots/Vouchers)": "لاٹس اور رسیدوں کا نظامی آڈٹ ریکارڈ"
+  ,"User": "صارف"
+  ,"No matching activity logs recorded for this stock batch.": "اس اسٹاک لاٹ کے لیے کوئی متعلقہ سرگرمی درج نہیں۔"
+  ,"In-Page Voucher Preview": "رسید کا پیش منظر"
+  ,"Print Voucher": "رسید پرنٹ کریں"
+  ,"Download PDF": "PDF ڈاؤن لوڈ کریں",
+  "Total Bill": "کل بل",
+  "Fast Retail": "نقد فروخت",
+  "Registered": "رجسٹرڈ",
+  "Gross Sale": "مجموعی فروخت",
+  "Confirm & Record Sale": "تصدیق کریں اور فروخت درج کریں",
+  "Lot Information": "لاٹ کی معلومات",
+  "BEOPARI/GROWER": "بیوپاری",
+  "Discard Draft": "مسودہ ختم کریں",
+  "Search buyer name or phone...": "خریدار کا نام یا فون تلاش کریں...",
+  "Select": "منتخب کریں",
+  "Apply": "لاگو کریں",
+  "Gross Turnover": "مجموعی فروخت",
+  "Comm.": "کمیشن",
+  "Reset": "ری سیٹ کریں",
+  "Professional Consignment Lot Voucher": "لاٹ کی باقاعدہ رسید",
+  "Active Trading": "کاروبار جاری ہے",
+  "Allow pop-up windows to print this Urdu report or save it as PDF.": "اردو رپورٹ پرنٹ کرنے یا PDF کے طور پر محفوظ کرنے کے لیے پاپ اپ ونڈوز کی اجازت دیں۔",
+  "Total Cost Payable": "قابل ادائیگی کل رقم",
+  "Review all fruits & vegetables purchased from the Mandi": "منڈی سے خریدے گئے تمام پھل اور سبزیوں کا جائزہ لیں",
+  "Lahore Sabzi & Fruit Mandi": "لاہور سبزی و فروٹ منڈی",
+  "Opening balance is read-only because this supplier has purchase or financial transaction history.": "اس بیوپاری کی خریداری یا مالی لین دین کی تاریخ موجود ہے، اس لیے ابتدائی بیلنس میں ترمیم نہیں ہو سکتی۔",
+  "Opening balance is read-only because this customer has purchase or financial transaction history.": "اس گاہک کی خریداری یا مالی لین دین کی تاریخ موجود ہے، اس لیے ابتدائی بیلنس میں ترمیم نہیں ہو سکتی۔",
+  "ARHTI CODE": "آڑھتی کوڈ",
+  "Business logo": "کاروبار کا لوگو",
+  "Business mark": "کاروباری نشان",
+  "MandiOS Business Report": "منڈی او ایس کاروباری رپورٹ",
+  "Report header": "رپورٹ کا عنوان",
+  "Report Period": "رپورٹ کا دورانیہ",
+  "Sales Tax Invoice": "سیلز ٹیکس انوائس",
+  "OFFICIAL SALARY PAY SLIP": "سرکاری تنخواہ کی رسید",
+  "Employee": "ملازم",
+  "Records": "ریکارڈز",
+  "Access Restricted": "رسائی محدود ہے",
+  "Active Sales Date(s) Recorded": "فروخت کی سرگرم تاریخیں درج ہیں",
+  "All Commodities": "تمام اجناس",
+  "All Entities (تمام فریق)": "تمام فریق",
+  "All Modes (تمام ذرائع)": "تمام طریقے",
+  "All Transactions (Debit & Credit)": "تمام لین دین (ڈیبٹ اور کریڈٹ)",
+  "All Transactions (تمام اندراجات)": "تمام لین دین",
+  "BANAM / بنام (OUTFLOWS & EXPENSES)": "بنام (ادائیگیاں اور اخراجات)",
+  "Batch Invoice(s) Created On This Date": "اس تاریخ کو بنائے گئے بیچ انوائس",
+  "Beopari/Grower Catalog Ledger": "بیوپاری/کاشتکار کھاتہ",
+  "Billed Consignments": "بل شدہ لاٹس",
+  "Billed Customer": "بل شدہ گاہک",
+  "Billing Tax Invoice": "ٹیکس انوائس",
+  "Broker Commission": "آڑھتی کمیشن",
+  "Broker Commission (کمیشن)": "آڑھتی کمیشن",
+  "Brokerage Commission Revenue": "آڑھتی کمیشن کی آمدن",
+  "Buyer / Customer Name": "خریدار / گاہک کا نام",
+  "Cash Balance": "نقد بیلنس",
+  "Commission Agent": "کمیشن ایجنٹ",
+  "Commission Agent (Malik) Signature": "کمیشن ایجنٹ (مالک) کے دستخط",
+  "Comprehensive double-entry cash till balance, customer recoveries, payouts, daily shop expenses, and trade auctions.": "نقد کھاتے کا مکمل دوہرا اندراج، گاہکوں سے وصولیاں، ادائیگیاں، روزمرہ دکان کے اخراجات اور منڈی کی نیلامی۔",
+  "Computer Generated Tax Voucher": "کمپیوٹر سے تیار کردہ ٹیکس رسید",
+  "Consignment & Auction Operations Summary": "مال کی آمد اور نیلامی کا خلاصہ",
+  "Consignment Beopari/Grower & Lot": "مال کا بیوپاری/کاشتکار اور لاٹ",
+  "Consignment Lot Ledger Report": "مال کے لاٹ کا کھاتہ رپورٹ",
+  "Consignment Report Filters": "مال کی رپورٹ کے فلٹر",
+  "Consignment Sales & Turnover": "مال کی فروخت اور کاروباری حجم",
+  "Credit (Consignment Credits Only)": "کریڈٹ (صرف مال کی فروخت)",
+  "Credit (Jama)": "کریڈٹ (جمع)",
+  "Credit (Payments Received Only)": "کریڈٹ (صرف وصول شدہ ادائیگیاں)",
+  "Credit / جمع (Rs)": "کریڈٹ / جمع (روپے)",
+  "Current closing ledger status": "کھاتے کی موجودہ اختتامی صورتحال",
+  "Customer Portfolio Ledger": "گاہکوں کا مجموعی کھاتہ",
+  "Customer Type": "گاہک کی قسم",
+  "Daily Cash Flow Dynamics (Inflows vs Outflows)": "روزانہ نقد بہاؤ (آمدن بمقابلہ ادائیگیاں)",
+  "Daily Financial Journal": "روزانہ مالی روزنامچہ",
+  "Date-Wise Consignment Sales & Record Batch Invoices Breakdown": "تاریخ کے لحاظ سے مال کی فروخت اور بیچ انوائسز کی تفصیل",
+  "Date-Wise Sales Breakdown": "تاریخ کے لحاظ سے فروخت کی تفصیل",
+  "Day Book / روزنامچہ (Roznamcha)": "روزنامچہ",
+  "Debit (Banam)": "ڈیبٹ (بنام)",
+  "Debit (Disbursed Payments Only)": "ڈیبٹ (صرف ادا شدہ رقوم)",
+  "Debit (Sales Purchases Only)": "ڈیبٹ (صرف فروخت/خریداری)",
+  "Debit / بنام (Rs)": "ڈیبٹ / بنام (روپے)",
+  "Dedicated Invoice Page": "انوائس کا مخصوص صفحہ",
+  "Disbursed Cash Payments (Debit)": "ادا شدہ نقد رقوم (ڈیبٹ)",
+  "Discount Applied:": "رعایت:",
+  "Excel / CSV": "ایکسل / CSV",
+  "Fetching Beopari/Grower Ledger Entries...": "بیوپاری/کاشتکار کے کھاتے کا ریکارڈ حاصل کیا جا رہا ہے...",
+  "Fetching Consignment Vouchers...": "مال کی رسیدیں حاصل کی جا رہی ہیں...",
+  "Fetching Customer Ledger Entries...": "گاہک کے کھاتے کا ریکارڈ حاصل کیا جا رہا ہے...",
+  "Generating Invoice Document...": "انوائس تیار کی جا رہی ہے...",
+  "Gross Sales Turnover": "مجموعی فروخت",
+  "Gross sales credits posted": "مجموعی فروخت کا کریڈٹ درج کیا گیا",
+  "JAMA / جمع (INFLOWS & RECEIPTS)": "جمع (آمدن اور وصولیاں)",
+  "Ledger Statement Filters & Range": "کھاتے کی رپورٹ کے فلٹر اور مدت",
+  "Loading Consignment Lot Sheet Data...": "مال کے لاٹ کی تفصیل لوڈ ہو رہی ہے...",
+  "Lot Ref": "لاٹ حوالہ",
+  "Mandi Arthi Code:": "منڈی آڑھتی کوڈ:",
+  "Mandi Cash Till Balancing Equation:": "منڈی کے نقد کھاتے کا حساب:",
+  "Mandi Commission Balancing Protocol": "منڈی کمیشن کا حسابی طریقہ",
+  "Mandi OS • Sabzi & Fruit Brokerage System": "منڈی او ایس • سبزی و فروٹ بروکریج سسٹم",
+  "Munshi / Cashier Signature": "منشی / کیشیئر کے دستخط",
+  "NET TOTAL AMOUNT:": "کل قابل ادائیگی رقم:",
+  "Net Account Balance": "کھاتے کا خالص بیلنس",
+  "Net Closing Till (باقی کیش)": "اختتامی نقد بیلنس",
+  "Net Gross Turnover": "خالص مجموعی کاروبار",
+  "Net Payable Balance": "خالص قابل ادائیگی بیلنس",
+  "Net commission earned": "خالص کمیشن آمدن",
+  "Net flow:": "خالص نقد بہاؤ:",
+  "New Window": "نئی ونڈو",
+  "No batch sales recorded for this lot yet.": "اس لاٹ کی کوئی بیچ فروخت درج نہیں ہوئی۔",
+  "No cash inflows or receipts recorded for this period.": "اس مدت میں کوئی نقد آمدن یا وصولی درج نہیں ہوئی۔",
+  "No cash outflows or payouts recorded for this period.": "اس مدت میں کوئی نقد ادائیگی یا اخراج درج نہیں ہوا۔",
+  "No consignment lot record found.": "مال کے لاٹ کا کوئی ریکارڈ نہیں ملا۔",
+  "No consignment vouchers found matching filters.": "منتخب فلٹرز کے مطابق مال کی کوئی رسید نہیں ملی۔",
+  "No ledger entries found matching your criteria.": "آپ کے معیار کے مطابق کھاتے کا کوئی اندراج نہیں ملا۔",
+  "No ledger transaction entries found matching your search.": "آپ کی تلاش کے مطابق کھاتے کے لین دین نہیں ملے۔",
+  "No sale voucher record found for invoice preview.": "انوائس کے پیش منظر کے لیے فروخت کی کوئی رسید نہیں ملی۔",
+  "No transactions found for this period or filter parameters.": "اس مدت یا فلٹرز کے لیے کوئی لین دین نہیں ملا۔",
+  "No transactions match your current search or filters.": "آپ کی موجودہ تلاش یا فلٹرز کے مطابق کوئی لین دین نہیں ملا۔",
+  "No trend data available for single moment query.": "ایک لمحے کی تلاش کے لیے رجحان کا ڈیٹا دستیاب نہیں۔",
+  "OFFICIAL TAX INVOICE": "سرکاری ٹیکس انوائس",
+  "Opening Till (شروع کا کیش)": "ابتدائی نقد بیلنس",
+  "PDF Export": "PDF ڈاؤن لوڈ",
+  "Particulars": "تفصیل",
+  "Party / Source": "فریق / ذریعہ",
+  "Payment Terms:": "ادائیگی کی شرائط:",
+  "Payout vouchers disbursed": "ادائیگی کی رسیدیں جاری کی گئیں",
+  "Physical consignment arrivals and credit invoices generate future settlement payables/receivables, while cash sales and cashier vouchers directly adjust the running till.": "مال کی آمد اور ادھار انوائسز مستقبل کے قابل ادائیگی یا قابل وصول حساب بناتے ہیں، جبکہ نقد فروخت اور کیشیئر رسیدیں موجودہ نقد بیلنس کو براہ راست تبدیل کرتی ہیں۔",
+  "Print Consignment Report": "مال کی رپورٹ پرنٹ کریں",
+  "Print Ledger": "کھاتہ پرنٹ کریں",
+  "Print Lot Sheet": "لاٹ شیٹ پرنٹ کریں",
+  "Print Roznamcha": "روزنامچہ پرنٹ کریں",
+  "Product Description": "مصنوعات کی تفصیل",
+  "Registered Customers:": "رجسٹرڈ گاہک:",
+  "Report Filters": "رپورٹ کے فلٹر",
+  "Report Not Found": "رپورٹ نہیں ملی",
+  "Return Vouchers": "واپسی کی رسیدیں",
+  "Return to Reports Hub": "رپورٹس کے صفحے پر واپس جائیں",
+  "Returned Produce": "واپس شدہ مال",
+  "Sale Price": "فروخت کی قیمت",
+  "Sales Date:": "فروخت کی تاریخ:",
+  "Sales Turnover Value": "فروخت کا کاروباری حجم",
+  "Sales Vouchers": "فروخت کی رسیدیں",
+  "Select Beopari/Grower Catalog": "بیوپاری/کاشتکار منتخب کریں",
+  "Select Consignment Lot Sheet": "مال کا لاٹ منتخب کریں",
+  "Select Customer Portfolio": "گاہکوں کا کھاتہ منتخب کریں",
+  "Select Sale Voucher to Preview Invoice": "انوائس کا پیش منظر دیکھنے کے لیے فروخت کی رسید منتخب کریں",
+  "Sold Consignments & Mandi Turnover Report": "فروخت شدہ مال اور منڈی کاروبار کی رپورٹ",
+  "Sum of cash & bank receipts": "نقد اور بینک وصولیوں کا مجموعہ",
+  "Sum of filtered purchase vouchers": "فلٹر شدہ خریداری رسیدوں کا مجموعہ",
+  "TOTALS": "کل",
+  "TOTALS FOR FILTERED ROWS": "فلٹر شدہ قطاروں کا کل",
+  "The requested report ID \"": "درخواست کردہ رپورٹ آئی ڈی \"",
+  "Thermal 3-inch Slip": "تین انچ تھرمل رسید",
+  "Total Consignment Credits (Credit)": "مال کی فروخت کا کل کریڈٹ",
+  "Total Inflows (جمع / وصولیاں)": "کل آمدن (جمع / وصولیاں)",
+  "Total Outflows (بنام / ادائیگیاں)": "کل اخراجات (بنام / ادائیگیاں)",
+  "Total Payments Received (Credit)": "کل وصول شدہ ادائیگیاں (کریڈٹ)",
+  "Total Quantity Billed": "بل شدہ کل مقدار",
+  "Total Sales Billed (Debit)": "کل بل شدہ فروخت (ڈیبٹ)",
+  "Total Shop Kharcha / Expenses": "دکان کے کل اخراجات",
+  "Total Sold:": "کل فروخت:",
+  "Total Stock Arrived": "موصول شدہ کل مال",
+  "Total Stock Auctioned / Sold": "نیلام یا فروخت شدہ کل مال",
+  "Total items sold across lots": "تمام لاٹس میں فروخت شدہ اشیا کی کل تعداد",
+  "Total market turnover": "منڈی کا کل کاروبار",
+  "Total transaction vouchers": "لین دین کی کل رسیدیں",
+  "Total: Rs.": "کل: روپے",
+  "Transaction Sort Order": "لین دین کی ترتیب",
+  "Try widening your date range or clearing specific filter dropdowns.": "تاریخ کی مدت بڑھائیں یا کچھ فلٹرز صاف کر کے دوبارہ کوشش کریں۔",
+  "Turnover: Rs.": "کاروبار: روپے",
+  "Vehicle:": "گاڑی:",
+  "Visual Trend Analytics": "رجحان کا گرافی تجزیہ",
+  "Walk-In Customers:": "واک اِن گاہک:",
+  "cash & recovery credits": "نقد اور وصول شدہ کریڈٹ",
+  "crates": "کریٹس",
+  "crates returned": "واپس کیے گئے کریٹس",
+  "payouts & shop expenses": "ادائیگیاں اور دکان کے اخراجات",
+  "sales units": "فروخت کی مقدار",
+  "units @ Rs.": "یونٹ، فی روپے",
+  "↩️ Produce Returns (واپسی مال)": "واپس شدہ مال",
+  "⏳ Credit / Udhar (ادھار)": "کریڈٹ / ادھار",
+  "🏢 Shop & Staff Expenses (دکان و عملہ)": "دکان اور عملے کے اخراجات",
+  "🏦 Bank Account (بینک)": "بینک اکاؤنٹ",
+  "👤 Customers / Buyers (خریدار)": "گاہک / خریدار",
+  "💵 Cash Till (نقد روکڑ)": "نقد کھاتہ",
+  "💸 Shop Expenses (دکان خرچہ)": "دکان کے اخراجات",
+  "📊 Daily Mandi Analytics": "روزانہ منڈی تجزیہ",
+  "📑 Credit Invoices (ادھار بل)": "ادھار انوائسز",
+  "📖 T-Account Cash Book (دو طرفہ روزنامچہ)": "ٹی اکاؤنٹ کیش بک",
+  "📜 Cheque (چیک)": "چیک",
+  "📞 Tel/WhatsApp:": "فون / واٹس ایپ:",
+  "📤 Beopari/Grower Payments (ادائیگیاں)": "بیوپاری/کاشتکار کو ادائیگیاں",
+  "📥 Customer Receipts (وصولیاں)": "گاہکوں سے وصولیاں",
+  "📦 Consignment Arrivals (آمد مال)": "مال کی آمد",
+  "📱 Online / Wallet (ایزی پیسہ/جاز کیش)": "آن لائن / والیٹ",
+  "🚜 Beopari/Growers / Farmers (زمیندار/بیوپاری)": "بیوپاری / کاشتکار",
+  "🚶 Walk-In Buyers (عام گاہک)": "واک اِن خریدار",
+  "🛒 Walk-In Cash Sales (نقد فروخت)": "واک اِن نقد فروخت",
+  "🟢 Cash Flow Only / Rokar (نقد روکڑ)": "صرف نقد لین دین (روکڑ)",
+  "Consignment Vouchers Ledger (": "مال کی رسیدوں کا کھاتہ (",
+  "Invoices)": "انوائسز)",
+  "Statement Posting Entries (": "کھاتے کے اندراجات (",
+  "Beopari/Grower Ledger Postings (": "بیوپاری/کاشتکار کے کھاتے کے اندراجات (",
+  "From:": "سے:",
+  "From": "سے",
+  "Total Jama + Opening (": "کل جمع اور ابتدائی بیلنس (",
+  "Total Banam + Closing Till (": "کل بنام اور اختتامی نقد بیلنس (",
+  "Opening (": "ابتدائی بیلنس (",
+  ") + Jama (": ") + جمع (",
+  ") - Banam (": ") - بنام (",
+  ") = Closing (": ") = اختتامی بیلنس (",
+  "Till Reconciled: Rs.": "نقد کھاتے کا متوازن بیلنس: روپے",
+  "Produce Returns (واپسی مال)": "واپس شدہ مال",
+  "(Value: Rs.": "(رقم: روپے",
+  "| Beopari/Grower:": "| بیوپاری/کاشتکار:",
+  "| Product:": "| جنس:",
+  ") - Arrived:": ") - موصول مقدار:",
+  "Buyer: Rs.": "خریدار: روپے",
+  "| Supp: Rs.": "| سپلائر: روپے",
+  "Lot Ref: #": "لاٹ حوالہ نمبر: #",
+  "A4 Standard": "A4 معیاری",
+  "A5 Half Sheet": "A5 آدھا صفحہ",
+  ") - Bal: Rs.": ") - بیلنس: روپے",
+  "\" does not exist in Mandi OS configuration.": "\" منڈی او ایس کی رپورٹ فہرست میں موجود نہیں ہے۔",
+  "-- Choose Customer --": "-- گاہک منتخب کریں --",
+  "-- Choose Beopari/Grower --": "-- بیوپاری/کاشتکار منتخب کریں --",
+  "📋 Master Chronological Journal (": "📋 اہم زمانی ترتیب کا روزنامچہ (",
+  "Refresh Consignment Data": "مال کی رپورٹ تازہ کریں",
+  "CONSIGNMENT SALES & BROKERAGE TURNOVER REPORT": "مال کی فروخت اور آڑھتی کاروبار کی رپورٹ",
+  "Search Invoice#, Customer...": "انوائس نمبر یا گاہک تلاش کریں...",
+  "Refresh Ledger": "کھاتہ تازہ کریں",
+  "CUSTOMER ACCOUNT STATEMENT / KHATA": "گاہک کے کھاتے کی تفصیل / کھاتہ",
+  "Search voucher description...": "رسید کی تفصیل تلاش کریں...",
+  "Search party, lot, or item...": "فریق، لاٹ یا جنس تلاش کریں...",
+  "Filter by Transaction Nature": "لین دین کی نوعیت کے مطابق فلٹر کریں",
+  "Filter by Payment Mode": "ادائیگی کے طریقے کے مطابق فلٹر کریں",
+  "Filter by Party Entity": "فریق کی قسم کے مطابق فلٹر کریں",
+  "Reset all filters": "تمام فلٹرز ختم کریں",
+  "DAILY ROZNAMCHA / DAY BOOK STATEMENT": "روزانہ روزنامچہ / روزنامچہ اسٹیٹمنٹ",
+  "Open in a standalone window": "الگ ونڈو میں کھولیں",
+  "Company Logo": "کمپنی کا لوگو",
+  "Mandi Logo": "منڈی کا لوگو",
+  "BEOPARI/GROWER ACCOUNT STATEMENT / KHATA": "بیوپاری/کاشتکار کے کھاتے کی تفصیل / کھاتہ",
+  "Search description...": "تفصیل تلاش کریں...",
+  "General Statement Ledger": "عمومی کھاتے کی تفصیل",
+  "Customer General Ledger": "گاہکوں کا عمومی کھاتہ",
+  "Beopari/Grower General Ledger": "بیوپاری/کاشتکار کا عمومی کھاتہ",
+  "(Receivable)": "(قابل وصول)",
+  "(Advance / Credit)": "(ایڈوانس / کریڈٹ)",
+  "(Payable)": "(قابل ادائیگی)",
+  "(Advance / Debit)": "(ایڈوانس / ڈیبٹ)",
+  "All-Time": "تمام مدت",
+  "Present": "تاحال",
+  "Arrival": "آمد",
+  "kg": "کلوگرام",
+  "Opening Till": "ابتدائی نقد رقم",
+  "Total Inflows (Jama)": "کل آمدن (جمع)",
+  "Total Outflows (Banam)": "کل اخراجات (بنام)",
+  "Closing Till": "اختتامی نقد رقم",
+  "Debit / Banam": "ڈیبٹ / بنام",
+  "Credit / Jama": "کریڈٹ / جمع",
+  "Daily Hisab": "روزانہ حساب",
+  "Customer Daily Hisab": "گاہک کا روزانہ حساب",
+  "Beopari (Supplier) Daily Hisab": "بیوپاری کا روزانہ حساب",
+  "Previous Balance": "گزشتہ بقایا",
+  "Today's Purchases": "آج کی خریداری",
+  "Total Outstanding": "کل واجب الادا",
+  "Today's Payment": "آج کی ادائیگی",
+  "Remaining Balance": "باقی رقم",
+  "Daily Total": "روزانہ مجموعہ",
+  "Customer and supplier daily balances from existing ledger transactions": "گاہک اور بیوپاری کے روزانہ بیلنس موجودہ کھاتے کے لین دین سے",
+  "Search party name, phone, or Khata ID": "نام، فون یا کھاتہ آئی ڈی تلاش کریں",
+  "No matching parties found": "کوئی متعلقہ فریق نہیں ملا",
+  "Loading Daily Hisab...": "روزانہ حساب لوڈ ہو رہا ہے...",
+  "Failed to load Daily Hisab": "روزانہ حساب لوڈ نہیں ہوسکا",
+  "Print Daily Hisab": "روزانہ حساب پرنٹ کریں",
+  "Cash Disbursements & Receipts": "نقد ادائیگیاں اور وصولیاں",
+  "Recorded payment and receipt transactions": "درج شدہ ادائیگیوں اور وصولیوں کا ریکارڈ",
+  "Download Parchi": "پرچی ڈاؤن لوڈ کریں",
+  "Download Parchi PDF": "پرچی PDF ڈاؤن لوڈ کریں",
+  "Parchi": "پرچی",
+  "Delete payment": "ادائیگی حذف کریں",
+  "Payment / Receipt Parchi": "ادائیگی / وصولی کی پرچی",
+  "Disbursement": "ادائیگی",
+  "Total Amount": "کل رقم",
+  "Paid / Disbursement Amount": "ادا / تقسیم کی گئی رقم",
+  "Payment recorded, but Parchi PDF could not be downloaded.": "ادائیگی درج ہوگئی، لیکن پرچی PDF ڈاؤن لوڈ نہیں ہوسکی۔",
+  "Failed to download Parchi PDF.": "پرچی PDF ڈاؤن لوڈ نہیں ہوسکی۔",
+  "Negative balances represent an advance or credit balance.": "منفی بیلنس ایڈوانس یا کریڈٹ رقم کو ظاہر کرتا ہے۔",
+  "Receipt": "وصولی"
+  ,"Allocate to Own Trading Purchase (optional)": "اپنے کاروبار کی خریداری سے منسلک کریں (اختیاری)"
+  ,"General payment (not allocated)": "عام ادائیگی (منسلک نہیں)"
+  ,"Outstanding": "بقایا"
+  ,"Own Trading": "اپنا کاروبار"
+  ,"Own Trading purchase recorded and lots created.": "اپنے کاروبار کی خریداری درج ہوگئی اور لاٹس بن گئے۔"
+  ,"Failed to record Own Trading purchase.": "اپنے کاروبار کی خریداری درج نہیں ہوسکی۔"
+  ,"Cancel Own Trading Purchase?": "اپنے کاروبار کی خریداری منسوخ کریں؟"
+  ,"This reverses the purchase and removes linked stock only if no sales, returns, or stock adjustments exist. Any supplier advance remains as a supplier credit until refunded.": "یہ خریداری واپس کرے گا اور منسلک اسٹاک صرف اس صورت میں ہٹائے گا جب فروخت، واپسی یا اسٹاک کی تبدیلی نہ ہوئی ہو۔ سپلائر کی ایڈوانس واپسی تک اس کے کریڈٹ میں رہے گی۔"
+  ,"Cancel Purchase": "خریداری منسوخ کریں"
+  ,"Own Trading purchase cancelled.": "اپنے کاروبار کی خریداری منسوخ ہوگئی۔"
+  ,"Failed to cancel Own Trading purchase.": "اپنے کاروبار کی خریداری منسوخ نہیں ہوسکی۔"
+  ,"Own Trading Purchases": "اپنے کاروبار کی خریداریاں"
+  ,"Record purchases made by your business. Each item creates its own linked stock lot.": "اپنے کاروبار کی خریداری درج کریں۔ ہر شے کے لیے منسلک اسٹاک لاٹ بنے گا۔"
+  ,"Record Own Trading Purchase": "اپنے کاروبار کی خریداری درج کریں"
+  ,"Date / Reference": "تاریخ / حوالہ"
+  ,"Source / Truck": "منڈی / ٹرک"
+  ,"Items": "اشیا"
+  ,"Landed Cost": "مکمل لاگت"
+  ,"Own Trading Purchase": "Own Trading Purchase"
+  ,"This creates own-trading lots and supplier balances immediately. No settlement is required.": "اس سے اپنے کاروبار کے لاٹس اور سپلائر کا کھاتہ فوراً درج ہوگا۔ الگ تصفیے کی ضرورت نہیں۔"
+  ,"Suppliers and purchase items": "سپلائر اور خریداری کی اشیا"
+  ,"Each item is linked to its own supplier, product, and stock lot.": "ہر شے اپنے سپلائر، جنس اور اسٹاک لاٹ سے منسلک ہے۔"
+  ,"Add Supplier": "سپلائر شامل کریں"
+  ,"Supplier / Beopari": "سپلائر / بیوپاری"
+  ,"Advance Payment": "ایڈوانس ادائیگی"
+  ,"Remove Supplier": "سپلائر ہٹائیں"
+  ,"Record Purchase and Create Lots": "خریداری درج کرکے لاٹس بنائیں"
+  ,"Own Trading Report": "اپنے کاروبار کی رپورٹ"
+  ,"Purchase-to-sale activity for goods purchased by the business, including landed cost, inventory value, receivables, payables, and lot-wise trading profit.": "Purchase-to-sale activity for goods purchased by the business, including landed cost, inventory value, receivables, payables, and lot-wise trading profit."
+  ,"Tracks Own Trading purchases separately from commission consignments. Profit recognizes cost only for sold or wasted stock; unsold stock remains valued as inventory.": "Tracks Own Trading purchases separately from commission consignments. Profit recognizes cost only for sold or wasted stock; unsold stock remains valued as inventory."
+  ,"Landed cost = purchase line amount + allocated transport/loading/unloading/other costs. Cost of goods sold = net sold quantity × landed unit cost. Remaining inventory is valued at landed unit cost and is not included in sold cost. Gross trading profit = sales revenue after approved returns − cost of goods sold. Wastage cost is deducted separately for net trading profit.": "Landed cost = purchase line amount + allocated transport/loading/unloading/other costs. Cost of goods sold = net sold quantity × landed unit cost. Remaining inventory is valued at landed unit cost and is not included in sold cost. Gross trading profit = sales revenue after approved returns − cost of goods sold. Wastage cost is deducted separately for net trading profit."
+  ,"Purchase Reference": "خریداری حوالہ"
+  ,"Source Mandi": "خریداری کی منڈی"
+  ,"Lot ID": "لاٹ نمبر"
+  ,"Purchased Qty": "خریدی گئی مقدار"
+  ,"Allocated Expenses": "تقسیم شدہ اخراجات"
+  ,"Landed Cost / Unit": "فی یونٹ مکمل لاگت"
+  ,"Wasted Qty": "ضائع مقدار"
+  ,"Sales Revenue": "فروخت کی آمدن"
+  ,"Cost of Goods Sold": "فروخت شدہ مال کی لاگت"
+  ,"Gross Trading Profit": "مجموعی کاروباری منافع"
+  ,"Wastage Cost": "ضیاع کی لاگت"
+  ,"Net Trading Profit": "خالص کاروباری منافع"
+  ,"Supplier Payments": "سپلائر کو ادائیگیاں"
+  ,"Supplier Payable": "سپلائر کی واجب الادا رقم"
+  ,"Customer Recoveries": "گاہک سے وصولی"
+  ,"Customer Receivable": "گاہک سے وصول طلب رقم"
+  ,"Unpaid": "غیر ادا شدہ"
+  ,"OwnTradingPurchases": "اپنے کاروبار کی خریداریاں"
+  ,"Returned Produce Condition": "واپس شدہ مال کی حالت"
+  ,"Damaged or spoiled Own Trading returns are recorded as wastage and are not restocked.": "اپنے کاروبار میں خراب یا سڑا ہوا واپس شدہ مال ضیاع میں درج ہوگا اور دوبارہ اسٹاک میں شامل نہیں ہوگا۔"
+  ,"Own Trading Sale Summary": "اپنے کاروبار کی فروخت کا خلاصہ"
+
+}
